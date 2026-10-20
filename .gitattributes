@@ -3,6 +3,6 @@
 *.md text eol=lf
 *.json text eol=lf
 *.ipynb text eol=lf
-*.csv text eol=lf
+*.csv -text
 *.joblib binary
 *.png binary

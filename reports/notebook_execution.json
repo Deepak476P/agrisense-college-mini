@@ -1,0 +1,32 @@
+[
+  {
+    "notebook": "00_project_guide.ipynb",
+    "status": "passed",
+    "code_cells": 3,
+    "seconds": 10.08
+  },
+  {
+    "notebook": "01_crop_recommendation.ipynb",
+    "status": "passed",
+    "code_cells": 9,
+    "seconds": 7.52
+  },
+  {
+    "notebook": "02_fertilizer_advice.ipynb",
+    "status": "passed",
+    "code_cells": 11,
+    "seconds": 6.95
+  },
+  {
+    "notebook": "03_yield_and_economics.ipynb",
+    "status": "passed",
+    "code_cells": 10,
+    "seconds": 13.81
+  },
+  {
+    "notebook": "04_leaf_image_analysis.ipynb",
+    "status": "passed",
+    "code_cells": 7,
+    "seconds": 4.19
+  }
+]
