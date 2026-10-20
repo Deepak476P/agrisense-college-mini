@@ -1,0 +1,2501 @@
+Crop,Season,State,Irrigation_Type,Area_ha,Rainfall_mm,Temperature_c,Fertilizer_kg_ha,Yield_tons_per_ha,Production_tons
+Sugarcane,Zaid,Tamil Nadu,Drip,35.28,1188.1,29.7,220.9,96.34,3398.88
+Potato,Kharif,Gujarat,Sprinkler,45.24,1473.8,33.9,214.0,22.85,1033.73
+Sugarcane,Rabi,Punjab,Sprinkler,7.58,233.0,17.5,233.9,74.38,563.8
+Cotton,Zaid,Haryana,Sprinkler,7.96,1438.3,22.1,189.8,2.4,19.1
+Maize,Whole Year,Maharashtra,Sprinkler,21.36,534.5,35.0,177.2,4.34,92.7
+Tomato,Whole Year,Gujarat,Rainfed,40.02,984.4,18.9,147.4,23.99,960.08
+Sugarcane,Rabi,Maharashtra,Drip,46.9,295.0,20.8,101.0,69.36,3252.98
+Wheat,Whole Year,Madhya Pradesh,Rainfed,37.68,1215.1,27.2,222.2,2.71,102.11
+Cotton,Kharif,Tamil Nadu,Drip,15.84,384.8,32.2,126.5,2.99,47.36
+Sugarcane,Kharif,Haryana,Sprinkler,44.11,1249.1,31.0,229.5,90.26,3981.37
+Soybean,Kharif,Uttar Pradesh,Tube Well,21.67,322.3,17.4,240.0,2.71,58.73
+Rice,Zaid,Maharashtra,Tube Well,4.48,1054.2,17.1,106.8,3.3,14.78
+Maize,Whole Year,Punjab,Tube Well,1.92,1520.1,21.9,130.8,2.35,4.51
+Wheat,Rabi,Karnataka,Drip,45.99,982.2,20.4,56.2,3.65,167.86
+Cotton,Whole Year,West Bengal,Rainfed,30.88,932.8,31.5,55.8,1.72,53.11
+Potato,Whole Year,Maharashtra,Rainfed,27.52,649.4,26.1,160.5,24.37,670.66
+Mustard,Rabi,Madhya Pradesh,Drip,15.57,1110.2,17.9,185.5,1.89,29.43
+Soybean,Rabi,Gujarat,Canal,32.59,1418.6,29.9,153.9,2.32,75.61
+Groundnut,Kharif,West Bengal,Canal,21.03,1463.4,21.2,51.8,1.81,38.06
+Groundnut,Zaid,Maharashtra,Rainfed,5.62,1268.3,19.2,218.1,1.91,10.73
+Rice,Zaid,Tamil Nadu,Drip,16.6,331.8,21.4,193.1,4.13,68.56
+Wheat,Whole Year,Haryana,Rainfed,18.94,1379.9,35.5,91.1,2.6,49.24
+Tomato,Whole Year,Andhra Pradesh,Tube Well,35.94,780.0,19.1,200.4,24.67,886.64
+Groundnut,Whole Year,Karnataka,Rainfed,29.46,1319.8,26.1,172.2,1.79,52.73
+Mustard,Kharif,Karnataka,Rainfed,7.06,1106.9,26.7,126.3,1.23,8.68
+Potato,Whole Year,Haryana,Rainfed,47.14,1076.2,28.1,124.9,17.7,834.38
+Rice,Whole Year,Tamil Nadu,Drip,36.48,1356.5,20.4,98.2,4.37,159.42
+Wheat,Rabi,Maharashtra,Canal,32.33,607.5,27.4,203.7,5.41,174.91
+Groundnut,Rabi,Haryana,Sprinkler,31.69,807.3,22.2,92.5,2.23,70.67
+Maize,Whole Year,Uttar Pradesh,Rainfed,36.28,1039.8,18.4,62.3,2.39,86.71
+Soybean,Whole Year,West Bengal,Canal,27.58,879.3,34.3,160.5,2.41,66.47
+Potato,Kharif,Punjab,Canal,28.25,709.4,15.7,136.3,28.67,809.93
+Wheat,Zaid,Madhya Pradesh,Tube Well,32.33,1095.6,29.1,127.5,2.75,88.91
+Wheat,Whole Year,West Bengal,Rainfed,2.76,512.3,24.5,189.5,3.84,10.6
+Rice,Whole Year,Gujarat,Canal,32.83,997.7,16.4,81.7,4.11,134.93
+Cotton,Zaid,Maharashtra,Tube Well,26.7,1180.9,28.9,230.6,1.7,45.39
+Tomato,Kharif,Madhya Pradesh,Canal,42.24,1545.2,23.5,95.0,23.78,1004.47
+Potato,Zaid,Madhya Pradesh,Tube Well,43.71,1307.9,29.6,153.1,18.55,810.82
+Cotton,Kharif,Punjab,Sprinkler,10.18,702.4,15.8,106.6,2.6,26.47
+Rice,Whole Year,Tamil Nadu,Drip,28.91,646.0,23.8,192.6,5.39,155.82
+Cotton,Whole Year,Punjab,Canal,5.46,1015.6,34.2,81.4,2.17,11.85
+Potato,Whole Year,Andhra Pradesh,Drip,33.25,513.5,19.6,85.2,22.09,734.49
+Cotton,Kharif,Maharashtra,Canal,1.53,1366.1,25.8,81.4,2.08,3.18
+Wheat,Zaid,Haryana,Tube Well,41.78,660.0,21.4,247.5,3.28,137.04
+Maize,Kharif,Tamil Nadu,Tube Well,19.37,385.0,20.0,178.5,3.02,58.5
+Tomato,Rabi,Andhra Pradesh,Canal,34.59,680.4,28.3,176.6,30.65,1060.18
+Wheat,Whole Year,Haryana,Drip,19.67,671.0,21.1,119.1,3.87,76.12
+Soybean,Rabi,Punjab,Sprinkler,18.17,241.3,15.5,77.9,2.45,44.52
+Soybean,Zaid,Tamil Nadu,Canal,12.47,587.6,19.0,173.6,2.85,35.54
+Wheat,Kharif,Haryana,Rainfed,14.86,1360.3,33.9,215.0,3.13,46.51
+Mustard,Rabi,Tamil Nadu,Canal,8.06,688.6,27.3,77.8,2.12,17.09
+Wheat,Rabi,West Bengal,Canal,29.91,1289.4,17.4,121.4,3.66,109.47
+Mustard,Whole Year,Uttar Pradesh,Tube Well,41.23,428.2,31.4,185.0,1.74,71.74
+Mustard,Kharif,Haryana,Tube Well,45.45,997.5,33.5,214.8,1.33,60.45
+Mustard,Zaid,Tamil Nadu,Tube Well,8.12,1363.1,33.1,155.6,1.3,10.56
+Rice,Rabi,Maharashtra,Canal,9.89,1553.6,27.7,212.7,4.29,42.43
+Groundnut,Whole Year,Karnataka,Tube Well,25.71,920.4,35.8,96.6,1.64,42.16
+Wheat,Zaid,Uttar Pradesh,Canal,32.8,795.1,32.0,233.8,4.86,159.41
+Rice,Kharif,Uttar Pradesh,Rainfed,49.55,577.8,31.0,61.9,2.81,139.24
+Wheat,Whole Year,Gujarat,Sprinkler,31.05,1021.1,31.8,166.7,3.68,114.26
+Mustard,Rabi,Uttar Pradesh,Tube Well,38.34,451.1,20.0,128.9,1.4,53.68
+Mustard,Kharif,Andhra Pradesh,Rainfed,1.96,862.1,31.1,222.4,1.49,2.92
+Soybean,Kharif,Uttar Pradesh,Rainfed,38.87,1055.7,32.9,116.1,1.87,72.69
+Rice,Zaid,Uttar Pradesh,Drip,31.74,1330.7,31.3,109.6,3.82,121.25
+Rice,Zaid,Andhra Pradesh,Sprinkler,31.78,377.7,19.1,154.7,3.19,101.38
+Groundnut,Rabi,Haryana,Sprinkler,5.31,1553.8,20.6,188.1,2.09,11.1
+Mustard,Zaid,West Bengal,Tube Well,29.95,1119.6,31.4,171.2,1.42,42.53
+Tomato,Rabi,Andhra Pradesh,Sprinkler,29.13,368.9,18.5,214.1,29.52,859.92
+Cotton,Rabi,Karnataka,Rainfed,2.28,658.0,23.8,147.2,1.74,3.97
+Soybean,Zaid,Tamil Nadu,Rainfed,22.29,730.8,35.8,243.4,2.57,57.29
+Sugarcane,Whole Year,Madhya Pradesh,Drip,21.03,1235.5,33.9,86.0,72.49,1524.46
+Tomato,Whole Year,Andhra Pradesh,Drip,37.81,283.3,22.1,107.6,25.69,971.34
+Mustard,Whole Year,Karnataka,Tube Well,15.67,1088.3,33.5,141.0,1.31,20.53
+Wheat,Kharif,Andhra Pradesh,Sprinkler,1.3,1364.5,17.1,66.3,2.96,3.85
+Soybean,Rabi,Andhra Pradesh,Sprinkler,29.22,1072.6,32.3,197.3,2.96,86.49
+Potato,Rabi,Karnataka,Sprinkler,10.82,1164.0,32.9,131.9,23.14,250.37
+Potato,Zaid,Andhra Pradesh,Canal,19.55,1502.4,21.0,144.2,22.33,436.55
+Groundnut,Kharif,Andhra Pradesh,Rainfed,40.5,283.6,19.1,183.6,1.88,76.14
+Soybean,Zaid,Madhya Pradesh,Sprinkler,2.03,1051.8,35.2,182.2,2.56,5.2
+Soybean,Zaid,West Bengal,Rainfed,7.05,368.3,25.3,116.1,2.26,15.93
+Potato,Whole Year,Gujarat,Canal,14.3,795.2,19.4,176.6,27.46,392.68
+Rice,Rabi,Punjab,Canal,29.67,771.5,28.7,240.5,5.34,158.44
+Cotton,Rabi,West Bengal,Drip,46.17,499.6,32.4,231.1,2.84,131.12
+Rice,Rabi,Karnataka,Tube Well,33.87,634.2,23.5,173.6,3.35,113.46
+Rice,Kharif,Tamil Nadu,Tube Well,40.91,635.9,27.1,91.7,3.44,140.73
+Wheat,Kharif,Uttar Pradesh,Sprinkler,12.36,1340.6,19.7,236.9,3.65,45.11
+Mustard,Kharif,Haryana,Tube Well,8.26,462.2,24.4,154.4,1.58,13.05
+Potato,Rabi,Karnataka,Rainfed,21.06,1059.4,18.9,79.1,18.25,384.34
+Cotton,Whole Year,Uttar Pradesh,Canal,45.07,701.9,25.1,230.9,2.95,132.96
+Tomato,Whole Year,Karnataka,Tube Well,8.94,1063.4,33.8,236.3,25.79,230.56
+Potato,Zaid,Gujarat,Rainfed,32.02,1049.4,25.1,238.9,24.88,796.66
+Soybean,Zaid,Uttar Pradesh,Rainfed,9.18,1219.9,20.0,144.9,1.82,16.71
+Groundnut,Rabi,Tamil Nadu,Tube Well,36.31,663.5,27.7,215.0,2.29,83.15
+Cotton,Zaid,Uttar Pradesh,Sprinkler,27.74,516.8,32.2,58.6,2.17,60.2
+Potato,Whole Year,Punjab,Drip,9.97,1333.6,34.0,152.1,23.75,236.79
+Potato,Whole Year,Karnataka,Canal,16.98,322.5,35.8,95.8,21.52,365.41
+Soybean,Zaid,Uttar Pradesh,Drip,11.31,1299.4,17.3,229.0,2.88,32.57
+Groundnut,Rabi,Haryana,Canal,43.11,370.8,18.3,158.8,2.92,125.88
+Potato,Zaid,Punjab,Drip,29.21,721.6,18.0,157.0,31.02,906.09
+Rice,Kharif,Andhra Pradesh,Drip,22.39,768.5,19.9,56.1,3.8,85.08
+Wheat,Kharif,Haryana,Rainfed,34.37,1526.6,26.9,129.4,2.61,89.71
+Mustard,Kharif,West Bengal,Tube Well,21.88,1383.1,30.0,106.6,1.19,26.04
+Soybean,Whole Year,Karnataka,Rainfed,7.02,913.9,22.1,118.4,2.02,14.18
+Sugarcane,Whole Year,Madhya Pradesh,Canal,29.39,658.3,21.8,125.8,85.76,2520.49
+Tomato,Kharif,Tamil Nadu,Tube Well,39.42,381.0,34.2,167.5,23.69,933.86
+Soybean,Kharif,Maharashtra,Drip,24.8,385.3,17.2,195.1,2.68,66.46
+Groundnut,Zaid,Andhra Pradesh,Canal,25.47,1323.9,20.9,105.3,2.05,52.21
+Cotton,Whole Year,Gujarat,Canal,42.22,286.5,21.7,78.5,2.5,105.55
+Sugarcane,Rabi,Punjab,Rainfed,16.32,537.0,33.6,220.5,70.47,1150.07
+Tomato,Zaid,Uttar Pradesh,Tube Well,46.4,678.6,28.6,184.9,24.53,1138.19
+Rice,Zaid,Andhra Pradesh,Tube Well,31.92,671.0,32.0,200.8,3.7,118.1
+Rice,Zaid,West Bengal,Drip,29.3,1393.1,23.2,153.3,4.37,128.04
+Cotton,Zaid,Gujarat,Rainfed,26.87,359.2,20.7,141.4,2.26,60.73
+Cotton,Rabi,West Bengal,Tube Well,40.33,1575.0,33.7,89.1,1.67,67.35
+Maize,Kharif,Karnataka,Drip,22.06,1037.1,16.3,129.7,3.18,70.15
+Tomato,Rabi,Madhya Pradesh,Sprinkler,6.01,261.6,30.0,88.5,23.61,141.9
+Rice,Whole Year,Tamil Nadu,Sprinkler,41.21,852.6,27.6,117.2,4.01,165.25
+Cotton,Zaid,Madhya Pradesh,Canal,17.44,1590.4,35.7,88.0,1.95,34.01
+Rice,Rabi,Gujarat,Tube Well,21.41,397.8,27.4,249.3,3.71,79.43
+Mustard,Zaid,Uttar Pradesh,Rainfed,4.45,1445.6,19.2,201.4,1.42,6.32
+Groundnut,Kharif,Gujarat,Rainfed,48.6,330.8,27.3,208.0,2.12,103.03
+Wheat,Kharif,Haryana,Rainfed,26.16,359.5,28.6,139.3,3.4,88.94
+Tomato,Rabi,West Bengal,Tube Well,28.58,721.1,17.9,139.9,24.15,690.21
+Rice,Kharif,Andhra Pradesh,Sprinkler,31.78,1527.4,26.3,177.7,3.62,115.04
+Tomato,Zaid,Gujarat,Rainfed,17.55,1158.1,32.4,116.5,20.89,366.62
+Cotton,Zaid,Andhra Pradesh,Tube Well,32.21,632.1,19.7,241.5,2.35,75.69
+Mustard,Zaid,Madhya Pradesh,Rainfed,13.17,1049.1,30.5,244.8,1.54,20.28
+Sugarcane,Rabi,Tamil Nadu,Rainfed,47.38,345.4,22.2,76.8,55.31,2620.59
+Rice,Whole Year,Maharashtra,Tube Well,28.7,494.3,26.5,209.8,3.48,99.88
+Soybean,Kharif,West Bengal,Canal,21.73,1487.7,28.5,129.7,2.5,54.33
+Soybean,Whole Year,Tamil Nadu,Rainfed,1.8,657.7,34.8,180.8,2.07,3.73
+Rice,Rabi,Gujarat,Sprinkler,48.47,914.6,20.9,106.9,3.98,192.91
+Maize,Whole Year,Madhya Pradesh,Sprinkler,12.3,208.3,27.6,151.6,3.28,40.34
+Sugarcane,Whole Year,Gujarat,Drip,11.9,665.5,22.4,111.8,83.78,996.98
+Maize,Kharif,Punjab,Drip,49.07,1587.7,22.5,139.0,3.13,153.59
+Mustard,Kharif,Karnataka,Rainfed,11.08,675.1,19.8,99.0,1.48,16.4
+Potato,Rabi,Karnataka,Sprinkler,48.87,1537.2,31.7,125.4,21.56,1053.64
+Mustard,Kharif,Gujarat,Tube Well,41.86,356.2,35.4,188.7,1.77,74.09
+Sugarcane,Rabi,Gujarat,Rainfed,15.27,1012.1,32.3,122.7,61.97,946.28
+Sugarcane,Whole Year,Tamil Nadu,Canal,3.24,254.2,25.3,101.1,61.97,200.78
+Sugarcane,Rabi,Haryana,Tube Well,18.29,1390.6,29.9,104.3,51.17,935.9
+Rice,Zaid,West Bengal,Rainfed,33.84,1098.2,34.9,126.7,3.26,110.32
+Cotton,Whole Year,Gujarat,Tube Well,36.73,727.8,18.3,167.3,2.12,77.87
+Soybean,Whole Year,West Bengal,Drip,2.49,1049.1,22.0,133.6,2.3,5.73
+Potato,Rabi,Haryana,Rainfed,45.02,504.9,23.9,244.4,28.9,1301.08
+Rice,Rabi,Punjab,Rainfed,44.01,525.7,27.3,78.6,3.04,133.79
+Tomato,Rabi,Gujarat,Sprinkler,2.56,582.8,33.9,75.9,23.08,59.08
+Groundnut,Kharif,Gujarat,Tube Well,14.95,1125.9,17.4,128.5,1.59,23.77
+Sugarcane,Whole Year,Karnataka,Sprinkler,39.61,832.1,29.2,205.2,89.5,3545.09
+Rice,Zaid,Maharashtra,Sprinkler,14.58,1525.6,32.8,168.5,3.69,53.8
+Tomato,Zaid,Karnataka,Rainfed,47.58,719.4,18.5,104.8,21.79,1036.77
+Soybean,Zaid,Uttar Pradesh,Sprinkler,39.09,1194.2,19.3,73.2,1.79,69.97
+Mustard,Rabi,Punjab,Canal,26.83,657.5,30.9,112.8,1.92,51.51
+Cotton,Rabi,Uttar Pradesh,Rainfed,25.39,876.8,22.7,104.3,1.78,45.19
+Tomato,Rabi,Haryana,Sprinkler,3.56,1527.2,27.0,145.5,23.72,84.44
+Wheat,Rabi,Madhya Pradesh,Rainfed,30.51,245.0,15.7,194.3,3.29,100.38
+Cotton,Kharif,Uttar Pradesh,Canal,16.43,230.1,32.0,94.6,2.75,45.18
+Mustard,Kharif,Andhra Pradesh,Drip,23.6,213.4,19.5,216.5,2.15,50.74
+Potato,Zaid,Tamil Nadu,Rainfed,41.08,1004.8,24.8,179.4,24.01,986.33
+Potato,Kharif,Maharashtra,Canal,45.27,400.1,28.8,99.8,25.05,1134.01
+Groundnut,Kharif,Maharashtra,Rainfed,43.39,1330.4,28.8,78.3,1.49,64.65
+Sugarcane,Kharif,Gujarat,Drip,21.78,847.4,26.4,246.4,98.75,2150.78
+Groundnut,Whole Year,Karnataka,Drip,36.81,716.9,22.0,227.8,3.16,116.32
+Potato,Rabi,Uttar Pradesh,Sprinkler,5.93,1090.8,29.8,229.8,25.61,151.87
+Groundnut,Zaid,Punjab,Tube Well,19.76,349.4,17.8,217.4,2.14,42.29
+Groundnut,Rabi,Punjab,Rainfed,15.67,465.3,16.6,167.2,2.39,37.45
+Wheat,Whole Year,Madhya Pradesh,Canal,29.91,970.4,27.8,189.1,4.43,132.5
+Wheat,Rabi,Gujarat,Drip,5.95,1389.6,31.8,150.8,3.43,20.41
+Wheat,Kharif,Madhya Pradesh,Tube Well,9.94,1221.8,28.7,61.5,2.47,24.55
+Wheat,Whole Year,Maharashtra,Sprinkler,9.54,953.7,23.3,133.1,3.56,33.96
+Soybean,Whole Year,Andhra Pradesh,Rainfed,8.56,899.4,31.6,138.7,1.99,17.03
+Tomato,Rabi,Uttar Pradesh,Tube Well,28.19,803.6,17.8,91.6,19.39,546.6
+Cotton,Whole Year,Haryana,Drip,34.78,975.9,34.7,231.6,2.66,92.51
+Tomato,Rabi,Madhya Pradesh,Sprinkler,18.83,1298.5,29.4,65.7,21.36,402.21
+Cotton,Rabi,Haryana,Canal,34.49,1054.1,35.4,237.1,3.04,104.85
+Tomato,Kharif,Punjab,Canal,18.74,694.5,30.9,206.0,36.33,680.82
+Maize,Rabi,Madhya Pradesh,Drip,36.02,312.6,27.4,53.4,2.8,100.86
+Tomato,Kharif,Maharashtra,Sprinkler,44.79,469.2,16.8,175.4,32.23,1443.58
+Rice,Whole Year,Tamil Nadu,Tube Well,15.72,1596.4,23.5,92.5,2.42,38.04
+Sugarcane,Kharif,Maharashtra,Canal,40.01,503.3,34.0,208.3,98.61,3945.39
+Groundnut,Zaid,Tamil Nadu,Drip,16.22,991.2,20.7,247.0,2.8,45.42
+Rice,Zaid,Andhra Pradesh,Canal,31.14,518.3,33.3,210.1,4.55,141.69
+Sugarcane,Rabi,Maharashtra,Rainfed,25.57,723.5,19.7,161.5,71.71,1833.62
+Groundnut,Kharif,Tamil Nadu,Canal,35.06,1108.1,29.1,179.0,2.67,93.61
+Groundnut,Kharif,Gujarat,Canal,3.22,854.8,23.9,122.0,2.57,8.28
+Potato,Kharif,Uttar Pradesh,Canal,44.72,1591.4,35.4,193.6,25.42,1136.78
+Cotton,Rabi,Maharashtra,Rainfed,45.11,1469.8,22.9,110.9,1.36,61.35
+Wheat,Kharif,Maharashtra,Sprinkler,29.3,705.4,28.9,162.9,3.76,110.17
+Rice,Kharif,Tamil Nadu,Sprinkler,9.12,904.6,28.7,59.0,3.89,35.48
+Mustard,Kharif,West Bengal,Canal,17.43,1205.2,16.3,191.9,1.79,31.2
+Potato,Whole Year,Maharashtra,Tube Well,47.52,949.8,27.2,173.0,20.15,957.53
+Tomato,Rabi,Gujarat,Rainfed,5.2,575.5,21.7,159.5,25.39,132.03
+Rice,Zaid,Andhra Pradesh,Tube Well,21.37,695.5,26.6,137.1,3.19,68.17
+Groundnut,Rabi,West Bengal,Sprinkler,22.76,933.4,23.4,193.5,2.6,59.18
+Mustard,Kharif,Maharashtra,Canal,1.68,1476.6,20.8,227.6,1.79,3.01
+Soybean,Kharif,Haryana,Sprinkler,32.67,485.9,29.6,50.6,2.08,67.95
+Tomato,Kharif,Gujarat,Rainfed,26.27,1103.4,35.3,216.6,23.13,607.63
+Tomato,Kharif,Tamil Nadu,Rainfed,42.57,737.6,24.7,104.4,24.84,1057.44
+Wheat,Kharif,Haryana,Tube Well,13.89,1373.8,19.1,156.4,2.37,32.92
+Maize,Whole Year,Haryana,Drip,36.64,457.7,32.3,93.2,4.2,153.89
+Wheat,Rabi,Haryana,Canal,8.18,234.9,34.5,75.1,4.01,32.8
+Potato,Zaid,West Bengal,Canal,9.74,1019.5,26.5,225.2,31.47,306.52
+Soybean,Whole Year,Uttar Pradesh,Canal,33.88,527.2,20.3,194.1,3.07,104.01
+Tomato,Whole Year,Punjab,Rainfed,36.3,1185.6,29.7,233.2,25.78,935.81
+Cotton,Zaid,Karnataka,Sprinkler,38.21,1413.3,20.5,173.3,1.99,76.04
+Potato,Rabi,Punjab,Tube Well,30.06,1044.1,34.0,143.5,19.59,588.88
+Potato,Kharif,Maharashtra,Tube Well,22.77,1414.3,22.9,120.6,15.52,353.39
+Mustard,Rabi,Maharashtra,Sprinkler,25.67,1387.1,26.6,171.5,1.57,40.3
+Tomato,Rabi,Andhra Pradesh,Rainfed,7.31,1496.0,19.2,66.3,15.22,111.26
+Potato,Zaid,Madhya Pradesh,Canal,25.06,1124.9,22.7,55.6,20.3,508.72
+Rice,Zaid,Tamil Nadu,Tube Well,4.6,828.8,28.3,88.1,3.53,16.24
+Wheat,Rabi,Punjab,Rainfed,38.19,651.6,20.1,197.6,4.24,161.93
+Potato,Whole Year,Gujarat,Tube Well,34.72,684.1,24.0,195.3,22.41,778.08
+Mustard,Zaid,West Bengal,Rainfed,27.76,478.9,23.6,156.4,1.43,39.7
+Soybean,Rabi,West Bengal,Canal,48.75,350.9,19.3,118.3,2.91,141.86
+Mustard,Whole Year,Haryana,Rainfed,19.11,1005.0,20.7,84.6,1.15,21.98
+Maize,Kharif,Andhra Pradesh,Canal,22.97,1245.3,26.6,171.8,2.94,67.53
+Mustard,Whole Year,Tamil Nadu,Canal,33.59,1227.3,24.9,179.0,1.79,60.13
+Mustard,Zaid,Karnataka,Drip,16.7,966.8,27.7,144.5,1.9,31.73
+Sugarcane,Rabi,Karnataka,Drip,42.71,667.6,18.0,106.4,85.89,3668.36
+Tomato,Rabi,Karnataka,Canal,40.82,502.0,24.4,113.6,28.42,1160.1
+Cotton,Whole Year,Uttar Pradesh,Tube Well,41.52,1409.6,27.0,223.4,1.78,73.91
+Soybean,Zaid,Madhya Pradesh,Sprinkler,20.53,237.3,32.6,85.4,2.13,43.73
+Groundnut,Kharif,West Bengal,Tube Well,16.87,657.7,31.6,192.2,2.41,40.66
+Sugarcane,Rabi,Andhra Pradesh,Tube Well,41.55,572.3,33.7,169.4,62.22,2585.24
+Tomato,Kharif,Uttar Pradesh,Drip,42.5,1125.5,32.4,91.7,25.66,1090.55
+Sugarcane,Whole Year,Andhra Pradesh,Drip,33.36,1374.6,25.0,193.5,85.71,2859.29
+Groundnut,Rabi,Madhya Pradesh,Drip,15.98,385.1,21.7,126.2,2.76,44.1
+Rice,Whole Year,West Bengal,Canal,5.3,843.0,34.9,230.2,5.58,29.57
+Soybean,Zaid,Madhya Pradesh,Tube Well,5.42,1300.6,21.8,183.6,2.26,12.25
+Tomato,Zaid,West Bengal,Canal,43.96,823.7,20.2,95.1,25.6,1125.38
+Sugarcane,Zaid,Uttar Pradesh,Sprinkler,23.6,371.3,24.3,59.4,58.37,1377.53
+Potato,Rabi,Tamil Nadu,Rainfed,25.95,1360.3,19.8,216.2,18.31,475.14
+Rice,Kharif,Andhra Pradesh,Drip,17.33,940.8,22.3,224.0,4.55,78.85
+Tomato,Whole Year,West Bengal,Drip,34.76,200.5,16.3,136.5,29.2,1014.99
+Cotton,Zaid,Gujarat,Sprinkler,3.75,865.0,19.4,68.2,2.08,7.8
+Tomato,Zaid,Madhya Pradesh,Drip,27.34,1248.7,17.4,208.2,29.02,793.41
+Cotton,Kharif,West Bengal,Rainfed,35.95,259.8,20.4,84.2,1.82,65.43
+Wheat,Zaid,Gujarat,Drip,8.35,1241.7,27.5,65.7,3.3,27.55
+Soybean,Whole Year,Gujarat,Canal,34.68,790.7,34.5,142.9,2.99,103.69
+Maize,Kharif,Uttar Pradesh,Drip,39.98,1105.9,35.3,218.7,3.44,137.53
+Soybean,Rabi,Punjab,Sprinkler,14.43,1093.5,30.3,165.6,2.47,35.64
+Cotton,Zaid,Madhya Pradesh,Sprinkler,24.55,822.6,26.2,169.6,2.57,63.09
+Mustard,Rabi,Gujarat,Canal,46.9,290.3,26.5,67.5,2.01,94.27
+Tomato,Rabi,Karnataka,Rainfed,46.91,218.3,23.2,206.4,26.08,1223.41
+Maize,Rabi,Karnataka,Canal,14.33,433.7,18.9,57.3,3.31,47.43
+Mustard,Rabi,Madhya Pradesh,Rainfed,18.7,889.8,22.5,160.5,1.57,29.36
+Sugarcane,Kharif,Punjab,Drip,32.79,990.5,22.7,178.4,82.44,2703.21
+Groundnut,Whole Year,West Bengal,Rainfed,17.95,958.9,20.4,103.4,1.84,33.03
+Cotton,Rabi,Uttar Pradesh,Canal,49.32,414.9,15.7,199.1,3.09,152.4
+Wheat,Zaid,Madhya Pradesh,Drip,12.04,909.6,24.3,119.1,3.22,38.77
+Cotton,Kharif,Madhya Pradesh,Tube Well,49.53,572.0,32.7,131.3,1.94,96.09
+Sugarcane,Whole Year,West Bengal,Tube Well,34.73,1259.6,19.4,174.5,68.81,2389.77
+Mustard,Whole Year,Karnataka,Drip,14.88,999.2,16.3,242.0,2.15,31.99
+Sugarcane,Zaid,Maharashtra,Rainfed,37.49,1458.4,20.5,175.8,61.72,2313.88
+Maize,Whole Year,Haryana,Canal,48.34,315.3,34.0,219.1,4.16,201.09
+Groundnut,Whole Year,Gujarat,Rainfed,28.03,893.5,22.0,193.1,2.18,61.11
+Rice,Zaid,West Bengal,Canal,35.07,679.0,21.7,206.9,5.04,176.75
+Groundnut,Kharif,Maharashtra,Drip,40.88,930.2,34.1,144.6,2.38,97.29
+Mustard,Whole Year,Punjab,Canal,15.03,974.6,27.0,176.0,1.78,26.75
+Potato,Kharif,Haryana,Rainfed,20.36,1375.7,28.3,83.3,17.28,351.82
+Sugarcane,Whole Year,West Bengal,Rainfed,27.36,1423.8,16.1,134.9,56.05,1533.53
+Wheat,Whole Year,Madhya Pradesh,Canal,48.85,500.8,34.6,91.1,4.13,201.75
+Mustard,Zaid,Haryana,Tube Well,4.5,1449.1,18.6,135.0,1.29,5.8
+Sugarcane,Zaid,Andhra Pradesh,Sprinkler,46.98,257.0,15.3,135.0,62.86,2953.16
+Rice,Zaid,Maharashtra,Drip,35.46,523.9,23.2,189.1,4.95,175.53
+Mustard,Rabi,Andhra Pradesh,Tube Well,36.45,649.1,17.6,215.9,1.73,63.06
+Potato,Whole Year,Haryana,Rainfed,32.78,843.6,27.0,168.1,18.18,595.94
+Wheat,Rabi,Karnataka,Tube Well,13.08,500.5,26.5,185.8,3.74,48.92
+Rice,Zaid,Karnataka,Rainfed,14.07,865.6,23.8,116.2,3.48,48.96
+Potato,Zaid,West Bengal,Tube Well,36.31,712.5,29.9,143.1,20.42,741.45
+Maize,Whole Year,Madhya Pradesh,Canal,14.86,663.2,29.7,157.6,3.62,53.79
+Cotton,Rabi,Gujarat,Drip,47.11,821.7,31.6,148.4,2.42,114.01
+Groundnut,Kharif,Uttar Pradesh,Canal,11.35,853.6,35.6,160.9,2.56,29.06
+Sugarcane,Kharif,West Bengal,Rainfed,8.56,1240.6,23.6,156.3,63.95,547.41
+Soybean,Zaid,Tamil Nadu,Tube Well,33.47,1455.5,20.3,214.2,2.07,69.28
+Sugarcane,Rabi,Punjab,Sprinkler,18.24,500.5,26.4,79.5,66.8,1218.43
+Wheat,Rabi,Maharashtra,Sprinkler,23.27,1351.0,31.1,192.7,3.69,85.87
+Cotton,Whole Year,Tamil Nadu,Sprinkler,39.51,1539.6,33.9,73.0,1.59,62.82
+Tomato,Zaid,Uttar Pradesh,Tube Well,26.53,1583.8,25.6,239.5,19.31,512.29
+Cotton,Whole Year,Punjab,Sprinkler,40.81,615.0,22.3,123.0,2.46,100.39
+Wheat,Kharif,Madhya Pradesh,Rainfed,15.97,742.1,35.3,66.9,2.84,45.35
+Potato,Whole Year,Gujarat,Sprinkler,42.62,1588.5,22.3,75.9,18.7,796.99
+Soybean,Whole Year,West Bengal,Drip,18.43,304.1,33.0,222.0,3.06,56.4
+Sugarcane,Rabi,Uttar Pradesh,Tube Well,46.44,959.2,26.2,184.2,78.71,3655.29
+Groundnut,Whole Year,Haryana,Drip,34.06,729.8,19.2,224.4,2.71,92.3
+Sugarcane,Kharif,Maharashtra,Rainfed,40.75,1581.3,27.9,231.8,72.47,2953.15
+Wheat,Kharif,Gujarat,Rainfed,48.37,595.7,18.2,107.5,2.89,139.79
+Cotton,Zaid,Haryana,Tube Well,21.14,1389.9,20.2,112.6,1.76,37.21
+Tomato,Whole Year,Madhya Pradesh,Canal,45.33,358.6,17.8,85.1,28.05,1271.51
+Potato,Whole Year,Uttar Pradesh,Tube Well,14.93,569.2,25.9,243.6,24.5,365.78
+Groundnut,Zaid,Gujarat,Drip,13.79,1362.4,20.6,118.7,2.23,30.75
+Soybean,Rabi,Andhra Pradesh,Canal,12.04,413.0,28.6,167.7,3.32,39.97
+Soybean,Rabi,Punjab,Tube Well,34.04,1210.0,20.5,166.5,2.07,70.46
+Soybean,Rabi,Haryana,Canal,5.14,1305.7,17.2,91.5,1.72,8.84
+Groundnut,Zaid,Uttar Pradesh,Canal,8.2,1231.4,17.9,217.8,2.8,22.96
+Groundnut,Whole Year,Gujarat,Canal,43.43,304.8,17.9,170.2,2.44,105.97
+Maize,Kharif,West Bengal,Rainfed,1.95,530.1,31.9,98.5,2.87,5.6
+Wheat,Zaid,Haryana,Sprinkler,17.77,682.1,17.8,184.9,3.88,68.95
+Cotton,Whole Year,Andhra Pradesh,Sprinkler,27.87,1325.4,18.7,102.2,2.03,56.58
+Wheat,Rabi,Punjab,Drip,22.67,266.9,21.4,99.4,3.37,76.4
+Groundnut,Kharif,Uttar Pradesh,Canal,33.55,1124.9,25.9,172.2,2.29,76.83
+Sugarcane,Kharif,Haryana,Drip,23.35,1144.8,29.4,224.9,100.1,2337.34
+Cotton,Zaid,Madhya Pradesh,Rainfed,4.67,723.7,25.5,173.1,2.51,11.72
+Sugarcane,Kharif,Karnataka,Sprinkler,38.28,943.9,19.6,173.1,79.78,3053.98
+Soybean,Rabi,Uttar Pradesh,Sprinkler,4.56,841.1,18.4,190.9,2.71,12.36
+Groundnut,Zaid,Uttar Pradesh,Rainfed,28.19,1322.2,25.8,242.2,2.09,58.92
+Rice,Zaid,Tamil Nadu,Drip,47.27,1430.8,30.3,54.8,2.87,135.66
+Maize,Rabi,Maharashtra,Drip,8.58,607.3,16.6,98.6,3.64,31.23
+Wheat,Whole Year,Uttar Pradesh,Canal,34.26,591.9,20.1,53.6,3.79,129.85
+Cotton,Rabi,Andhra Pradesh,Rainfed,15.16,773.2,23.9,183.2,2.16,32.75
+Potato,Zaid,Madhya Pradesh,Sprinkler,45.23,353.0,23.4,202.6,27.31,1235.23
+Tomato,Rabi,Madhya Pradesh,Rainfed,18.99,750.6,17.5,95.2,20.96,398.03
+Wheat,Zaid,Karnataka,Canal,35.47,740.5,21.9,75.3,3.71,131.59
+Potato,Rabi,Maharashtra,Rainfed,49.28,1369.5,15.3,173.4,17.73,873.73
+Tomato,Whole Year,Karnataka,Rainfed,8.13,702.7,23.4,115.2,21.76,176.91
+Mustard,Whole Year,Madhya Pradesh,Sprinkler,20.54,1548.0,29.4,216.4,1.47,30.19
+Wheat,Kharif,Gujarat,Rainfed,48.46,556.8,35.8,94.5,3.09,149.74
+Groundnut,Whole Year,Maharashtra,Tube Well,34.97,1208.4,25.0,65.4,1.28,44.76
+Cotton,Rabi,Andhra Pradesh,Drip,13.71,1358.1,23.8,85.1,2.09,28.65
+Tomato,Zaid,Karnataka,Sprinkler,22.76,967.9,33.5,213.4,29.47,670.74
+Rice,Zaid,Andhra Pradesh,Canal,28.99,585.6,26.1,114.7,4.56,132.19
+Groundnut,Zaid,Haryana,Tube Well,33.16,217.4,27.7,204.5,2.07,68.64
+Groundnut,Kharif,Maharashtra,Rainfed,33.07,839.7,23.2,140.9,1.86,61.51
+Sugarcane,Rabi,Tamil Nadu,Canal,41.94,1009.0,32.8,215.3,96.2,4034.63
+Maize,Rabi,Uttar Pradesh,Drip,14.86,462.0,24.7,151.0,4.29,63.75
+Soybean,Zaid,Andhra Pradesh,Drip,10.01,914.5,25.5,214.8,3.07,30.73
+Rice,Rabi,Maharashtra,Rainfed,42.72,341.8,19.5,134.9,3.31,141.4
+Potato,Rabi,Karnataka,Canal,49.86,697.4,23.1,74.4,22.24,1108.89
+Soybean,Zaid,Tamil Nadu,Canal,42.98,1234.5,18.2,171.5,2.77,119.05
+Groundnut,Whole Year,Madhya Pradesh,Canal,31.11,1359.1,24.3,240.0,2.14,66.58
+Tomato,Zaid,Uttar Pradesh,Rainfed,20.65,560.4,28.4,141.9,25.14,519.14
+Potato,Kharif,Madhya Pradesh,Sprinkler,35.31,1355.8,23.5,187.4,21.46,757.75
+Tomato,Kharif,Gujarat,Tube Well,19.34,1348.1,15.5,70.5,14.98,289.71
+Groundnut,Rabi,Gujarat,Canal,47.62,810.5,24.0,185.6,2.68,127.62
+Rice,Kharif,Punjab,Drip,9.58,1084.3,16.9,244.3,5.71,54.7
+Wheat,Kharif,Karnataka,Tube Well,9.46,1440.3,28.7,241.3,3.22,30.46
+Mustard,Whole Year,Maharashtra,Drip,21.22,1357.8,30.9,185.7,1.89,40.11
+Groundnut,Kharif,Gujarat,Drip,23.62,1586.3,25.6,56.4,2.03,47.95
+Maize,Rabi,Karnataka,Rainfed,8.9,495.8,31.8,112.0,3.12,27.77
+Potato,Zaid,Tamil Nadu,Drip,29.67,382.1,27.0,205.9,33.1,982.08
+Sugarcane,Rabi,Gujarat,Sprinkler,46.29,1263.4,24.2,150.9,67.37,3118.56
+Cotton,Whole Year,Punjab,Rainfed,45.22,480.9,31.0,186.9,2.49,112.6
+Soybean,Kharif,Andhra Pradesh,Tube Well,36.26,267.3,33.3,181.6,2.08,75.42
+Groundnut,Whole Year,West Bengal,Rainfed,24.34,872.2,28.0,146.6,2.18,53.06
+Rice,Kharif,West Bengal,Drip,8.17,474.0,23.3,70.2,4.2,34.31
+Rice,Rabi,Andhra Pradesh,Rainfed,45.59,847.6,16.9,209.4,4.76,217.01
+Groundnut,Kharif,Punjab,Rainfed,44.61,1533.0,34.7,211.9,1.6,71.38
+Mustard,Rabi,Uttar Pradesh,Tube Well,45.47,1465.5,34.4,149.2,1.17,53.2
+Soybean,Rabi,Tamil Nadu,Tube Well,37.94,303.4,26.0,74.5,1.68,63.74
+Potato,Whole Year,Uttar Pradesh,Sprinkler,43.14,689.2,16.1,200.0,26.85,1158.31
+Wheat,Whole Year,Maharashtra,Tube Well,47.96,277.0,19.9,87.9,2.55,122.3
+Potato,Rabi,Karnataka,Drip,42.67,1350.6,21.5,228.1,26.14,1115.39
+Sugarcane,Zaid,Madhya Pradesh,Sprinkler,17.38,497.4,28.0,162.5,84.32,1465.48
+Cotton,Zaid,Maharashtra,Canal,9.57,360.4,28.1,129.7,2.68,25.65
+Cotton,Whole Year,Haryana,Rainfed,10.4,1084.5,33.6,179.3,1.92,19.97
+Sugarcane,Kharif,West Bengal,Rainfed,36.1,689.0,31.8,137.4,64.85,2341.09
+Groundnut,Kharif,Tamil Nadu,Canal,3.93,882.7,18.5,175.9,2.76,10.85
+Cotton,Rabi,Haryana,Tube Well,21.19,525.8,28.7,109.0,2.34,49.58
+Mustard,Zaid,Punjab,Drip,17.04,230.6,26.5,176.2,1.83,31.18
+Wheat,Kharif,Haryana,Canal,49.96,1441.7,16.2,75.6,2.7,134.89
+Tomato,Kharif,Madhya Pradesh,Rainfed,14.38,227.6,16.4,241.5,26.32,378.48
+Tomato,Zaid,Punjab,Rainfed,47.22,1434.4,33.8,107.8,18.74,884.9
+Soybean,Kharif,Karnataka,Tube Well,43.29,1052.9,27.1,138.2,1.83,79.22
+Potato,Zaid,Punjab,Sprinkler,41.79,229.3,21.3,60.2,19.37,809.47
+Tomato,Zaid,Karnataka,Drip,19.84,348.2,34.0,131.6,31.97,634.28
+Soybean,Rabi,Andhra Pradesh,Sprinkler,12.88,661.7,29.8,51.9,2.47,31.81
+Sugarcane,Kharif,Tamil Nadu,Rainfed,42.42,889.9,32.4,124.9,60.19,2553.26
+Soybean,Whole Year,West Bengal,Drip,27.06,1484.9,26.6,59.8,1.89,51.14
+Potato,Rabi,Andhra Pradesh,Rainfed,11.8,640.6,31.6,124.5,20.89,246.5
+Tomato,Kharif,Andhra Pradesh,Tube Well,19.81,546.9,28.1,210.4,27.05,535.86
+Mustard,Zaid,Karnataka,Canal,13.59,629.3,24.8,235.4,2.19,29.76
+Rice,Rabi,Tamil Nadu,Rainfed,33.34,210.0,20.6,231.2,3.39,113.02
+Soybean,Rabi,Andhra Pradesh,Canal,22.73,1099.2,21.5,65.9,2.13,48.41
+Maize,Rabi,Karnataka,Drip,39.98,947.9,19.7,60.2,2.96,118.34
+Mustard,Rabi,Punjab,Rainfed,11.1,1138.9,29.5,78.5,1.33,14.76
+Tomato,Rabi,West Bengal,Tube Well,20.84,349.2,32.3,92.4,20.23,421.59
+Soybean,Zaid,West Bengal,Sprinkler,17.47,1450.3,26.7,202.0,2.45,42.8
+Cotton,Kharif,Tamil Nadu,Tube Well,43.51,936.3,24.9,193.7,2.24,97.46
+Rice,Rabi,Punjab,Rainfed,47.82,887.4,15.2,68.6,2.95,141.07
+Cotton,Rabi,Haryana,Canal,41.37,492.9,34.4,183.5,3.07,127.01
+Groundnut,Rabi,Gujarat,Drip,33.91,202.2,24.0,177.1,2.88,97.66
+Tomato,Rabi,Tamil Nadu,Canal,41.13,1038.2,15.5,123.9,25.65,1054.98
+Rice,Whole Year,Karnataka,Rainfed,2.09,811.6,31.7,56.1,2.8,5.85
+Rice,Whole Year,Tamil Nadu,Sprinkler,6.79,994.5,35.0,158.5,4.51,30.62
+Rice,Rabi,Uttar Pradesh,Drip,29.52,1548.2,31.7,190.2,4.36,128.71
+Rice,Kharif,Uttar Pradesh,Rainfed,10.71,240.4,34.1,228.2,3.74,40.06
+Mustard,Kharif,Gujarat,Drip,31.56,1268.5,15.2,115.2,1.55,48.92
+Tomato,Whole Year,Tamil Nadu,Drip,18.4,1297.3,25.1,193.0,25.44,468.1
+Maize,Rabi,Gujarat,Tube Well,26.46,1511.4,30.4,165.4,2.5,66.15
+Wheat,Zaid,Maharashtra,Drip,37.8,516.3,17.1,126.9,4.33,163.67
+Tomato,Kharif,Madhya Pradesh,Canal,24.19,1307.9,35.3,150.3,28.07,679.01
+Potato,Whole Year,Gujarat,Drip,30.07,852.0,24.7,243.0,28.01,842.26
+Groundnut,Whole Year,Andhra Pradesh,Tube Well,38.03,816.1,26.5,204.5,2.21,84.05
+Cotton,Kharif,Madhya Pradesh,Rainfed,17.32,1550.9,31.2,54.0,1.57,27.19
+Cotton,Whole Year,Karnataka,Sprinkler,22.84,496.6,16.1,153.4,2.34,53.45
+Maize,Kharif,Uttar Pradesh,Drip,47.38,400.7,15.0,65.4,3.98,188.57
+Tomato,Whole Year,Haryana,Tube Well,19.44,1056.3,18.5,204.3,22.73,441.87
+Maize,Kharif,Maharashtra,Rainfed,48.18,228.7,19.2,139.7,2.6,125.27
+Sugarcane,Whole Year,West Bengal,Sprinkler,33.51,743.0,29.3,245.6,99.62,3338.27
+Cotton,Kharif,Uttar Pradesh,Tube Well,14.98,1548.7,18.9,211.2,1.51,22.62
+Wheat,Whole Year,Tamil Nadu,Tube Well,2.76,1138.6,16.2,67.5,2.25,6.21
+Wheat,Kharif,Karnataka,Tube Well,15.71,805.6,35.2,56.3,3.06,48.07
+Maize,Rabi,Gujarat,Tube Well,3.89,947.8,31.4,68.8,2.56,9.96
+Maize,Rabi,Madhya Pradesh,Tube Well,37.52,1039.2,26.6,170.5,2.94,110.31
+Soybean,Whole Year,Andhra Pradesh,Drip,39.6,414.5,19.9,103.1,2.82,111.67
+Groundnut,Kharif,Haryana,Sprinkler,25.27,1013.2,32.4,112.5,2.1,53.07
+Soybean,Rabi,Uttar Pradesh,Rainfed,32.21,1368.3,29.0,135.0,1.72,55.4
+Potato,Whole Year,Andhra Pradesh,Rainfed,23.44,422.8,32.7,58.9,18.93,443.72
+Mustard,Rabi,Haryana,Tube Well,35.98,1503.9,26.3,142.4,1.06,38.14
+Rice,Rabi,Haryana,Tube Well,45.46,1316.2,29.8,167.8,3.03,137.74
+Groundnut,Kharif,Uttar Pradesh,Tube Well,30.26,1112.8,22.3,58.0,1.46,44.18
+Potato,Whole Year,Karnataka,Sprinkler,40.83,1288.1,18.8,60.3,17.49,714.12
+Mustard,Rabi,Uttar Pradesh,Tube Well,16.48,490.2,23.6,90.6,1.44,23.73
+Potato,Zaid,Punjab,Drip,4.69,939.1,32.5,100.2,21.7,101.77
+Potato,Zaid,Uttar Pradesh,Sprinkler,34.15,665.9,33.5,86.6,22.69,774.86
+Maize,Zaid,Maharashtra,Sprinkler,16.14,1510.4,28.4,246.0,3.19,51.49
+Sugarcane,Kharif,Haryana,Rainfed,25.52,1190.8,31.1,210.7,71.75,1831.06
+Cotton,Whole Year,Andhra Pradesh,Drip,26.65,1242.4,20.7,237.7,2.94,78.35
+Cotton,Rabi,Gujarat,Tube Well,48.93,651.2,31.1,75.4,1.95,95.41
+Groundnut,Kharif,Gujarat,Sprinkler,11.42,1141.7,31.5,90.5,2.16,24.67
+Maize,Whole Year,Madhya Pradesh,Sprinkler,21.84,1283.7,32.2,98.9,2.94,64.21
+Soybean,Rabi,Karnataka,Sprinkler,2.14,968.1,19.7,65.8,2.15,4.6
+Tomato,Whole Year,Tamil Nadu,Drip,46.01,1457.6,18.4,215.9,31.69,1458.06
+Sugarcane,Zaid,Haryana,Tube Well,49.93,1265.5,20.1,186.8,63.82,3186.53
+Potato,Kharif,Gujarat,Drip,23.87,997.2,25.7,232.6,28.33,676.24
+Maize,Whole Year,Andhra Pradesh,Drip,20.53,1090.0,34.5,90.7,3.05,62.62
+Maize,Rabi,Punjab,Drip,1.75,1157.5,32.3,155.1,3.58,6.27
+Potato,Zaid,Maharashtra,Canal,17.41,1110.6,29.6,111.2,22.91,398.86
+Sugarcane,Rabi,Punjab,Tube Well,47.78,1305.4,32.7,239.9,65.85,3146.31
+Cotton,Whole Year,Punjab,Tube Well,8.99,1215.8,24.3,200.8,1.98,17.8
+Rice,Zaid,Haryana,Rainfed,1.59,1195.6,27.7,193.1,3.15,5.01
+Rice,Kharif,Andhra Pradesh,Canal,13.82,1594.1,18.3,194.1,4.45,61.5
+Soybean,Kharif,Andhra Pradesh,Drip,33.65,460.8,28.9,148.5,3.27,110.04
+Rice,Rabi,Haryana,Rainfed,5.7,694.8,20.1,245.4,4.29,24.45
+Sugarcane,Zaid,Madhya Pradesh,Tube Well,14.3,772.4,30.2,69.8,58.48,836.26
+Groundnut,Whole Year,West Bengal,Tube Well,45.81,586.9,27.1,73.4,1.73,79.25
+Groundnut,Zaid,Andhra Pradesh,Drip,20.64,902.6,19.9,142.2,2.17,44.79
+Groundnut,Zaid,West Bengal,Rainfed,13.63,692.0,22.4,66.2,2.02,27.53
+Maize,Zaid,Punjab,Rainfed,1.46,471.2,26.4,93.6,2.72,3.97
+Potato,Kharif,West Bengal,Sprinkler,1.05,578.2,19.6,118.6,25.28,26.54
+Maize,Whole Year,Karnataka,Tube Well,3.78,1235.9,25.7,72.8,2.09,7.9
+Soybean,Zaid,Karnataka,Rainfed,18.14,959.6,23.7,57.3,1.88,34.1
+Wheat,Zaid,West Bengal,Canal,27.2,291.3,20.4,142.4,4.52,122.94
+Potato,Rabi,Punjab,Tube Well,6.91,480.7,33.8,250.0,29.8,205.92
+Soybean,Zaid,West Bengal,Drip,35.59,736.4,21.7,248.3,3.53,125.63
+Sugarcane,Whole Year,Andhra Pradesh,Drip,38.73,1252.9,28.8,249.5,109.19,4228.93
+Tomato,Whole Year,Gujarat,Rainfed,27.8,1535.0,33.5,75.8,16.4,455.92
+Sugarcane,Kharif,Tamil Nadu,Rainfed,3.41,284.5,18.3,120.3,63.21,215.55
+Mustard,Kharif,Gujarat,Tube Well,11.54,1516.8,20.4,248.0,1.12,12.92
+Groundnut,Whole Year,Madhya Pradesh,Rainfed,32.77,1506.9,28.1,166.2,1.83,59.97
+Groundnut,Kharif,Gujarat,Tube Well,2.68,718.1,32.8,64.0,1.83,4.9
+Wheat,Whole Year,Andhra Pradesh,Sprinkler,42.01,1016.8,18.9,242.9,4.18,175.6
+Tomato,Zaid,Madhya Pradesh,Canal,37.9,711.7,28.4,141.4,29.61,1122.22
+Rice,Zaid,Andhra Pradesh,Canal,9.32,667.8,23.7,230.7,5.25,48.93
+Maize,Rabi,Maharashtra,Canal,22.45,914.6,34.6,125.7,3.6,80.82
+Cotton,Rabi,Madhya Pradesh,Rainfed,1.43,574.5,22.4,114.5,2.62,3.75
+Soybean,Kharif,Andhra Pradesh,Tube Well,12.52,666.3,28.2,76.3,1.94,24.29
+Sugarcane,Kharif,Madhya Pradesh,Tube Well,3.2,698.3,28.3,232.6,79.02,252.86
+Maize,Kharif,Haryana,Sprinkler,32.35,363.5,24.8,195.3,3.91,126.49
+Mustard,Whole Year,Gujarat,Tube Well,12.32,1557.4,28.9,89.4,1.07,13.18
+Rice,Kharif,West Bengal,Drip,28.12,464.6,22.3,239.2,5.19,145.94
+Groundnut,Zaid,Haryana,Rainfed,24.19,827.3,18.9,172.0,1.91,46.2
+Cotton,Kharif,Madhya Pradesh,Sprinkler,32.8,751.1,29.3,149.2,2.58,84.62
+Groundnut,Zaid,Tamil Nadu,Canal,29.07,965.4,19.0,158.3,2.67,77.62
+Mustard,Zaid,West Bengal,Tube Well,27.83,453.4,31.1,243.4,1.82,50.65
+Soybean,Zaid,Tamil Nadu,Canal,7.82,969.5,25.7,118.5,2.74,21.43
+Mustard,Rabi,Maharashtra,Canal,4.28,638.1,28.7,91.8,1.45,6.21
+Mustard,Whole Year,Uttar Pradesh,Tube Well,46.5,1575.7,24.5,163.0,1.22,56.73
+Groundnut,Rabi,Madhya Pradesh,Canal,41.92,891.0,17.0,94.8,2.41,101.03
+Tomato,Rabi,Haryana,Rainfed,43.35,1318.7,22.5,187.9,22.08,957.17
+Wheat,Whole Year,Uttar Pradesh,Sprinkler,48.07,498.9,35.9,189.5,4.16,199.97
+Groundnut,Zaid,Punjab,Canal,34.37,332.7,28.3,225.8,3.1,106.55
+Rice,Zaid,Karnataka,Tube Well,49.16,695.9,17.2,181.7,3.49,171.57
+Tomato,Kharif,Haryana,Sprinkler,1.9,272.3,15.3,173.8,25.42,48.3
+Cotton,Whole Year,West Bengal,Canal,14.59,1364.8,28.9,56.8,2.05,29.91
+Sugarcane,Whole Year,West Bengal,Sprinkler,42.9,435.4,34.1,189.3,75.33,3231.66
+Wheat,Zaid,Andhra Pradesh,Drip,38.62,1216.6,19.2,169.0,4.19,161.82
+Soybean,Rabi,Gujarat,Canal,38.44,759.3,32.5,245.2,2.99,114.94
+Wheat,Kharif,Madhya Pradesh,Canal,41.26,1081.9,31.5,210.0,4.35,179.48
+Soybean,Rabi,Karnataka,Canal,43.69,1115.7,21.1,247.5,3.02,131.94
+Wheat,Zaid,Tamil Nadu,Canal,23.0,1240.5,15.4,55.8,3.33,76.59
+Cotton,Kharif,Punjab,Rainfed,19.86,773.8,21.7,101.6,1.77,35.15
+Rice,Whole Year,Madhya Pradesh,Canal,5.8,414.2,32.9,249.8,4.8,27.84
+Wheat,Whole Year,Haryana,Canal,34.83,1043.4,18.0,237.9,4.32,150.47
+Tomato,Rabi,West Bengal,Sprinkler,31.38,685.5,28.2,51.3,23.66,742.45
+Wheat,Zaid,West Bengal,Rainfed,36.07,440.3,17.3,80.5,2.85,102.8
+Potato,Whole Year,Gujarat,Drip,27.35,266.3,33.1,84.1,23.61,645.73
+Wheat,Rabi,West Bengal,Rainfed,6.42,1439.1,20.9,92.0,2.2,14.12
+Groundnut,Whole Year,Punjab,Sprinkler,16.43,933.6,19.3,217.6,2.61,42.88
+Potato,Whole Year,West Bengal,Sprinkler,42.27,1422.2,35.9,118.5,18.62,787.07
+Tomato,Kharif,Karnataka,Drip,26.77,1281.1,31.1,180.8,29.42,787.57
+Rice,Zaid,Haryana,Tube Well,20.03,237.4,34.0,54.0,2.85,57.09
+Tomato,Zaid,Tamil Nadu,Rainfed,23.29,261.4,31.0,212.4,30.03,699.4
+Maize,Whole Year,Madhya Pradesh,Canal,38.76,726.6,24.9,214.6,4.35,168.61
+Potato,Rabi,Tamil Nadu,Canal,6.95,1245.8,19.3,59.7,19.64,136.5
+Mustard,Kharif,Tamil Nadu,Drip,19.18,623.2,25.3,176.6,2.11,40.47
+Wheat,Kharif,Madhya Pradesh,Tube Well,2.39,885.5,35.0,100.6,3.01,7.19
+Tomato,Kharif,Punjab,Tube Well,16.51,390.9,22.0,106.1,24.04,396.9
+Tomato,Kharif,West Bengal,Canal,39.96,531.4,16.8,150.2,34.7,1386.61
+Wheat,Kharif,Tamil Nadu,Tube Well,18.12,408.7,22.9,177.1,3.85,69.76
+Mustard,Kharif,Andhra Pradesh,Tube Well,6.12,304.3,25.6,226.9,1.72,10.53
+Soybean,Whole Year,Gujarat,Canal,34.97,1356.2,32.0,207.0,2.59,90.57
+Potato,Kharif,Haryana,Tube Well,47.61,829.9,17.9,183.8,19.85,945.06
+Soybean,Whole Year,Punjab,Sprinkler,21.71,335.0,18.5,246.5,2.98,64.7
+Mustard,Zaid,Madhya Pradesh,Sprinkler,21.43,1218.2,24.4,197.9,1.73,37.07
+Potato,Whole Year,Andhra Pradesh,Drip,32.07,731.8,26.5,224.8,29.14,934.52
+Wheat,Rabi,Gujarat,Sprinkler,14.66,1206.5,23.6,164.0,3.44,50.43
+Tomato,Rabi,Punjab,Tube Well,46.85,550.6,18.5,148.7,21.41,1003.06
+Sugarcane,Whole Year,Uttar Pradesh,Tube Well,33.08,1160.5,35.2,124.1,62.01,2051.29
+Soybean,Kharif,Punjab,Canal,22.93,1308.4,34.0,67.3,2.16,49.53
+Rice,Zaid,Maharashtra,Tube Well,3.01,778.2,30.4,138.4,3.55,10.69
+Rice,Kharif,West Bengal,Canal,26.63,1341.6,26.7,238.7,4.71,125.43
+Mustard,Kharif,Uttar Pradesh,Rainfed,12.07,1191.1,29.1,74.5,1.29,15.57
+Mustard,Whole Year,Tamil Nadu,Drip,15.9,236.2,16.3,205.1,2.04,32.44
+Cotton,Zaid,Karnataka,Tube Well,13.38,1598.1,20.6,96.1,1.74,23.28
+Cotton,Rabi,Tamil Nadu,Rainfed,49.26,1547.5,20.7,127.4,1.76,86.7
+Cotton,Zaid,Haryana,Tube Well,3.28,1558.5,31.7,100.9,1.67,5.48
+Soybean,Rabi,West Bengal,Sprinkler,28.8,948.8,23.4,177.9,2.5,72.0
+Sugarcane,Rabi,Uttar Pradesh,Rainfed,29.42,1187.7,23.6,197.1,68.79,2023.8
+Mustard,Zaid,Haryana,Sprinkler,21.51,504.6,21.5,167.5,2.04,43.88
+Cotton,Kharif,Tamil Nadu,Canal,48.61,1342.5,31.4,153.5,2.5,121.53
+Mustard,Kharif,Uttar Pradesh,Rainfed,18.9,973.3,21.9,225.4,1.58,29.86
+Cotton,Kharif,Punjab,Drip,32.95,642.0,27.8,192.2,3.04,100.17
+Sugarcane,Zaid,Uttar Pradesh,Sprinkler,49.34,840.6,34.7,196.0,81.9,4040.95
+Groundnut,Whole Year,Madhya Pradesh,Sprinkler,47.76,619.4,33.0,151.2,2.39,114.15
+Wheat,Kharif,Uttar Pradesh,Canal,22.61,1534.1,24.6,156.0,3.66,82.75
+Wheat,Rabi,Punjab,Rainfed,13.37,927.0,21.2,102.4,3.06,40.91
+Groundnut,Rabi,Tamil Nadu,Tube Well,39.21,461.9,26.5,177.2,2.0,78.42
+Sugarcane,Whole Year,Gujarat,Sprinkler,35.77,624.5,17.0,112.2,75.88,2714.23
+Mustard,Zaid,Maharashtra,Tube Well,45.73,730.4,22.8,131.3,1.66,75.91
+Mustard,Rabi,Andhra Pradesh,Sprinkler,22.51,513.8,15.6,144.2,1.73,38.94
+Sugarcane,Whole Year,Tamil Nadu,Drip,14.61,1045.2,35.8,159.4,92.8,1355.81
+Cotton,Whole Year,Gujarat,Tube Well,39.84,1177.2,33.6,89.9,1.73,68.92
+Tomato,Kharif,Maharashtra,Sprinkler,16.72,917.1,30.6,129.2,26.58,444.42
+Cotton,Rabi,Karnataka,Canal,28.57,857.2,20.5,82.2,2.23,63.71
+Cotton,Rabi,Maharashtra,Tube Well,49.08,540.5,35.1,153.0,2.19,107.49
+Sugarcane,Zaid,West Bengal,Sprinkler,17.82,364.7,23.9,85.7,67.94,1210.69
+Cotton,Kharif,Karnataka,Rainfed,47.72,949.7,35.9,78.4,1.77,84.46
+Potato,Kharif,Madhya Pradesh,Tube Well,19.78,1535.8,18.0,186.0,19.7,389.67
+Potato,Whole Year,Madhya Pradesh,Tube Well,39.19,728.3,15.1,132.8,21.63,847.68
+Wheat,Kharif,Punjab,Tube Well,43.46,643.0,30.7,182.0,3.18,138.2
+Sugarcane,Rabi,Tamil Nadu,Rainfed,27.86,1025.7,20.6,117.9,59.97,1670.76
+Tomato,Rabi,Haryana,Canal,17.38,1317.5,30.2,203.4,29.7,516.19
+Cotton,Kharif,Uttar Pradesh,Drip,31.11,1210.7,29.3,224.0,2.61,81.2
+Maize,Kharif,Andhra Pradesh,Canal,40.49,1537.6,20.4,221.5,3.58,144.95
+Sugarcane,Rabi,Andhra Pradesh,Drip,48.73,840.0,17.0,203.1,89.27,4350.13
+Soybean,Zaid,Karnataka,Canal,9.4,1388.2,23.8,77.4,2.07,19.46
+Maize,Zaid,Tamil Nadu,Drip,35.9,831.0,26.0,212.7,5.04,180.94
+Cotton,Whole Year,Punjab,Drip,26.56,1011.1,25.7,101.6,2.12,56.31
+Soybean,Kharif,Haryana,Rainfed,9.15,1132.4,27.9,176.5,1.94,17.75
+Tomato,Rabi,Maharashtra,Tube Well,20.77,966.3,30.5,244.8,23.67,491.63
+Sugarcane,Kharif,Punjab,Canal,32.34,209.8,29.7,97.7,74.16,2398.33
+Maize,Kharif,Madhya Pradesh,Rainfed,36.19,945.5,21.2,85.5,2.46,89.03
+Sugarcane,Kharif,Gujarat,Rainfed,23.79,345.1,33.6,147.4,52.63,1252.07
+Potato,Rabi,Maharashtra,Drip,30.62,853.0,33.8,113.5,22.41,686.19
+Soybean,Rabi,Gujarat,Drip,37.91,343.0,19.0,210.2,3.3,125.1
+Soybean,Rabi,Uttar Pradesh,Rainfed,13.89,959.9,17.6,207.1,2.05,28.47
+Sugarcane,Rabi,Maharashtra,Tube Well,49.45,551.0,16.4,116.0,53.29,2635.19
+Wheat,Whole Year,Punjab,Drip,44.18,1230.3,21.6,129.1,3.55,156.84
+Maize,Kharif,Haryana,Canal,42.87,412.7,15.5,148.9,3.83,164.19
+Sugarcane,Rabi,Punjab,Sprinkler,46.05,483.9,34.6,155.4,82.75,3810.64
+Rice,Zaid,Gujarat,Sprinkler,27.53,877.0,25.1,67.6,3.68,101.31
+Wheat,Zaid,Maharashtra,Tube Well,38.71,231.2,25.0,131.5,3.48,134.71
+Soybean,Zaid,Karnataka,Rainfed,2.36,936.2,17.0,242.9,2.44,5.76
+Tomato,Whole Year,Gujarat,Canal,19.21,873.2,18.5,165.5,32.07,616.06
+Cotton,Rabi,Punjab,Drip,46.87,991.7,28.5,77.6,2.33,109.21
+Sugarcane,Whole Year,Andhra Pradesh,Sprinkler,28.94,1508.7,22.2,87.2,62.78,1816.85
+Soybean,Whole Year,Andhra Pradesh,Tube Well,44.69,1383.9,23.5,56.1,1.42,63.46
+Cotton,Rabi,Haryana,Canal,47.92,266.6,23.4,82.5,2.41,115.49
+Rice,Whole Year,Madhya Pradesh,Rainfed,38.88,1530.1,29.7,69.9,2.7,104.98
+Rice,Whole Year,Maharashtra,Tube Well,31.36,1241.5,22.5,249.7,3.64,114.15
+Tomato,Whole Year,Gujarat,Rainfed,6.49,994.6,22.4,166.6,25.37,164.65
+Potato,Whole Year,Uttar Pradesh,Rainfed,40.79,641.2,24.3,148.8,25.26,1030.36
+Rice,Rabi,Tamil Nadu,Rainfed,38.99,525.3,22.0,95.7,2.89,112.68
+Sugarcane,Zaid,Madhya Pradesh,Drip,27.87,1112.6,18.2,144.4,90.4,2519.45
+Tomato,Rabi,Karnataka,Tube Well,37.14,729.6,35.9,182.6,25.63,951.9
+Cotton,Zaid,Tamil Nadu,Canal,19.31,637.6,19.1,138.6,2.98,57.54
+Groundnut,Rabi,Andhra Pradesh,Drip,15.03,695.7,27.9,120.5,2.17,32.62
+Cotton,Whole Year,Punjab,Sprinkler,20.2,988.5,29.8,240.6,2.74,55.35
+Wheat,Kharif,Andhra Pradesh,Sprinkler,3.41,1063.2,29.9,111.7,3.31,11.29
+Tomato,Rabi,Maharashtra,Sprinkler,45.26,749.5,32.7,158.5,30.71,1389.93
+Mustard,Rabi,Karnataka,Rainfed,14.0,1343.5,25.6,231.6,1.43,20.02
+Sugarcane,Kharif,West Bengal,Drip,7.66,293.7,31.5,185.2,81.92,627.51
+Soybean,Rabi,Uttar Pradesh,Sprinkler,21.13,1194.4,34.1,218.1,2.98,62.97
+Maize,Zaid,Maharashtra,Rainfed,39.03,1338.2,27.4,166.3,2.62,102.26
+Mustard,Zaid,Andhra Pradesh,Canal,3.78,926.7,32.2,57.0,1.8,6.8
+Groundnut,Zaid,Uttar Pradesh,Canal,27.64,729.5,32.1,209.5,2.58,71.31
+Cotton,Kharif,Andhra Pradesh,Rainfed,32.42,466.3,31.2,116.1,2.09,67.76
+Mustard,Kharif,Gujarat,Drip,28.18,1155.0,32.0,178.9,1.99,56.08
+Soybean,Whole Year,Maharashtra,Sprinkler,9.98,373.1,25.2,81.9,2.76,27.54
+Cotton,Kharif,Gujarat,Canal,3.83,358.7,18.2,248.0,3.48,13.33
+Cotton,Whole Year,Maharashtra,Sprinkler,20.1,764.0,25.4,71.2,2.15,43.22
+Wheat,Kharif,Andhra Pradesh,Drip,41.06,353.0,23.7,135.6,3.93,161.37
+Wheat,Whole Year,West Bengal,Drip,6.04,1064.9,18.7,65.0,3.0,18.12
+Tomato,Zaid,Tamil Nadu,Sprinkler,28.46,237.8,35.3,118.3,25.54,726.87
+Rice,Whole Year,Haryana,Drip,20.72,1536.9,32.8,167.0,4.04,83.71
+Rice,Zaid,Madhya Pradesh,Rainfed,42.92,1542.9,25.0,244.2,3.42,146.79
+Maize,Kharif,Andhra Pradesh,Canal,32.84,841.1,26.9,133.3,3.85,126.43
+Wheat,Whole Year,Gujarat,Rainfed,46.65,262.9,27.9,125.8,3.13,146.01
+Maize,Whole Year,Maharashtra,Drip,38.78,979.8,27.5,116.6,3.55,137.67
+Mustard,Zaid,Madhya Pradesh,Sprinkler,33.85,748.2,24.7,234.3,1.92,64.99
+Groundnut,Kharif,Madhya Pradesh,Rainfed,21.98,1409.4,15.0,171.0,1.65,36.27
+Mustard,Whole Year,Andhra Pradesh,Tube Well,33.68,1573.8,15.5,243.2,1.27,42.77
+Groundnut,Kharif,Madhya Pradesh,Canal,3.91,326.5,20.5,202.3,2.17,8.48
+Cotton,Whole Year,Uttar Pradesh,Sprinkler,11.45,1372.9,29.7,52.9,1.9,21.75
+Groundnut,Rabi,West Bengal,Canal,25.62,939.1,19.9,185.0,2.48,63.54
+Tomato,Zaid,West Bengal,Sprinkler,31.32,1553.0,21.3,133.8,19.57,612.93
+Tomato,Kharif,Tamil Nadu,Rainfed,22.7,553.3,15.0,72.1,23.22,527.09
+Cotton,Kharif,Tamil Nadu,Drip,42.28,1458.7,18.7,189.0,2.62,110.77
+Potato,Rabi,Maharashtra,Sprinkler,18.03,1093.9,25.4,73.0,20.21,364.39
+Tomato,Kharif,Gujarat,Rainfed,30.63,871.1,26.9,170.4,23.2,710.62
+Sugarcane,Kharif,Haryana,Canal,24.83,787.2,22.3,67.2,83.7,2078.27
+Wheat,Whole Year,West Bengal,Rainfed,3.65,916.4,35.3,111.5,2.64,9.64
+Soybean,Whole Year,Punjab,Tube Well,36.95,925.1,31.9,191.0,2.26,83.51
+Wheat,Kharif,Punjab,Tube Well,31.33,1063.3,32.8,232.1,2.93,91.8
+Groundnut,Kharif,Uttar Pradesh,Rainfed,34.78,1574.6,23.1,192.5,1.88,65.39
+Groundnut,Zaid,West Bengal,Sprinkler,15.61,387.5,24.5,149.1,2.38,37.15
+Potato,Rabi,Tamil Nadu,Sprinkler,18.12,1249.9,34.0,92.3,19.88,360.23
+Wheat,Whole Year,Madhya Pradesh,Canal,3.04,612.8,34.0,84.8,3.94,11.98
+Groundnut,Whole Year,Gujarat,Tube Well,17.14,465.1,15.5,84.6,1.81,31.02
+Wheat,Zaid,Karnataka,Sprinkler,7.93,1243.9,21.9,151.5,3.28,26.01
+Potato,Zaid,Gujarat,Sprinkler,5.82,1027.6,30.6,79.8,22.3,129.79
+Sugarcane,Whole Year,Tamil Nadu,Sprinkler,43.39,755.9,28.6,129.4,78.52,3406.98
+Tomato,Rabi,Punjab,Drip,31.38,1036.2,35.7,175.6,28.99,909.71
+Maize,Zaid,Punjab,Sprinkler,12.1,1179.5,15.6,188.1,3.43,41.5
+Soybean,Kharif,Andhra Pradesh,Canal,24.38,1568.3,22.0,246.5,2.73,66.56
+Tomato,Rabi,Tamil Nadu,Tube Well,33.74,973.2,32.2,176.6,22.11,745.99
+Sugarcane,Kharif,West Bengal,Canal,41.04,1110.4,32.7,120.3,76.98,3159.26
+Mustard,Whole Year,Uttar Pradesh,Rainfed,27.66,783.5,33.1,243.9,1.88,52.0
+Rice,Whole Year,Haryana,Sprinkler,19.39,1474.9,17.4,199.1,3.71,71.94
+Sugarcane,Zaid,Madhya Pradesh,Canal,15.09,635.6,32.5,96.2,83.9,1266.05
+Mustard,Rabi,West Bengal,Drip,46.69,564.9,21.7,183.2,2.22,103.65
+Groundnut,Whole Year,Andhra Pradesh,Tube Well,41.12,434.7,22.3,170.2,2.03,83.47
+Maize,Whole Year,Karnataka,Drip,29.57,560.8,19.8,51.8,3.56,105.27
+Cotton,Rabi,Maharashtra,Tube Well,29.33,720.3,31.7,196.4,2.33,68.34
+Cotton,Rabi,Madhya Pradesh,Drip,2.59,815.3,30.0,133.0,2.41,6.24
+Wheat,Rabi,Gujarat,Canal,29.42,1446.2,15.5,184.6,3.56,104.74
+Soybean,Zaid,Punjab,Drip,13.68,1402.4,21.5,136.0,2.44,33.38
+Wheat,Rabi,West Bengal,Drip,24.8,216.7,17.3,189.8,4.32,107.14
+Groundnut,Whole Year,Madhya Pradesh,Drip,16.25,324.1,31.0,154.9,2.5,40.62
+Maize,Rabi,Gujarat,Drip,18.92,1199.7,28.2,180.3,3.11,58.84
+Cotton,Rabi,Andhra Pradesh,Sprinkler,39.19,1265.6,20.2,222.5,2.31,90.53
+Sugarcane,Whole Year,Andhra Pradesh,Rainfed,32.39,325.6,24.7,248.7,87.1,2821.17
+Rice,Rabi,Madhya Pradesh,Tube Well,38.75,1241.3,32.7,183.2,3.24,125.55
+Maize,Whole Year,Karnataka,Rainfed,27.72,224.7,30.6,87.8,2.62,72.63
+Sugarcane,Rabi,Gujarat,Rainfed,17.59,216.5,35.7,172.4,58.82,1034.64
+Wheat,Rabi,Maharashtra,Sprinkler,47.58,1229.4,35.4,71.1,2.95,140.36
+Potato,Whole Year,Haryana,Canal,4.96,1108.1,21.2,78.8,16.72,82.93
+Cotton,Whole Year,West Bengal,Canal,23.44,1019.4,31.2,125.5,2.8,65.63
+Rice,Rabi,Maharashtra,Tube Well,17.3,601.6,31.1,236.8,3.64,62.97
+Sugarcane,Zaid,West Bengal,Sprinkler,24.65,972.8,32.3,189.9,85.79,2114.72
+Sugarcane,Zaid,Karnataka,Drip,7.5,440.6,33.1,155.4,79.17,593.77
+Cotton,Zaid,Andhra Pradesh,Canal,9.45,370.4,31.5,218.8,3.47,32.79
+Tomato,Whole Year,Uttar Pradesh,Sprinkler,12.79,1475.6,21.1,213.8,25.7,328.7
+Sugarcane,Whole Year,Gujarat,Sprinkler,46.9,818.2,26.2,176.2,86.19,4042.31
+Potato,Kharif,Andhra Pradesh,Tube Well,9.36,231.3,27.0,153.5,22.68,212.28
+Rice,Zaid,Gujarat,Canal,44.01,313.5,31.8,178.0,4.86,213.89
+Mustard,Kharif,Karnataka,Drip,33.56,543.3,24.6,148.3,2.49,83.56
+Wheat,Zaid,Tamil Nadu,Sprinkler,36.1,795.5,19.0,66.0,3.17,114.44
+Tomato,Whole Year,Andhra Pradesh,Canal,29.51,1214.0,16.5,226.5,28.31,835.43
+Groundnut,Whole Year,Andhra Pradesh,Canal,29.61,502.7,23.2,215.4,2.68,79.35
+Soybean,Whole Year,Madhya Pradesh,Rainfed,47.08,617.9,19.0,173.3,2.65,124.76
+Tomato,Zaid,Maharashtra,Drip,41.62,790.6,34.4,249.3,36.09,1502.07
+Potato,Whole Year,Gujarat,Rainfed,20.2,293.9,27.0,122.3,22.38,452.08
+Groundnut,Rabi,Maharashtra,Canal,20.51,411.2,24.7,240.2,2.82,57.84
+Mustard,Rabi,West Bengal,Rainfed,13.44,567.1,27.0,132.1,1.57,21.1
+Sugarcane,Kharif,Haryana,Canal,4.31,1094.9,24.1,132.2,78.98,340.4
+Cotton,Zaid,Haryana,Drip,7.14,531.1,29.2,165.3,3.13,22.35
+Potato,Zaid,Karnataka,Drip,17.91,1363.4,20.0,142.2,24.57,440.05
+Mustard,Whole Year,West Bengal,Sprinkler,44.58,1194.4,15.6,225.3,1.81,80.69
+Tomato,Kharif,West Bengal,Canal,44.95,1303.1,32.8,70.4,23.92,1075.2
+Rice,Whole Year,Tamil Nadu,Sprinkler,15.95,828.1,25.0,216.7,4.45,70.98
+Tomato,Zaid,Punjab,Canal,4.71,415.2,16.7,113.8,34.34,161.74
+Sugarcane,Whole Year,Karnataka,Tube Well,1.88,799.6,23.6,239.5,77.03,144.82
+Mustard,Rabi,Karnataka,Rainfed,37.95,652.5,17.7,127.4,1.46,55.41
+Mustard,Zaid,Maharashtra,Sprinkler,41.85,720.1,20.9,205.0,1.88,78.68
+Mustard,Kharif,Maharashtra,Sprinkler,23.62,1309.3,18.4,126.3,1.43,33.78
+Rice,Kharif,West Bengal,Sprinkler,17.49,1227.6,26.7,160.9,3.62,63.31
+Wheat,Kharif,Maharashtra,Tube Well,30.95,1411.7,32.2,107.1,2.79,86.35
+Rice,Zaid,West Bengal,Tube Well,3.09,391.5,25.2,91.6,3.07,9.49
+Wheat,Whole Year,Uttar Pradesh,Sprinkler,47.21,1374.7,28.4,87.1,3.27,154.38
+Sugarcane,Whole Year,Andhra Pradesh,Rainfed,14.08,1327.1,33.4,189.6,66.96,942.8
+Groundnut,Rabi,Maharashtra,Drip,9.76,965.2,34.7,230.3,2.64,25.77
+Rice,Rabi,Gujarat,Drip,46.86,1598.1,24.1,95.4,3.84,179.94
+Cotton,Whole Year,Andhra Pradesh,Tube Well,7.59,788.6,23.1,120.3,2.0,15.18
+Potato,Kharif,Uttar Pradesh,Canal,8.42,427.8,29.0,199.6,30.2,254.28
+Cotton,Kharif,Karnataka,Drip,14.22,659.5,32.8,118.7,2.81,39.96
+Tomato,Rabi,Andhra Pradesh,Drip,43.23,1112.8,17.5,164.7,24.67,1066.48
+Soybean,Kharif,Punjab,Drip,7.56,866.4,21.7,245.6,2.9,21.92
+Soybean,Kharif,Uttar Pradesh,Drip,22.95,217.9,25.0,229.2,2.85,65.41
+Potato,Zaid,Uttar Pradesh,Rainfed,37.38,308.0,23.1,200.0,26.6,994.31
+Wheat,Whole Year,Karnataka,Drip,4.1,1195.9,22.7,68.7,3.44,14.1
+Groundnut,Kharif,Gujarat,Tube Well,10.23,996.1,35.2,177.4,2.1,21.48
+Maize,Whole Year,Tamil Nadu,Tube Well,41.4,1026.7,33.3,152.9,3.31,137.03
+Groundnut,Kharif,Haryana,Tube Well,41.33,238.1,30.4,206.8,2.17,89.69
+Tomato,Whole Year,West Bengal,Rainfed,22.66,1345.5,34.6,95.9,20.19,457.51
+Groundnut,Kharif,Gujarat,Canal,41.29,1307.6,35.6,143.0,2.29,94.55
+Maize,Rabi,Tamil Nadu,Drip,38.77,1010.2,34.6,231.6,4.14,160.51
+Potato,Whole Year,Tamil Nadu,Tube Well,26.11,1008.9,20.1,234.5,24.44,638.13
+Wheat,Whole Year,Maharashtra,Drip,19.28,613.5,33.1,134.5,4.47,86.18
+Tomato,Zaid,Haryana,Tube Well,2.33,1558.8,24.8,82.4,16.04,37.37
+Sugarcane,Rabi,Punjab,Tube Well,21.74,375.5,29.2,91.5,48.93,1063.74
+Potato,Whole Year,Tamil Nadu,Canal,32.59,643.4,17.3,175.5,29.31,955.21
+Soybean,Whole Year,Punjab,Sprinkler,44.47,1054.2,31.9,212.0,2.72,120.96
+Potato,Whole Year,Uttar Pradesh,Sprinkler,28.77,486.8,19.1,136.8,24.11,693.64
+Potato,Kharif,West Bengal,Canal,26.21,1548.4,25.6,205.1,25.07,657.08
+Potato,Kharif,Madhya Pradesh,Drip,45.76,303.0,29.7,196.0,33.33,1525.18
+Groundnut,Whole Year,Punjab,Drip,7.63,1569.0,15.3,115.1,1.93,14.73
+Tomato,Rabi,Haryana,Drip,8.28,895.9,24.6,233.2,33.37,276.3
+Soybean,Zaid,Punjab,Sprinkler,31.74,1055.9,20.9,132.3,2.14,67.92
+Tomato,Zaid,Gujarat,Tube Well,23.04,790.6,17.8,76.2,19.69,453.66
+Groundnut,Rabi,Gujarat,Drip,47.12,321.8,17.5,60.4,2.7,127.22
+Rice,Kharif,Uttar Pradesh,Canal,24.03,705.5,35.5,51.5,4.12,99.0
+Tomato,Zaid,Maharashtra,Tube Well,16.59,544.1,18.2,114.1,23.68,392.85
+Wheat,Whole Year,Tamil Nadu,Sprinkler,9.72,861.6,33.3,73.0,3.33,32.37
+Potato,Rabi,Punjab,Rainfed,15.95,577.2,17.5,169.4,22.69,361.91
+Mustard,Zaid,Haryana,Tube Well,5.76,1000.8,32.1,157.6,1.42,8.18
+Soybean,Kharif,Maharashtra,Tube Well,40.99,1285.4,18.1,64.9,1.88,77.06
+Cotton,Kharif,Tamil Nadu,Sprinkler,18.63,1373.8,16.8,137.7,2.47,46.02
+Rice,Rabi,Punjab,Tube Well,11.22,975.1,34.3,115.2,3.47,38.93
+Soybean,Kharif,Haryana,Canal,19.51,886.6,26.2,206.4,2.55,49.75
+Groundnut,Kharif,Gujarat,Canal,9.55,246.0,35.8,119.6,2.66,25.4
+Groundnut,Kharif,Andhra Pradesh,Rainfed,23.62,352.3,26.4,69.4,1.58,37.32
+Mustard,Zaid,Uttar Pradesh,Tube Well,14.9,1590.6,27.2,163.3,1.22,18.18
+Mustard,Kharif,Madhya Pradesh,Tube Well,19.21,1584.3,18.6,50.3,0.94,18.06
+Wheat,Rabi,Haryana,Canal,23.51,1548.5,19.5,179.8,3.61,84.87
+Wheat,Zaid,Gujarat,Rainfed,17.61,337.9,18.7,123.1,3.19,56.18
+Wheat,Whole Year,Madhya Pradesh,Canal,3.11,707.4,29.1,92.7,3.71,11.54
+Mustard,Zaid,Uttar Pradesh,Canal,30.06,745.9,30.2,184.2,2.2,66.13
+Mustard,Kharif,Haryana,Rainfed,16.13,903.2,26.2,112.6,1.27,20.49
+Groundnut,Kharif,Maharashtra,Drip,7.81,602.3,22.8,115.7,2.58,20.15
+Mustard,Whole Year,Gujarat,Tube Well,9.1,530.2,23.4,117.2,1.53,13.92
+Soybean,Rabi,Gujarat,Sprinkler,17.82,1187.1,28.8,88.9,2.36,42.06
+Maize,Rabi,Madhya Pradesh,Canal,18.03,713.9,24.6,222.9,4.11,74.1
+Rice,Zaid,Andhra Pradesh,Tube Well,42.88,1241.4,34.2,199.7,3.47,148.79
+Potato,Rabi,West Bengal,Rainfed,29.61,1535.0,25.8,78.0,17.17,508.4
+Maize,Rabi,Madhya Pradesh,Drip,8.01,720.5,29.8,166.9,3.54,28.36
+Groundnut,Rabi,Madhya Pradesh,Tube Well,44.47,784.7,25.3,131.1,2.06,91.61
+Groundnut,Whole Year,Tamil Nadu,Sprinkler,48.88,310.3,30.2,182.1,2.7,131.98
+Sugarcane,Whole Year,West Bengal,Drip,16.33,332.3,27.3,248.7,107.44,1754.5
+Groundnut,Rabi,Punjab,Sprinkler,28.4,1041.3,21.6,109.4,2.44,69.3
+Mustard,Kharif,Uttar Pradesh,Drip,39.7,235.0,34.8,64.0,1.83,72.65
+Wheat,Rabi,Tamil Nadu,Tube Well,29.35,323.0,23.9,115.8,3.1,90.99
+Soybean,Zaid,Punjab,Sprinkler,33.45,651.6,35.2,141.8,2.39,79.95
+Potato,Rabi,Uttar Pradesh,Tube Well,47.99,494.6,26.1,197.1,21.76,1044.26
+Groundnut,Zaid,West Bengal,Sprinkler,45.43,1548.0,32.9,225.5,2.37,107.67
+Tomato,Whole Year,Andhra Pradesh,Rainfed,13.06,561.5,35.3,227.5,27.91,364.5
+Mustard,Kharif,Haryana,Drip,20.46,1137.6,17.5,234.5,1.97,40.31
+Rice,Rabi,Karnataka,Tube Well,40.72,575.1,35.6,53.1,3.19,129.9
+Soybean,Zaid,Andhra Pradesh,Drip,2.13,1403.7,22.9,115.9,2.1,4.47
+Groundnut,Rabi,Andhra Pradesh,Tube Well,48.61,1511.0,34.6,225.9,1.56,75.83
+Potato,Zaid,Gujarat,Canal,5.87,653.6,25.6,248.7,34.76,204.04
+Rice,Rabi,Tamil Nadu,Rainfed,38.57,1361.4,16.1,165.8,2.56,98.74
+Sugarcane,Kharif,Uttar Pradesh,Sprinkler,6.91,1150.3,30.7,152.8,85.43,590.32
+Maize,Rabi,Karnataka,Tube Well,35.64,315.1,15.0,74.0,2.53,90.17
+Maize,Rabi,West Bengal,Canal,3.26,1087.7,16.8,78.3,2.61,8.51
+Maize,Rabi,Gujarat,Rainfed,28.41,230.9,28.2,142.6,2.94,83.53
+Groundnut,Whole Year,Tamil Nadu,Drip,27.93,986.1,15.5,223.0,2.75,76.81
+Wheat,Kharif,Andhra Pradesh,Sprinkler,16.58,793.1,24.8,137.9,3.66,60.68
+Mustard,Kharif,Gujarat,Drip,31.96,224.2,18.6,119.8,2.07,66.16
+Cotton,Whole Year,Madhya Pradesh,Drip,45.36,292.6,26.1,123.2,2.51,113.85
+Sugarcane,Kharif,West Bengal,Sprinkler,35.29,861.3,34.1,131.9,93.06,3284.09
+Mustard,Kharif,Tamil Nadu,Sprinkler,5.52,805.7,27.8,73.7,1.6,8.83
+Soybean,Whole Year,Gujarat,Canal,11.88,1450.2,29.5,71.1,2.37,28.16
+Mustard,Zaid,Maharashtra,Drip,16.7,1191.8,35.8,128.0,1.59,26.55
+Potato,Whole Year,Haryana,Drip,14.81,1508.8,15.5,93.5,16.33,241.85
+Maize,Rabi,West Bengal,Canal,19.1,934.1,26.8,170.3,3.66,69.91
+Potato,Zaid,Gujarat,Drip,25.73,611.5,16.1,150.7,27.35,703.72
+Cotton,Whole Year,Madhya Pradesh,Rainfed,43.48,990.5,32.9,79.4,1.7,73.92
+Wheat,Rabi,Maharashtra,Tube Well,40.57,270.6,33.6,167.3,3.17,128.61
+Groundnut,Kharif,Uttar Pradesh,Tube Well,14.58,984.6,30.5,66.3,1.85,26.97
+Cotton,Kharif,Gujarat,Tube Well,47.7,928.4,18.8,71.6,1.45,69.17
+Rice,Whole Year,Karnataka,Canal,21.94,1275.3,35.1,228.3,5.01,109.92
+Mustard,Kharif,Punjab,Tube Well,15.15,812.1,22.6,204.8,1.7,25.75
+Soybean,Zaid,Karnataka,Sprinkler,32.72,823.8,24.5,95.0,2.26,73.95
+Groundnut,Zaid,Maharashtra,Canal,26.61,913.7,19.5,168.5,2.69,71.58
+Potato,Rabi,Madhya Pradesh,Sprinkler,12.26,1304.7,17.9,103.6,20.65,253.17
+Mustard,Zaid,Maharashtra,Sprinkler,21.66,982.6,34.9,99.5,1.67,36.17
+Soybean,Zaid,Madhya Pradesh,Sprinkler,5.44,1234.5,30.0,187.9,2.65,14.42
+Mustard,Rabi,Gujarat,Drip,38.32,1092.6,31.9,187.6,1.81,69.36
+Sugarcane,Whole Year,West Bengal,Tube Well,33.45,714.5,34.8,118.7,63.28,2116.72
+Tomato,Rabi,Madhya Pradesh,Tube Well,22.46,704.7,24.0,114.7,23.22,521.52
+Mustard,Whole Year,Uttar Pradesh,Drip,5.91,891.4,33.2,230.1,2.19,12.94
+Cotton,Rabi,West Bengal,Tube Well,29.75,373.4,18.1,204.4,2.45,72.89
+Groundnut,Zaid,Karnataka,Rainfed,17.89,1297.6,19.0,57.3,1.54,27.55
+Cotton,Whole Year,Maharashtra,Canal,38.76,1043.1,21.6,177.6,2.25,87.21
+Tomato,Zaid,West Bengal,Canal,8.81,1452.7,32.5,236.8,28.16,248.09
+Groundnut,Zaid,West Bengal,Sprinkler,39.67,890.5,15.9,89.7,1.89,74.98
+Mustard,Whole Year,Punjab,Rainfed,37.31,288.8,35.3,50.0,1.47,54.85
+Wheat,Whole Year,Tamil Nadu,Canal,29.96,815.4,21.0,116.1,3.71,111.15
+Cotton,Zaid,Tamil Nadu,Tube Well,2.06,1443.6,17.2,250.0,1.91,3.93
+Sugarcane,Whole Year,Madhya Pradesh,Canal,18.75,1228.2,22.4,111.0,81.47,1527.56
+Sugarcane,Kharif,Tamil Nadu,Tube Well,7.79,1594.6,22.3,77.3,49.25,383.66
+Cotton,Rabi,Haryana,Rainfed,5.31,693.7,29.0,233.2,2.63,13.97
+Soybean,Whole Year,Punjab,Sprinkler,34.53,1229.9,22.5,51.3,1.64,56.63
+Mustard,Kharif,Karnataka,Rainfed,3.77,1066.9,29.1,83.2,1.28,4.83
+Soybean,Kharif,Madhya Pradesh,Tube Well,49.99,377.8,31.7,249.8,2.61,130.47
+Wheat,Rabi,Karnataka,Rainfed,13.68,204.7,19.7,208.0,3.39,46.38
+Maize,Whole Year,Madhya Pradesh,Tube Well,49.06,217.2,25.2,150.9,2.78,136.39
+Potato,Whole Year,Gujarat,Tube Well,40.32,1503.0,17.6,133.3,15.18,612.06
+Mustard,Whole Year,Tamil Nadu,Drip,28.73,697.4,26.3,179.4,2.11,60.62
+Sugarcane,Zaid,Haryana,Canal,6.35,468.4,28.2,131.6,79.53,505.02
+Rice,Zaid,Punjab,Drip,14.05,771.7,15.7,57.4,4.15,58.31
+Soybean,Zaid,Gujarat,Canal,13.75,247.5,29.9,221.1,3.08,42.35
+Potato,Kharif,Gujarat,Tube Well,32.76,1554.6,29.2,247.0,18.09,592.63
+Wheat,Zaid,Karnataka,Drip,11.05,365.1,29.8,124.3,4.54,50.17
+Maize,Kharif,Andhra Pradesh,Tube Well,39.83,641.0,26.9,109.6,2.56,101.96
+Sugarcane,Rabi,Karnataka,Rainfed,44.56,260.9,23.8,168.7,62.07,2765.84
+Wheat,Kharif,Madhya Pradesh,Sprinkler,32.62,423.6,22.0,116.0,3.82,124.61
+Soybean,Kharif,Tamil Nadu,Drip,27.87,1296.1,32.4,183.3,2.79,77.76
+Mustard,Whole Year,Uttar Pradesh,Tube Well,3.12,1173.5,34.8,204.7,1.41,4.4
+Cotton,Zaid,West Bengal,Sprinkler,12.75,852.2,21.5,159.5,2.67,34.04
+Sugarcane,Zaid,Uttar Pradesh,Drip,43.79,634.2,32.4,116.4,94.6,4142.53
+Tomato,Kharif,Gujarat,Canal,33.11,1148.0,25.3,187.4,29.48,976.08
+Maize,Zaid,West Bengal,Rainfed,36.91,1220.5,26.9,114.5,2.53,93.38
+Potato,Whole Year,Gujarat,Rainfed,45.97,715.3,34.3,134.7,20.69,951.12
+Tomato,Kharif,West Bengal,Rainfed,21.79,563.9,21.1,87.3,24.01,523.18
+Maize,Zaid,Punjab,Sprinkler,35.9,1581.8,22.9,142.5,2.76,99.08
+Sugarcane,Whole Year,Uttar Pradesh,Drip,41.11,1073.1,35.1,230.9,88.39,3633.71
+Potato,Rabi,Uttar Pradesh,Rainfed,24.54,875.4,27.6,207.7,21.48,527.12
+Groundnut,Whole Year,West Bengal,Tube Well,5.4,1428.5,35.1,102.4,1.5,8.1
+Sugarcane,Kharif,Madhya Pradesh,Sprinkler,1.12,352.6,28.0,59.0,65.62,73.49
+Cotton,Whole Year,Tamil Nadu,Sprinkler,36.09,1286.2,30.8,114.2,1.6,57.74
+Groundnut,Rabi,Tamil Nadu,Tube Well,8.46,1381.2,17.1,56.7,1.49,12.61
+Rice,Kharif,Andhra Pradesh,Drip,5.56,1004.4,34.1,57.1,3.65,20.29
+Sugarcane,Kharif,Gujarat,Drip,43.09,607.2,22.0,159.7,78.78,3394.63
+Groundnut,Zaid,Karnataka,Tube Well,44.07,1188.2,33.4,77.9,1.48,65.22
+Mustard,Kharif,Maharashtra,Tube Well,1.47,598.3,23.0,68.4,1.16,1.71
+Tomato,Whole Year,Punjab,Canal,41.89,879.8,35.3,232.8,36.21,1516.84
+Tomato,Kharif,Uttar Pradesh,Rainfed,35.84,990.9,34.7,168.8,22.32,799.95
+Tomato,Zaid,Maharashtra,Canal,46.11,529.0,35.5,224.6,36.62,1688.55
+Sugarcane,Whole Year,Punjab,Tube Well,4.83,835.3,30.2,56.7,56.45,272.65
+Wheat,Kharif,Madhya Pradesh,Rainfed,9.66,765.2,18.3,149.3,3.55,34.29
+Cotton,Rabi,Karnataka,Sprinkler,35.51,961.4,22.8,228.3,2.73,96.94
+Potato,Whole Year,West Bengal,Rainfed,35.7,589.8,18.2,66.4,21.72,775.4
+Maize,Zaid,West Bengal,Canal,24.8,1030.7,31.6,219.8,4.02,99.7
+Mustard,Rabi,Uttar Pradesh,Sprinkler,41.04,1340.7,16.8,171.4,1.69,69.36
+Mustard,Zaid,Andhra Pradesh,Sprinkler,15.54,488.4,33.8,79.7,1.55,24.09
+Tomato,Rabi,Madhya Pradesh,Sprinkler,21.45,1565.0,17.8,128.3,23.85,511.58
+Soybean,Whole Year,Karnataka,Tube Well,20.96,335.9,34.9,133.2,2.05,42.97
+Mustard,Zaid,Gujarat,Tube Well,8.28,433.3,19.2,134.0,1.3,10.76
+Wheat,Zaid,Punjab,Tube Well,1.0,1489.3,32.3,242.8,3.37,3.37
+Cotton,Whole Year,Madhya Pradesh,Rainfed,7.02,463.8,32.2,56.7,1.7,11.93
+Wheat,Whole Year,Gujarat,Canal,38.9,523.5,19.1,107.8,3.81,148.21
+Cotton,Whole Year,Haryana,Tube Well,22.53,427.7,30.8,83.3,2.09,47.09
+Soybean,Kharif,Tamil Nadu,Drip,12.18,306.4,26.8,60.8,2.79,33.98
+Soybean,Zaid,Maharashtra,Tube Well,39.2,746.4,34.9,238.6,2.59,101.53
+Wheat,Zaid,Maharashtra,Canal,44.24,314.8,22.8,113.8,4.01,177.4
+Tomato,Zaid,Madhya Pradesh,Sprinkler,12.61,1319.6,18.2,115.1,24.43,308.06
+Rice,Whole Year,Maharashtra,Canal,3.21,1461.1,35.0,197.1,4.0,12.84
+Cotton,Kharif,West Bengal,Rainfed,2.82,934.3,32.1,118.8,2.02,5.7
+Mustard,Kharif,Uttar Pradesh,Rainfed,25.19,235.9,20.9,212.4,1.69,42.57
+Maize,Zaid,Haryana,Tube Well,9.49,750.9,23.1,107.2,2.79,26.48
+Mustard,Rabi,Punjab,Drip,7.37,822.7,24.3,51.7,1.72,12.68
+Sugarcane,Whole Year,Tamil Nadu,Drip,17.74,756.3,22.8,132.2,102.97,1826.69
+Groundnut,Kharif,Gujarat,Drip,1.91,885.6,24.4,62.0,2.18,4.16
+Maize,Rabi,Maharashtra,Sprinkler,40.79,1499.3,20.5,78.7,2.33,95.04
+Sugarcane,Kharif,Tamil Nadu,Canal,24.76,489.1,28.6,166.6,86.1,2131.84
+Wheat,Kharif,West Bengal,Tube Well,45.01,1366.4,15.7,77.8,2.42,108.92
+Mustard,Kharif,Uttar Pradesh,Drip,3.73,1181.8,22.7,122.9,1.86,6.94
+Maize,Whole Year,Karnataka,Drip,23.18,1387.2,21.2,57.3,2.91,67.45
+Groundnut,Kharif,Haryana,Tube Well,10.09,1145.7,16.7,134.8,1.79,18.06
+Tomato,Whole Year,Punjab,Tube Well,24.87,445.0,17.1,112.7,21.52,535.2
+Sugarcane,Kharif,Punjab,Drip,1.06,1195.5,30.0,138.9,88.77,94.1
+Mustard,Whole Year,Tamil Nadu,Drip,44.53,276.1,28.2,133.3,1.88,83.72
+Tomato,Whole Year,Tamil Nadu,Rainfed,9.34,594.1,20.7,70.1,24.83,231.91
+Groundnut,Rabi,Haryana,Drip,26.55,527.1,25.2,141.9,2.1,55.76
+Potato,Whole Year,West Bengal,Sprinkler,29.75,1047.9,30.7,227.8,21.86,650.34
+Maize,Whole Year,Gujarat,Tube Well,4.36,1323.9,31.9,133.4,2.33,10.16
+Soybean,Zaid,Karnataka,Tube Well,42.71,1428.5,20.6,174.4,1.77,75.6
+Soybean,Zaid,West Bengal,Canal,3.8,277.6,15.2,57.6,2.32,8.82
+Soybean,Zaid,Punjab,Rainfed,2.0,1388.6,29.6,178.1,1.73,3.46
+Groundnut,Zaid,Maharashtra,Sprinkler,2.5,458.0,35.2,140.9,2.17,5.42
+Cotton,Whole Year,Andhra Pradesh,Sprinkler,2.97,311.3,20.8,110.8,2.08,6.18
+Potato,Whole Year,Andhra Pradesh,Sprinkler,31.7,1000.4,18.2,220.5,22.55,714.84
+Tomato,Rabi,Punjab,Tube Well,38.45,1476.7,27.1,128.9,20.84,801.3
+Wheat,Zaid,Karnataka,Drip,22.33,530.3,30.8,197.4,4.73,105.62
+Cotton,Whole Year,Maharashtra,Canal,6.71,230.3,18.9,87.4,2.43,16.31
+Maize,Whole Year,Karnataka,Rainfed,28.28,1377.2,29.2,226.0,2.82,79.75
+Maize,Whole Year,Haryana,Sprinkler,7.73,1082.4,33.3,65.0,2.59,20.02
+Cotton,Whole Year,Tamil Nadu,Rainfed,37.42,346.1,27.3,249.6,2.49,93.18
+Cotton,Zaid,Haryana,Rainfed,31.69,889.5,26.8,109.1,1.96,62.11
+Tomato,Kharif,Tamil Nadu,Sprinkler,29.33,916.6,35.5,91.2,25.46,746.74
+Sugarcane,Whole Year,West Bengal,Tube Well,49.48,1113.2,21.4,99.8,61.48,3042.03
+Mustard,Rabi,Haryana,Sprinkler,8.61,874.4,23.6,145.3,1.8,15.5
+Tomato,Kharif,West Bengal,Sprinkler,48.24,1571.1,23.9,207.8,23.16,1117.24
+Groundnut,Rabi,Gujarat,Tube Well,30.19,1012.0,34.4,208.0,2.09,63.1
+Mustard,Rabi,Punjab,Tube Well,25.0,974.0,25.6,60.8,1.25,31.25
+Wheat,Rabi,Madhya Pradesh,Sprinkler,33.22,1035.4,18.6,224.5,4.55,151.15
+Tomato,Kharif,West Bengal,Canal,20.56,1354.5,32.7,249.3,29.66,609.81
+Wheat,Zaid,Madhya Pradesh,Sprinkler,5.91,1063.2,22.1,210.9,4.04,23.88
+Soybean,Rabi,Tamil Nadu,Drip,49.21,292.7,27.1,247.9,3.61,177.65
+Sugarcane,Whole Year,West Bengal,Tube Well,10.22,1534.7,32.2,52.4,53.37,545.44
+Potato,Kharif,Uttar Pradesh,Tube Well,43.45,1245.4,28.6,203.2,19.63,852.92
+Potato,Kharif,West Bengal,Drip,3.16,506.9,33.9,218.6,36.31,114.74
+Potato,Whole Year,Haryana,Tube Well,46.77,1025.9,20.1,93.1,19.05,890.97
+Groundnut,Rabi,Madhya Pradesh,Canal,8.36,1027.9,27.3,224.0,2.73,22.82
+Sugarcane,Zaid,Madhya Pradesh,Tube Well,7.4,1055.2,29.5,190.6,74.02,547.75
+Groundnut,Rabi,Andhra Pradesh,Sprinkler,38.38,676.0,17.2,186.5,2.57,98.64
+Mustard,Zaid,Gujarat,Rainfed,9.55,1263.7,35.5,207.5,1.34,12.8
+Cotton,Kharif,Andhra Pradesh,Rainfed,23.95,805.6,32.0,240.7,2.75,65.86
+Groundnut,Zaid,Karnataka,Canal,35.59,1453.5,25.4,71.8,2.03,72.25
+Wheat,Zaid,Punjab,Tube Well,2.22,716.3,20.2,242.8,3.09,6.86
+Mustard,Zaid,Tamil Nadu,Drip,3.97,1190.1,35.4,222.2,2.2,8.73
+Sugarcane,Kharif,Punjab,Canal,39.87,577.8,33.4,69.7,77.71,3098.3
+Soybean,Whole Year,Tamil Nadu,Canal,15.8,569.2,35.0,222.5,3.17,50.09
+Rice,Zaid,West Bengal,Sprinkler,10.05,905.0,19.6,125.6,4.26,42.81
+Sugarcane,Zaid,Maharashtra,Sprinkler,30.31,1478.3,18.1,61.9,61.63,1868.01
+Cotton,Zaid,Punjab,Rainfed,42.33,1241.8,31.3,122.0,1.97,83.39
+Sugarcane,Rabi,Punjab,Tube Well,12.53,699.9,15.7,78.3,55.44,694.66
+Soybean,Kharif,Madhya Pradesh,Rainfed,7.07,1087.8,31.9,242.7,2.09,14.78
+Cotton,Zaid,Andhra Pradesh,Tube Well,41.6,287.2,29.3,107.8,1.97,81.95
+Sugarcane,Kharif,West Bengal,Sprinkler,30.83,534.1,16.8,198.9,79.49,2450.68
+Soybean,Kharif,Madhya Pradesh,Sprinkler,21.32,1345.4,27.2,68.2,1.67,35.6
+Tomato,Zaid,Tamil Nadu,Tube Well,8.21,419.1,26.8,98.0,22.94,188.34
+Tomato,Kharif,Tamil Nadu,Canal,1.33,386.8,27.2,148.8,32.98,43.86
+Wheat,Kharif,Maharashtra,Sprinkler,26.85,868.6,22.1,231.8,4.14,111.16
+Sugarcane,Rabi,West Bengal,Drip,4.32,1293.8,25.8,181.4,88.8,383.62
+Potato,Rabi,Uttar Pradesh,Canal,13.68,1124.5,17.2,54.0,21.72,297.13
+Wheat,Whole Year,West Bengal,Tube Well,21.61,307.5,30.8,202.4,3.65,78.88
+Sugarcane,Whole Year,Tamil Nadu,Tube Well,12.72,816.1,21.1,93.4,62.98,801.11
+Rice,Zaid,Uttar Pradesh,Sprinkler,17.75,212.1,25.9,155.0,3.68,65.32
+Cotton,Rabi,Tamil Nadu,Sprinkler,34.44,532.2,15.6,72.0,2.23,76.8
+Wheat,Whole Year,Uttar Pradesh,Canal,48.64,852.3,29.2,148.4,3.93,191.16
+Maize,Whole Year,Uttar Pradesh,Drip,45.33,329.0,24.5,125.5,3.68,166.81
+Groundnut,Zaid,Uttar Pradesh,Tube Well,31.04,320.1,31.0,153.2,2.34,72.63
+Groundnut,Rabi,West Bengal,Drip,25.48,895.5,30.8,135.4,2.61,66.5
+Sugarcane,Zaid,Punjab,Tube Well,34.13,926.2,33.5,163.6,68.07,2323.23
+Rice,Whole Year,West Bengal,Drip,33.3,1425.4,30.9,112.0,3.55,118.21
+Sugarcane,Whole Year,Uttar Pradesh,Tube Well,31.71,1332.9,19.4,77.3,53.94,1710.44
+Tomato,Zaid,Punjab,Canal,48.69,479.4,31.4,58.8,26.59,1294.67
+Tomato,Zaid,Andhra Pradesh,Rainfed,47.52,356.7,20.0,239.2,28.13,1336.74
+Tomato,Zaid,Uttar Pradesh,Rainfed,44.49,1423.8,33.1,128.1,17.84,793.7
+Groundnut,Rabi,Madhya Pradesh,Canal,43.83,1580.9,32.2,196.0,2.55,111.77
+Wheat,Zaid,Tamil Nadu,Canal,9.03,1017.4,22.0,232.0,4.61,41.63
+Groundnut,Kharif,West Bengal,Canal,22.13,1188.2,23.0,245.3,2.93,64.84
+Wheat,Kharif,Punjab,Sprinkler,43.74,1412.7,22.3,136.2,3.49,152.65
+Mustard,Whole Year,Maharashtra,Drip,44.57,548.8,31.8,152.8,2.12,94.49
+Groundnut,Whole Year,Punjab,Sprinkler,35.27,487.0,34.8,54.9,1.86,65.6
+Tomato,Zaid,Tamil Nadu,Canal,33.89,1219.6,33.2,128.6,28.22,956.38
+Maize,Zaid,Gujarat,Rainfed,34.08,1204.9,24.1,222.7,3.13,106.67
+Groundnut,Kharif,Maharashtra,Drip,1.92,776.3,28.0,151.0,2.54,4.88
+Maize,Rabi,Karnataka,Tube Well,25.04,363.7,21.2,100.9,3.02,75.62
+Groundnut,Zaid,West Bengal,Tube Well,20.75,296.5,30.4,188.9,2.39,49.59
+Rice,Zaid,Punjab,Drip,23.56,1123.7,31.3,224.1,4.51,106.26
+Maize,Whole Year,Madhya Pradesh,Rainfed,49.18,524.6,19.7,193.1,3.21,157.87
+Mustard,Kharif,Uttar Pradesh,Canal,27.31,1139.4,25.2,151.4,1.63,44.52
+Wheat,Zaid,Haryana,Tube Well,22.29,849.0,26.1,243.5,3.67,81.8
+Groundnut,Zaid,Andhra Pradesh,Drip,5.39,1194.5,23.2,217.5,2.73,14.71
+Sugarcane,Kharif,Maharashtra,Tube Well,19.47,911.5,15.9,249.2,76.3,1485.56
+Mustard,Rabi,Karnataka,Drip,28.58,1140.1,27.0,181.3,1.56,44.58
+Maize,Kharif,Madhya Pradesh,Canal,18.49,1562.7,16.0,109.7,2.47,45.67
+Tomato,Whole Year,Punjab,Sprinkler,24.97,420.7,29.5,214.2,34.96,872.95
+Tomato,Rabi,Madhya Pradesh,Rainfed,44.04,392.8,20.5,147.9,25.13,1106.73
+Sugarcane,Rabi,Madhya Pradesh,Sprinkler,7.97,449.4,22.9,92.0,69.7,555.51
+Mustard,Zaid,West Bengal,Canal,29.49,607.8,31.4,205.2,2.06,60.75
+Tomato,Kharif,Uttar Pradesh,Tube Well,18.16,1545.6,17.8,248.1,21.9,397.7
+Potato,Zaid,Andhra Pradesh,Sprinkler,28.75,335.2,33.4,77.3,21.78,626.18
+Rice,Whole Year,Madhya Pradesh,Tube Well,1.59,693.4,21.4,181.5,3.73,5.93
+Rice,Zaid,Tamil Nadu,Rainfed,3.54,1247.6,25.0,194.2,3.51,12.43
+Soybean,Rabi,Maharashtra,Canal,8.86,1413.7,17.6,126.9,2.57,22.77
+Tomato,Zaid,Haryana,Canal,11.3,844.6,35.8,122.5,31.3,353.69
+Potato,Rabi,Andhra Pradesh,Drip,7.38,1060.5,19.8,145.9,27.94,206.2
+Sugarcane,Zaid,West Bengal,Rainfed,28.12,1051.7,22.7,62.1,56.81,1597.5
+Soybean,Whole Year,West Bengal,Tube Well,37.36,302.2,24.4,215.2,2.29,85.55
+Wheat,Rabi,West Bengal,Tube Well,37.01,209.8,33.3,61.3,2.49,92.15
+Maize,Rabi,West Bengal,Rainfed,26.85,1463.3,16.4,231.1,3.07,82.43
+Tomato,Kharif,Karnataka,Rainfed,37.73,924.2,25.7,163.8,23.74,895.71
+Tomato,Rabi,Karnataka,Sprinkler,25.44,668.2,28.6,227.8,33.53,853.0
+Sugarcane,Zaid,Gujarat,Sprinkler,12.49,657.3,20.9,168.0,85.61,1069.27
+Potato,Zaid,Punjab,Canal,11.73,706.3,31.6,197.8,31.61,370.79
+Groundnut,Kharif,Gujarat,Tube Well,40.36,630.6,31.2,179.5,2.0,80.72
+Tomato,Rabi,Uttar Pradesh,Canal,40.47,952.7,31.7,75.6,24.19,978.97
+Rice,Zaid,Gujarat,Canal,12.29,1022.9,16.6,74.0,3.91,48.05
+Tomato,Whole Year,Karnataka,Canal,7.25,1420.9,16.7,87.8,27.02,195.9
+Tomato,Kharif,Madhya Pradesh,Sprinkler,21.43,902.4,31.2,177.3,27.75,594.68
+Mustard,Kharif,Punjab,Drip,20.67,733.8,34.5,186.9,2.31,47.75
+Rice,Rabi,Maharashtra,Drip,33.18,287.7,35.1,179.5,4.42,146.66
+Rice,Whole Year,Karnataka,Rainfed,28.88,750.0,20.3,231.0,4.21,121.58
+Rice,Rabi,Gujarat,Sprinkler,28.29,1436.9,15.3,63.4,3.52,99.58
+Tomato,Rabi,Karnataka,Sprinkler,8.14,1534.5,29.6,167.1,26.01,211.72
+Rice,Rabi,Uttar Pradesh,Sprinkler,49.91,1257.1,28.1,167.6,3.44,171.69
+Rice,Kharif,Punjab,Sprinkler,46.07,1480.0,15.2,71.5,3.22,148.35
+Potato,Kharif,Haryana,Drip,45.23,391.9,25.1,114.2,25.46,1151.56
+Cotton,Rabi,Tamil Nadu,Canal,32.05,236.0,35.8,109.2,2.26,72.43
+Tomato,Kharif,Punjab,Sprinkler,7.6,1285.0,25.6,235.8,28.8,218.88
+Potato,Zaid,Maharashtra,Tube Well,29.83,451.8,15.6,117.0,19.11,570.05
+Cotton,Whole Year,Maharashtra,Tube Well,11.84,509.3,27.7,229.3,2.72,32.2
+Groundnut,Whole Year,Punjab,Tube Well,18.37,277.9,19.1,229.6,2.47,45.37
+Tomato,Kharif,Haryana,Sprinkler,7.61,357.1,33.0,92.0,26.45,201.28
+Tomato,Kharif,Maharashtra,Tube Well,3.11,1590.9,15.6,60.0,19.33,60.12
+Wheat,Zaid,Uttar Pradesh,Drip,13.6,860.7,15.4,65.8,3.22,43.79
+Mustard,Rabi,Maharashtra,Drip,15.4,415.8,26.2,137.4,2.1,32.34
+Soybean,Whole Year,Karnataka,Sprinkler,3.24,1192.8,32.8,190.2,2.22,7.19
+Tomato,Zaid,Madhya Pradesh,Tube Well,31.46,741.2,19.6,235.1,27.92,878.36
+Potato,Rabi,Haryana,Drip,19.81,1395.8,33.1,96.5,25.2,499.21
+Cotton,Rabi,Uttar Pradesh,Canal,45.84,1516.2,15.7,192.4,2.38,109.1
+Soybean,Rabi,Gujarat,Tube Well,21.44,1483.2,15.9,210.4,1.93,41.38
+Tomato,Rabi,Karnataka,Drip,17.84,1107.1,25.9,190.6,28.93,516.11
+Mustard,Rabi,Gujarat,Canal,18.85,825.2,17.4,216.9,2.2,41.47
+Wheat,Whole Year,Punjab,Rainfed,12.34,737.3,35.8,79.2,2.98,36.77
+Soybean,Zaid,Uttar Pradesh,Sprinkler,45.04,438.8,23.9,242.1,3.16,142.33
+Wheat,Rabi,Madhya Pradesh,Canal,42.45,1398.3,28.7,94.1,3.04,129.05
+Rice,Rabi,Karnataka,Tube Well,12.31,1304.8,34.9,233.6,3.84,47.27
+Soybean,Whole Year,Maharashtra,Sprinkler,24.02,1435.8,33.3,207.5,2.15,51.64
+Tomato,Rabi,Gujarat,Rainfed,38.41,1392.4,25.6,155.2,20.87,801.62
+Potato,Rabi,Andhra Pradesh,Rainfed,16.52,1315.3,35.8,180.4,17.55,289.93
+Maize,Rabi,Uttar Pradesh,Sprinkler,8.04,581.3,27.5,200.6,4.14,33.29
+Groundnut,Rabi,Haryana,Rainfed,48.55,388.6,33.7,190.8,2.12,102.93
+Tomato,Zaid,Karnataka,Tube Well,33.24,910.3,30.4,134.1,23.58,783.8
+Mustard,Kharif,Andhra Pradesh,Drip,36.59,200.6,20.8,185.9,2.0,73.18
+Tomato,Rabi,Uttar Pradesh,Tube Well,27.02,474.1,28.4,76.3,20.98,566.88
+Mustard,Zaid,Gujarat,Rainfed,36.59,1250.6,27.4,139.6,1.22,44.64
+Rice,Whole Year,Punjab,Drip,40.83,1078.6,25.6,196.5,4.72,192.72
+Rice,Kharif,Maharashtra,Rainfed,38.8,1288.0,27.6,151.4,3.36,130.37
+Sugarcane,Kharif,Tamil Nadu,Drip,22.89,1498.7,21.3,130.1,81.04,1855.01
+Groundnut,Rabi,West Bengal,Tube Well,25.33,209.9,27.4,209.6,1.77,44.83
+Potato,Rabi,Karnataka,Canal,36.13,770.9,16.3,110.8,26.78,967.56
+Sugarcane,Kharif,Madhya Pradesh,Drip,7.35,845.4,35.0,109.0,83.45,613.36
+Potato,Zaid,Karnataka,Drip,9.55,446.9,34.7,227.9,34.97,333.96
+Tomato,Zaid,West Bengal,Tube Well,20.28,422.1,23.2,109.5,18.14,367.88
+Wheat,Rabi,West Bengal,Drip,35.57,917.0,34.3,68.2,3.85,136.94
+Mustard,Kharif,Maharashtra,Drip,15.97,441.4,20.6,150.4,2.28,36.41
+Wheat,Rabi,Haryana,Sprinkler,25.88,356.4,20.9,115.0,3.67,94.98
+Potato,Rabi,Andhra Pradesh,Tube Well,30.43,1482.4,25.7,50.6,13.78,419.33
+Potato,Kharif,Punjab,Drip,13.81,1415.8,15.6,168.4,23.78,328.4
+Groundnut,Whole Year,Haryana,Drip,46.16,600.8,24.9,199.3,2.97,137.1
+Tomato,Zaid,Madhya Pradesh,Canal,14.79,260.7,28.0,61.2,21.27,314.58
+Mustard,Kharif,Maharashtra,Tube Well,24.2,1465.8,23.0,155.1,1.28,30.98
+Sugarcane,Zaid,Madhya Pradesh,Tube Well,43.46,667.0,20.3,158.7,69.6,3024.82
+Cotton,Kharif,Tamil Nadu,Rainfed,33.44,824.5,27.1,203.4,2.07,69.22
+Tomato,Zaid,Andhra Pradesh,Drip,1.6,443.6,32.0,159.2,35.12,56.19
+Mustard,Kharif,Haryana,Tube Well,4.15,1035.9,22.5,136.7,1.21,5.02
+Soybean,Rabi,Uttar Pradesh,Canal,25.27,1190.7,24.7,111.8,2.41,60.9
+Potato,Rabi,Andhra Pradesh,Rainfed,2.69,763.2,21.0,102.8,17.36,46.7
+Groundnut,Zaid,Uttar Pradesh,Tube Well,7.14,1328.9,30.0,75.9,1.61,11.5
+Potato,Rabi,Maharashtra,Rainfed,9.17,964.9,26.6,234.4,20.93,191.93
+Soybean,Whole Year,Uttar Pradesh,Rainfed,9.49,734.5,15.6,215.3,2.18,20.69
+Cotton,Whole Year,Maharashtra,Canal,11.33,504.5,26.7,182.0,2.85,32.29
+Potato,Zaid,Andhra Pradesh,Drip,30.52,1512.5,26.7,51.1,18.36,560.35
+Mustard,Whole Year,Gujarat,Rainfed,40.76,649.9,18.9,129.2,1.59,64.81
+Mustard,Zaid,Gujarat,Sprinkler,39.1,1201.2,26.3,126.7,1.38,53.96
+Groundnut,Zaid,Uttar Pradesh,Drip,2.32,507.4,24.1,65.9,2.02,4.69
+Rice,Zaid,Karnataka,Rainfed,13.43,315.8,34.2,101.7,2.93,39.35
+Potato,Whole Year,West Bengal,Sprinkler,20.57,203.2,18.7,75.3,22.01,452.75
+Tomato,Kharif,Madhya Pradesh,Rainfed,25.55,1487.6,27.8,149.1,17.91,457.6
+Mustard,Kharif,Andhra Pradesh,Canal,6.06,1075.8,25.0,249.7,2.33,14.12
+Sugarcane,Zaid,Maharashtra,Drip,42.7,294.1,17.2,163.1,86.62,3698.67
+Mustard,Kharif,Tamil Nadu,Canal,26.45,906.9,32.1,248.6,1.97,52.11
+Sugarcane,Whole Year,Andhra Pradesh,Drip,11.71,478.3,33.0,248.5,99.42,1164.21
+Rice,Zaid,Gujarat,Canal,12.43,204.2,29.5,168.1,4.23,52.58
+Sugarcane,Zaid,Maharashtra,Canal,17.21,1478.3,17.2,198.8,71.35,1227.93
+Groundnut,Whole Year,Uttar Pradesh,Drip,2.3,901.8,27.7,196.5,2.91,6.69
+Tomato,Kharif,Tamil Nadu,Sprinkler,18.4,713.1,24.0,68.4,26.65,490.36
+Sugarcane,Whole Year,Gujarat,Tube Well,9.25,263.7,19.5,205.8,58.72,543.16
+Soybean,Kharif,Punjab,Drip,37.35,397.9,32.3,208.8,3.15,117.65
+Tomato,Zaid,Gujarat,Drip,49.74,1039.9,34.5,101.0,27.58,1371.83
+Sugarcane,Whole Year,Tamil Nadu,Canal,22.36,364.9,32.9,64.3,69.98,1564.75
+Mustard,Zaid,Uttar Pradesh,Rainfed,21.2,403.5,24.2,128.0,1.5,31.8
+Rice,Kharif,Punjab,Drip,26.2,505.5,25.4,50.2,3.51,91.96
+Wheat,Whole Year,Uttar Pradesh,Sprinkler,18.74,805.3,17.4,80.6,3.23,60.53
+Sugarcane,Kharif,Gujarat,Drip,12.5,821.5,16.0,150.0,99.46,1243.25
+Soybean,Kharif,Madhya Pradesh,Tube Well,3.12,1101.5,26.6,95.9,1.89,5.9
+Wheat,Rabi,Uttar Pradesh,Canal,14.55,1254.7,20.1,185.1,4.02,58.49
+Rice,Zaid,West Bengal,Rainfed,9.45,1216.4,16.3,83.1,2.78,26.27
+Mustard,Whole Year,Uttar Pradesh,Canal,49.07,1289.8,33.1,51.2,1.48,72.62
+Soybean,Zaid,Gujarat,Tube Well,8.16,414.0,22.6,192.8,2.23,18.2
+Tomato,Rabi,Punjab,Canal,44.55,1478.2,15.3,245.6,30.88,1375.7
+Tomato,Kharif,Gujarat,Sprinkler,45.08,541.0,17.6,217.1,31.3,1411.0
+Rice,Whole Year,West Bengal,Canal,17.74,1266.6,25.2,177.6,4.4,78.06
+Soybean,Rabi,Punjab,Canal,20.18,489.0,33.4,72.7,2.77,55.9
+Groundnut,Zaid,Karnataka,Canal,30.73,1483.2,35.0,50.9,1.95,59.92
+Maize,Whole Year,Madhya Pradesh,Rainfed,14.33,1031.3,22.0,95.0,2.41,34.54
+Sugarcane,Zaid,Uttar Pradesh,Rainfed,45.3,595.2,35.3,174.5,65.16,2951.75
+Wheat,Rabi,Karnataka,Sprinkler,43.54,786.1,35.2,166.7,3.56,155.0
+Sugarcane,Rabi,Gujarat,Sprinkler,49.68,991.2,15.0,236.6,96.69,4803.56
+Cotton,Rabi,Karnataka,Sprinkler,35.83,1044.6,32.9,127.9,2.05,73.45
+Mustard,Rabi,Tamil Nadu,Tube Well,18.92,302.2,34.3,145.1,1.52,28.76
+Cotton,Kharif,Uttar Pradesh,Rainfed,22.14,1545.9,35.3,57.7,1.23,27.23
+Mustard,Rabi,Madhya Pradesh,Sprinkler,32.49,1298.5,17.4,154.6,1.57,51.01
+Tomato,Whole Year,Maharashtra,Tube Well,8.63,1011.7,27.6,133.7,21.91,189.08
+Groundnut,Whole Year,Madhya Pradesh,Canal,17.22,897.7,20.2,206.6,2.51,43.22
+Maize,Whole Year,Gujarat,Tube Well,41.7,969.5,18.7,240.3,3.41,142.2
+Mustard,Kharif,Uttar Pradesh,Rainfed,4.59,216.1,35.1,110.0,1.16,5.32
+Wheat,Kharif,West Bengal,Sprinkler,18.42,1095.2,34.9,190.8,3.49,64.29
+Sugarcane,Rabi,Andhra Pradesh,Tube Well,37.95,781.9,34.2,178.8,68.94,2616.27
+Wheat,Kharif,Punjab,Drip,23.6,988.5,31.0,120.0,3.83,90.39
+Groundnut,Zaid,Uttar Pradesh,Rainfed,47.55,1532.5,35.3,110.5,1.43,68.0
+Sugarcane,Rabi,Madhya Pradesh,Tube Well,18.45,456.0,19.4,152.9,70.42,1299.25
+Wheat,Zaid,Andhra Pradesh,Rainfed,34.88,231.1,18.9,171.3,3.5,122.08
+Groundnut,Whole Year,Madhya Pradesh,Sprinkler,8.24,1362.8,19.1,124.8,2.1,17.3
+Potato,Zaid,Maharashtra,Tube Well,44.49,1159.8,18.4,163.6,15.37,683.81
+Tomato,Zaid,Haryana,Sprinkler,20.73,277.6,22.0,178.6,28.94,599.93
+Potato,Rabi,Uttar Pradesh,Drip,21.65,787.0,33.1,248.8,31.73,686.95
+Maize,Rabi,Maharashtra,Sprinkler,14.78,804.9,26.9,142.5,3.77,55.72
+Maize,Kharif,Punjab,Sprinkler,44.2,282.7,19.8,120.3,3.48,153.82
+Potato,Whole Year,Maharashtra,Sprinkler,15.7,1340.6,26.9,206.1,26.16,410.71
+Rice,Kharif,Punjab,Sprinkler,3.72,769.7,20.0,164.3,4.36,16.22
+Groundnut,Rabi,Madhya Pradesh,Tube Well,44.4,1073.6,15.7,146.3,2.05,91.02
+Groundnut,Zaid,Maharashtra,Sprinkler,34.03,261.6,35.3,233.6,3.04,103.45
+Tomato,Zaid,Andhra Pradesh,Tube Well,42.8,1107.5,22.3,245.4,24.85,1063.58
+Mustard,Zaid,Haryana,Drip,28.01,635.1,22.9,113.1,2.05,57.42
+Potato,Whole Year,Gujarat,Canal,11.87,1204.5,27.8,196.8,26.39,313.25
+Maize,Whole Year,Haryana,Sprinkler,21.08,1367.7,31.7,92.3,2.85,60.08
+Sugarcane,Kharif,West Bengal,Tube Well,37.87,1397.0,20.0,161.1,57.75,2186.99
+Cotton,Zaid,Tamil Nadu,Sprinkler,6.1,526.0,34.9,142.5,2.55,15.55
+Maize,Zaid,Andhra Pradesh,Sprinkler,29.2,354.5,22.4,212.5,3.94,115.05
+Groundnut,Zaid,Uttar Pradesh,Tube Well,39.32,673.4,24.5,175.7,2.17,85.32
+Potato,Kharif,Maharashtra,Sprinkler,8.54,676.6,29.0,201.2,32.46,277.21
+Groundnut,Whole Year,Gujarat,Canal,6.83,1109.4,30.7,185.4,2.28,15.57
+Wheat,Kharif,Maharashtra,Canal,24.85,1368.2,35.0,75.9,2.85,70.82
+Cotton,Whole Year,Punjab,Rainfed,9.11,716.2,16.1,178.0,2.58,23.5
+Potato,Zaid,Haryana,Tube Well,2.16,917.5,22.9,102.3,16.36,35.34
+Mustard,Rabi,Madhya Pradesh,Tube Well,2.13,1024.7,17.6,92.8,1.19,2.53
+Tomato,Kharif,Tamil Nadu,Rainfed,11.53,579.4,28.0,198.0,28.36,326.99
+Cotton,Zaid,Tamil Nadu,Sprinkler,39.59,470.2,18.2,182.9,3.12,123.52
+Rice,Whole Year,Maharashtra,Rainfed,29.96,349.4,18.8,57.2,2.63,78.79
+Cotton,Zaid,Madhya Pradesh,Drip,43.19,1031.8,22.7,84.7,2.09,90.27
+Wheat,Whole Year,Karnataka,Rainfed,19.54,208.2,22.1,224.5,3.72,72.69
+Cotton,Whole Year,Uttar Pradesh,Rainfed,16.01,852.5,20.0,83.6,2.08,33.3
+Tomato,Zaid,Haryana,Rainfed,39.04,498.7,21.2,60.3,21.17,826.48
+Sugarcane,Rabi,Punjab,Rainfed,4.15,1362.2,27.0,61.1,43.92,182.27
+Maize,Zaid,Punjab,Tube Well,7.46,1478.6,15.6,138.0,2.07,15.44
+Groundnut,Zaid,Madhya Pradesh,Sprinkler,18.42,404.5,35.2,52.8,2.22,40.89
+Potato,Zaid,West Bengal,Canal,32.34,780.6,33.4,160.8,28.33,916.19
+Wheat,Rabi,Madhya Pradesh,Tube Well,22.38,272.1,34.9,64.5,3.06,68.48
+Tomato,Kharif,Tamil Nadu,Sprinkler,10.97,1580.4,34.2,170.9,20.27,222.36
+Groundnut,Kharif,Andhra Pradesh,Tube Well,29.25,1352.6,25.8,111.4,1.57,45.92
+Wheat,Whole Year,Tamil Nadu,Rainfed,13.91,543.1,19.4,197.1,3.45,47.99
+Groundnut,Rabi,Madhya Pradesh,Sprinkler,17.77,937.1,20.5,166.8,2.46,43.71
+Cotton,Whole Year,Madhya Pradesh,Drip,8.68,367.0,21.8,216.0,2.95,25.61
+Tomato,Zaid,Punjab,Tube Well,13.0,1151.5,33.8,134.3,18.05,234.65
+Rice,Whole Year,Maharashtra,Drip,33.12,1578.6,32.1,88.4,3.62,119.89
+Maize,Zaid,Haryana,Tube Well,13.1,441.1,22.0,185.8,3.45,45.2
+Tomato,Rabi,Punjab,Sprinkler,17.16,530.3,35.9,127.4,28.21,484.08
+Rice,Zaid,Maharashtra,Canal,11.0,366.9,33.0,56.4,3.63,39.93
+Groundnut,Rabi,Madhya Pradesh,Drip,4.54,1358.9,23.9,153.7,2.32,10.53
+Potato,Zaid,Madhya Pradesh,Drip,19.02,908.6,31.1,150.2,25.53,485.58
+Groundnut,Kharif,Tamil Nadu,Sprinkler,27.15,625.8,25.9,199.3,2.69,73.03
+Maize,Kharif,Uttar Pradesh,Rainfed,26.86,640.2,19.7,243.9,3.43,92.13
+Sugarcane,Zaid,Punjab,Sprinkler,9.26,734.1,26.1,69.5,77.5,717.65
+Wheat,Rabi,West Bengal,Sprinkler,30.88,1157.5,28.0,112.1,3.17,97.89
+Groundnut,Kharif,Madhya Pradesh,Rainfed,18.48,768.1,35.0,101.7,1.65,30.49
+Tomato,Zaid,Uttar Pradesh,Tube Well,24.33,1409.0,16.2,240.6,21.91,533.07
+Sugarcane,Zaid,Karnataka,Canal,13.28,1551.4,21.4,180.7,71.82,953.77
+Wheat,Kharif,Punjab,Drip,30.39,946.2,27.0,194.4,4.54,137.97
+Soybean,Kharif,Andhra Pradesh,Tube Well,6.29,332.1,30.0,113.0,2.31,14.53
+Sugarcane,Zaid,Maharashtra,Rainfed,18.03,423.8,31.6,143.7,68.9,1242.27
+Maize,Kharif,Andhra Pradesh,Sprinkler,17.3,425.6,31.4,190.1,3.85,66.61
+Cotton,Whole Year,Karnataka,Rainfed,35.17,915.6,21.5,227.4,2.44,85.81
+Sugarcane,Whole Year,Maharashtra,Canal,41.23,271.6,15.2,72.7,70.03,2887.34
+Cotton,Zaid,Madhya Pradesh,Drip,30.11,1379.1,16.1,127.4,2.03,61.12
+Wheat,Kharif,Andhra Pradesh,Sprinkler,1.94,438.7,19.6,152.1,4.6,8.92
+Potato,Whole Year,Karnataka,Drip,37.78,1330.8,31.7,189.0,29.26,1105.44
+Groundnut,Whole Year,Karnataka,Sprinkler,32.84,855.9,30.3,62.5,2.3,75.53
+Rice,Whole Year,Uttar Pradesh,Canal,21.78,1099.3,21.0,78.6,3.76,81.89
+Sugarcane,Whole Year,Karnataka,Drip,29.44,1215.8,21.0,197.0,103.25,3039.68
+Groundnut,Zaid,Uttar Pradesh,Rainfed,37.5,1124.2,20.7,74.4,1.56,58.5
+Potato,Zaid,Punjab,Drip,27.63,326.5,24.8,85.5,21.94,606.2
+Rice,Kharif,Andhra Pradesh,Tube Well,37.46,781.0,17.5,106.1,3.66,137.1
+Cotton,Rabi,Gujarat,Drip,18.18,1170.8,22.1,175.1,2.55,46.36
+Cotton,Kharif,West Bengal,Canal,21.59,1065.4,31.6,212.1,3.5,75.56
+Soybean,Rabi,Haryana,Drip,16.37,1577.5,33.9,129.0,2.07,33.89
+Sugarcane,Whole Year,Andhra Pradesh,Drip,16.4,1217.5,19.7,89.7,77.56,1271.98
+Rice,Zaid,Uttar Pradesh,Drip,16.25,1432.2,20.4,120.7,4.18,67.92
+Potato,Whole Year,Andhra Pradesh,Tube Well,4.35,809.2,23.2,85.5,18.16,79.0
+Tomato,Kharif,Haryana,Tube Well,35.43,1292.0,32.4,103.7,20.06,710.73
+Cotton,Whole Year,Maharashtra,Drip,46.98,837.3,16.8,237.7,3.07,144.23
+Soybean,Zaid,Uttar Pradesh,Rainfed,43.55,1149.9,20.8,238.3,2.44,106.26
+Potato,Rabi,Tamil Nadu,Drip,35.25,880.7,19.1,168.5,25.31,892.18
+Cotton,Kharif,Karnataka,Drip,15.04,1162.5,19.2,201.3,2.67,40.16
+Potato,Rabi,Tamil Nadu,Rainfed,20.56,550.1,15.0,180.1,24.59,505.57
+Sugarcane,Whole Year,Madhya Pradesh,Drip,46.6,304.3,23.7,195.9,96.1,4478.26
+Tomato,Rabi,Maharashtra,Canal,25.34,302.5,15.8,62.8,25.28,640.6
+Wheat,Zaid,Maharashtra,Rainfed,15.36,756.5,30.6,241.1,3.42,52.53
+Tomato,Whole Year,Karnataka,Tube Well,49.96,748.8,20.3,86.8,25.14,1255.99
+Sugarcane,Zaid,West Bengal,Drip,40.34,460.9,32.0,130.4,84.75,3418.82
+Tomato,Whole Year,Haryana,Sprinkler,6.54,944.1,34.2,231.7,31.79,207.91
+Mustard,Rabi,West Bengal,Rainfed,12.21,1317.6,34.6,50.9,1.03,12.58
+Soybean,Zaid,Karnataka,Drip,38.56,1428.2,30.5,70.0,1.85,71.34
+Mustard,Rabi,Haryana,Tube Well,28.92,323.8,23.6,177.0,1.59,45.98
+Rice,Zaid,Tamil Nadu,Sprinkler,12.0,664.9,33.6,77.7,3.17,38.04
+Rice,Zaid,Karnataka,Canal,39.46,1393.3,30.6,157.8,3.96,156.26
+Tomato,Whole Year,Haryana,Drip,11.49,1215.2,21.3,104.5,25.04,287.71
+Maize,Whole Year,Maharashtra,Sprinkler,13.63,1245.3,26.9,134.8,3.02,41.16
+Sugarcane,Rabi,Karnataka,Tube Well,33.22,221.5,21.3,227.7,69.76,2317.43
+Mustard,Whole Year,Haryana,Canal,19.73,1068.1,21.7,127.1,1.99,39.26
+Potato,Kharif,Tamil Nadu,Rainfed,3.12,648.1,23.4,68.9,22.04,68.76
+Sugarcane,Whole Year,Tamil Nadu,Drip,30.5,1321.9,24.5,84.6,80.61,2458.61
+Rice,Kharif,Andhra Pradesh,Rainfed,28.74,1019.0,19.4,175.8,3.7,106.34
+Cotton,Rabi,Haryana,Canal,24.77,517.7,33.5,156.5,2.98,73.81
+Sugarcane,Zaid,Haryana,Canal,29.73,247.5,23.3,237.5,92.35,2745.57
+Sugarcane,Rabi,Andhra Pradesh,Rainfed,47.48,1066.8,19.8,126.8,59.66,2832.66
+Tomato,Kharif,Gujarat,Tube Well,48.79,441.9,19.3,185.3,25.96,1266.59
+Cotton,Rabi,West Bengal,Rainfed,29.77,1525.0,24.4,225.0,1.69,50.31
+Rice,Kharif,West Bengal,Tube Well,19.58,1316.4,22.2,96.0,2.8,54.82
+Groundnut,Kharif,West Bengal,Drip,12.65,1571.5,23.4,113.4,1.72,21.76
+Maize,Kharif,Punjab,Tube Well,25.94,1318.4,33.4,223.2,3.09,80.15
+Soybean,Rabi,Uttar Pradesh,Sprinkler,27.73,310.7,31.8,234.6,3.49,96.78
+Sugarcane,Rabi,Gujarat,Drip,16.45,352.8,30.3,77.2,74.65,1227.99
+Tomato,Zaid,Karnataka,Rainfed,26.25,1448.5,23.1,66.3,17.27,453.34
+Mustard,Zaid,Andhra Pradesh,Sprinkler,42.17,1408.0,18.7,89.4,1.48,62.41
+Cotton,Kharif,Gujarat,Canal,28.22,355.5,31.3,201.6,2.79,78.73
+Potato,Kharif,Maharashtra,Rainfed,11.76,1339.4,30.7,171.8,17.55,206.39
+Maize,Whole Year,Andhra Pradesh,Drip,26.08,309.9,23.0,124.4,3.59,93.63
+Wheat,Whole Year,Andhra Pradesh,Canal,39.33,379.7,23.8,88.3,3.74,147.09
+Sugarcane,Whole Year,Haryana,Sprinkler,41.0,622.0,34.2,93.3,73.13,2998.33
+Sugarcane,Whole Year,Gujarat,Rainfed,13.77,1562.4,19.9,76.6,50.49,695.25
+Maize,Kharif,Tamil Nadu,Tube Well,20.15,288.5,25.4,98.6,2.59,52.19
+Mustard,Whole Year,Tamil Nadu,Drip,48.24,620.1,26.1,176.4,2.15,103.72
+Sugarcane,Whole Year,West Bengal,Rainfed,31.09,857.3,33.8,153.9,76.1,2365.95
+Tomato,Whole Year,Haryana,Tube Well,35.64,807.6,21.3,174.2,23.46,836.11
+Cotton,Whole Year,West Bengal,Sprinkler,38.52,1596.8,18.0,127.8,2.05,78.97
+Mustard,Rabi,Andhra Pradesh,Tube Well,3.3,1187.1,30.5,62.2,1.02,3.37
+Potato,Kharif,Karnataka,Drip,6.12,291.3,27.6,223.7,31.3,191.56
+Rice,Rabi,Punjab,Drip,17.85,704.5,24.5,134.1,4.09,73.01
+Maize,Kharif,Punjab,Tube Well,12.72,1108.0,16.0,84.1,2.66,33.84
+Sugarcane,Kharif,Karnataka,Canal,6.32,705.2,31.8,132.8,79.51,502.5
+Mustard,Rabi,Maharashtra,Canal,17.24,690.5,33.4,191.6,2.19,37.76
+Tomato,Whole Year,Gujarat,Canal,27.25,1460.9,30.4,182.1,27.86,759.18
+Tomato,Kharif,Maharashtra,Canal,24.88,1370.0,28.4,141.5,25.15,625.73
+Soybean,Whole Year,West Bengal,Drip,28.64,768.8,27.4,96.7,2.67,76.47
+Sugarcane,Whole Year,Karnataka,Drip,8.67,853.7,30.3,102.4,83.78,726.37
+Potato,Rabi,West Bengal,Sprinkler,4.19,648.9,34.3,100.1,22.66,94.95
+Tomato,Whole Year,Punjab,Sprinkler,8.0,980.5,16.0,128.7,30.96,247.68
+Mustard,Zaid,Gujarat,Sprinkler,15.75,661.9,15.2,211.2,2.11,33.23
+Soybean,Kharif,Karnataka,Tube Well,23.52,1140.9,29.8,217.4,2.24,52.68
+Tomato,Rabi,Karnataka,Canal,47.64,698.2,24.2,184.3,34.7,1653.11
+Wheat,Zaid,Punjab,Canal,2.3,1043.4,24.0,78.3,3.6,8.28
+Rice,Whole Year,Maharashtra,Rainfed,23.26,1112.0,21.8,166.3,3.89,90.48
+Groundnut,Zaid,Maharashtra,Rainfed,1.78,863.1,15.0,197.5,1.74,3.1
+Potato,Whole Year,West Bengal,Rainfed,40.84,951.0,17.4,82.0,17.11,698.77
+Wheat,Whole Year,Haryana,Drip,38.46,1098.4,21.4,237.2,4.76,183.07
+Maize,Kharif,Tamil Nadu,Canal,16.31,1230.1,26.6,161.9,3.22,52.52
+Mustard,Rabi,Karnataka,Tube Well,10.43,1367.6,15.9,201.5,1.36,14.18
+Soybean,Zaid,Madhya Pradesh,Drip,44.52,595.6,19.7,249.2,3.58,159.38
+Rice,Whole Year,Karnataka,Drip,16.26,204.7,31.1,105.4,3.48,56.58
+Tomato,Kharif,Andhra Pradesh,Rainfed,46.45,201.9,34.7,141.0,23.22,1078.57
+Groundnut,Kharif,West Bengal,Canal,48.99,537.0,32.2,109.0,2.43,119.05
+Rice,Whole Year,Punjab,Canal,22.85,207.1,21.4,139.1,4.49,102.6
+Wheat,Rabi,Tamil Nadu,Canal,11.63,976.3,30.7,52.4,3.76,43.73
+Mustard,Whole Year,Madhya Pradesh,Sprinkler,21.02,1503.3,16.9,173.1,1.47,30.9
+Groundnut,Rabi,Madhya Pradesh,Rainfed,2.39,1029.1,35.1,209.0,2.0,4.78
+Rice,Rabi,Haryana,Sprinkler,20.25,1560.4,35.8,132.1,3.49,70.67
+Tomato,Whole Year,Punjab,Rainfed,45.19,458.5,31.9,53.6,23.23,1049.76
+Tomato,Rabi,Tamil Nadu,Sprinkler,28.42,542.3,28.3,106.2,27.21,773.31
+Maize,Rabi,Tamil Nadu,Tube Well,29.89,936.9,17.8,89.4,2.37,70.84
+Mustard,Zaid,Madhya Pradesh,Rainfed,26.9,801.8,31.8,115.2,1.33,35.78
+Sugarcane,Whole Year,Madhya Pradesh,Tube Well,40.32,1438.3,30.9,218.9,67.28,2712.73
+Tomato,Zaid,Maharashtra,Rainfed,30.18,693.3,34.7,117.5,21.81,658.23
+Wheat,Kharif,Andhra Pradesh,Sprinkler,23.81,936.6,21.9,60.9,3.47,82.62
+Mustard,Zaid,Maharashtra,Canal,27.01,996.9,32.6,148.6,2.12,57.26
+Sugarcane,Kharif,West Bengal,Drip,37.54,1144.4,25.1,77.0,66.96,2513.68
+Wheat,Zaid,Karnataka,Drip,18.44,566.8,25.4,207.5,4.66,85.93
+Cotton,Whole Year,Maharashtra,Canal,18.3,817.0,21.0,149.5,2.71,49.59
+Groundnut,Kharif,Punjab,Tube Well,35.88,393.6,34.4,111.6,1.66,59.56
+Potato,Zaid,Maharashtra,Rainfed,37.56,800.4,21.3,75.9,19.39,728.29
+Soybean,Rabi,Gujarat,Canal,34.21,532.0,21.8,108.4,2.7,92.37
+Tomato,Zaid,Uttar Pradesh,Tube Well,4.13,446.2,17.4,119.3,24.08,99.45
+Tomato,Rabi,Karnataka,Sprinkler,5.23,1044.9,29.4,109.0,26.79,140.11
+Sugarcane,Zaid,Uttar Pradesh,Canal,42.23,1479.8,34.1,204.1,87.77,3706.53
+Rice,Kharif,Uttar Pradesh,Drip,29.68,1179.1,29.9,202.7,4.63,137.42
+Soybean,Whole Year,Tamil Nadu,Canal,31.19,449.9,21.4,177.8,2.95,92.01
+Sugarcane,Zaid,Andhra Pradesh,Sprinkler,28.91,564.3,15.0,247.6,99.99,2890.71
+Tomato,Whole Year,Karnataka,Sprinkler,42.06,397.1,21.6,135.0,27.94,1175.16
+Sugarcane,Rabi,Uttar Pradesh,Sprinkler,47.84,218.4,34.5,229.6,82.96,3968.81
+Rice,Rabi,Maharashtra,Rainfed,5.5,1361.2,24.8,102.7,2.78,15.29
+Mustard,Rabi,Maharashtra,Sprinkler,5.19,1418.2,27.5,247.9,1.69,8.77
+Rice,Whole Year,Haryana,Drip,28.27,950.8,32.8,249.3,5.41,152.94
+Mustard,Whole Year,Punjab,Drip,28.6,1192.0,27.3,186.9,1.98,56.63
+Tomato,Whole Year,Tamil Nadu,Rainfed,28.22,540.5,30.5,226.4,26.18,738.8
+Cotton,Zaid,West Bengal,Tube Well,43.89,705.8,24.1,94.2,1.7,74.61
+Cotton,Zaid,Maharashtra,Drip,29.61,508.4,20.5,204.6,3.03,89.72
+Groundnut,Whole Year,Punjab,Canal,3.72,580.1,30.4,170.2,2.74,10.19
+Wheat,Whole Year,Karnataka,Tube Well,5.12,311.8,32.5,175.9,3.9,19.97
+Potato,Zaid,Karnataka,Canal,32.62,1585.3,18.2,78.4,23.35,761.68
+Wheat,Whole Year,Andhra Pradesh,Sprinkler,28.57,988.7,34.8,235.9,3.95,112.85
+Rice,Zaid,Andhra Pradesh,Drip,37.09,226.5,20.0,132.6,4.55,168.76
+Groundnut,Kharif,Uttar Pradesh,Tube Well,16.05,1325.4,34.8,98.4,1.67,26.8
+Rice,Rabi,Gujarat,Tube Well,17.42,1147.8,25.4,129.8,3.39,59.05
+Cotton,Whole Year,Haryana,Sprinkler,28.67,644.3,30.0,66.2,2.14,61.35
+Potato,Whole Year,Gujarat,Tube Well,24.57,1446.2,30.2,79.0,17.44,428.5
+Soybean,Kharif,Uttar Pradesh,Rainfed,38.51,729.3,35.7,239.6,2.05,78.95
+Soybean,Rabi,Gujarat,Canal,24.14,1584.4,28.5,75.5,1.77,42.73
+Cotton,Kharif,Haryana,Tube Well,16.39,617.8,35.9,161.8,1.77,29.01
+Wheat,Whole Year,Uttar Pradesh,Sprinkler,11.82,1302.5,25.4,124.6,3.28,38.77
+Mustard,Kharif,West Bengal,Tube Well,27.95,412.5,18.9,143.0,1.53,42.76
+Mustard,Zaid,Maharashtra,Canal,23.58,396.1,18.8,219.6,2.36,55.65
+Rice,Kharif,Haryana,Rainfed,41.69,888.0,15.1,102.7,3.04,126.74
+Groundnut,Whole Year,Punjab,Drip,48.32,1299.8,30.2,216.1,2.23,107.75
+Sugarcane,Whole Year,West Bengal,Canal,7.26,232.8,17.9,221.5,85.42,620.15
+Cotton,Whole Year,Punjab,Drip,12.57,252.3,24.9,126.5,2.74,34.44
+Groundnut,Zaid,West Bengal,Rainfed,15.1,1565.6,22.3,133.8,1.71,25.82
+Mustard,Rabi,Andhra Pradesh,Tube Well,6.05,1556.0,31.3,195.2,1.32,7.99
+Mustard,Kharif,Karnataka,Rainfed,2.04,1272.0,19.1,223.3,1.54,3.14
+Wheat,Rabi,Maharashtra,Drip,5.92,453.4,27.9,181.6,4.65,27.53
+Sugarcane,Rabi,Andhra Pradesh,Rainfed,21.25,657.1,34.2,87.2,59.41,1262.46
+Tomato,Whole Year,Punjab,Drip,25.26,555.6,34.0,107.0,29.29,739.87
+Tomato,Zaid,West Bengal,Drip,33.65,1348.4,20.5,210.0,31.04,1044.5
+Groundnut,Zaid,Haryana,Sprinkler,24.8,922.0,28.1,223.7,2.48,61.5
+Groundnut,Rabi,Andhra Pradesh,Rainfed,44.34,608.8,17.9,54.5,1.91,84.69
+Sugarcane,Whole Year,Tamil Nadu,Tube Well,6.01,1531.5,20.6,51.2,50.27,302.12
+Groundnut,Zaid,West Bengal,Sprinkler,6.28,1028.1,16.3,163.6,2.38,14.95
+Potato,Kharif,Haryana,Tube Well,24.93,1549.4,32.6,194.7,14.71,366.72
+Cotton,Whole Year,Andhra Pradesh,Tube Well,32.39,1044.3,23.5,89.4,1.82,58.95
+Wheat,Kharif,Punjab,Tube Well,43.25,1567.3,33.0,84.4,2.31,99.91
+Potato,Rabi,Tamil Nadu,Rainfed,33.67,959.7,23.4,197.6,19.43,654.21
+Cotton,Zaid,Tamil Nadu,Sprinkler,22.36,1307.6,18.0,237.2,2.41,53.89
+Wheat,Zaid,Uttar Pradesh,Canal,9.56,1482.7,34.2,144.3,3.7,35.37
+Rice,Whole Year,Gujarat,Canal,43.37,509.8,22.0,167.5,4.77,206.87
+Maize,Whole Year,Haryana,Canal,3.03,443.2,16.0,143.7,3.84,11.64
+Sugarcane,Whole Year,Madhya Pradesh,Canal,10.76,1579.9,31.0,81.4,67.75,728.99
+Groundnut,Whole Year,Gujarat,Tube Well,26.99,1526.5,19.5,144.8,1.78,48.04
+Sugarcane,Whole Year,Maharashtra,Drip,25.99,1250.2,18.1,231.1,106.06,2756.5
+Maize,Zaid,Punjab,Drip,8.23,349.1,34.4,54.9,3.56,29.3
+Cotton,Whole Year,Maharashtra,Tube Well,36.14,1100.3,23.7,237.6,2.04,73.73
+Potato,Whole Year,Uttar Pradesh,Drip,14.23,1129.2,22.8,93.8,24.25,345.08
+Sugarcane,Whole Year,Madhya Pradesh,Sprinkler,42.01,405.0,25.0,195.2,89.57,3762.84
+Cotton,Zaid,Haryana,Sprinkler,39.33,756.4,18.7,55.8,2.15,84.56
+Maize,Whole Year,Madhya Pradesh,Rainfed,16.54,1563.3,29.0,135.2,2.43,40.19
+Groundnut,Rabi,Madhya Pradesh,Sprinkler,38.84,372.6,19.7,165.1,2.66,103.31
+Cotton,Rabi,Karnataka,Rainfed,41.76,260.8,32.2,229.8,2.33,97.3
+Wheat,Zaid,Andhra Pradesh,Tube Well,42.33,1556.0,25.7,166.0,2.57,108.79
+Maize,Kharif,West Bengal,Rainfed,21.42,258.7,30.1,106.2,2.74,58.69
+Potato,Zaid,Gujarat,Canal,28.04,323.5,17.0,220.3,31.09,871.76
+Maize,Rabi,Andhra Pradesh,Tube Well,25.94,511.3,25.9,63.8,2.77,71.85
+Maize,Whole Year,Tamil Nadu,Canal,1.2,611.9,19.1,170.8,3.4,4.08
+Maize,Whole Year,Tamil Nadu,Canal,30.73,1243.3,33.9,160.2,3.48,106.94
+Groundnut,Whole Year,Tamil Nadu,Drip,28.12,1568.4,31.5,199.5,2.5,70.3
+Tomato,Zaid,Tamil Nadu,Sprinkler,2.82,1307.7,25.4,239.1,29.25,82.48
+Sugarcane,Whole Year,Gujarat,Sprinkler,24.13,1253.5,29.5,217.7,71.9,1734.95
+Rice,Kharif,Punjab,Sprinkler,27.22,689.9,18.7,161.0,4.35,118.41
+Potato,Kharif,Karnataka,Drip,17.83,555.1,22.5,88.7,24.9,443.97
+Wheat,Whole Year,Karnataka,Tube Well,31.57,1315.3,15.1,140.1,2.67,84.29
+Potato,Rabi,Tamil Nadu,Sprinkler,8.46,1284.9,17.4,195.6,24.8,209.81
+Rice,Kharif,Uttar Pradesh,Tube Well,40.21,948.3,29.2,195.6,3.74,150.39
+Tomato,Rabi,Andhra Pradesh,Drip,46.43,362.7,31.3,165.6,34.27,1591.16
+Rice,Zaid,Tamil Nadu,Drip,27.02,647.1,17.0,71.0,4.12,111.32
+Rice,Kharif,Maharashtra,Rainfed,26.03,1510.0,28.3,199.5,3.01,78.35
+Maize,Rabi,Gujarat,Sprinkler,36.74,740.2,27.8,111.9,3.45,126.75
+Rice,Whole Year,West Bengal,Drip,46.11,396.3,30.4,241.9,4.61,212.57
+Sugarcane,Zaid,Maharashtra,Drip,29.36,211.6,28.7,111.3,93.11,2733.71
+Mustard,Rabi,Haryana,Sprinkler,1.52,1584.8,25.1,175.1,1.7,2.58
+Rice,Kharif,Gujarat,Canal,8.7,1539.8,27.7,219.9,4.45,38.71
+Sugarcane,Whole Year,Andhra Pradesh,Canal,18.33,1031.9,28.6,191.3,102.83,1884.87
+Cotton,Kharif,Maharashtra,Drip,42.09,347.0,22.6,189.1,2.89,121.64
+Wheat,Kharif,Tamil Nadu,Rainfed,10.94,656.0,28.4,193.3,3.72,40.7
+Soybean,Whole Year,Karnataka,Rainfed,7.84,1337.7,28.7,195.6,1.52,11.92
+Maize,Kharif,Andhra Pradesh,Sprinkler,8.54,1588.5,32.2,175.2,2.79,23.83
+Sugarcane,Zaid,Andhra Pradesh,Drip,21.68,1507.8,30.1,66.3,62.38,1352.4
+Maize,Whole Year,Madhya Pradesh,Sprinkler,34.06,1479.0,25.5,132.9,2.74,93.32
+Mustard,Rabi,Madhya Pradesh,Drip,4.05,1492.0,16.7,117.5,1.64,6.64
+Maize,Whole Year,Madhya Pradesh,Canal,7.52,1510.7,16.7,65.7,2.9,21.81
+Soybean,Zaid,Maharashtra,Drip,18.23,432.0,33.6,247.7,3.45,62.89
+Groundnut,Zaid,Karnataka,Tube Well,28.29,1376.1,34.7,105.7,1.5,42.44
+Tomato,Zaid,West Bengal,Rainfed,39.44,1196.9,33.9,121.1,22.2,875.57
+Rice,Kharif,Andhra Pradesh,Canal,45.44,821.7,34.0,205.4,5.28,239.92
+Potato,Zaid,Andhra Pradesh,Tube Well,38.91,1361.9,29.4,144.7,18.39,715.55
+Wheat,Whole Year,Andhra Pradesh,Drip,45.88,1565.8,33.9,249.6,3.85,176.64
+Potato,Rabi,Maharashtra,Drip,13.39,1578.9,28.5,150.3,23.25,311.32
+Mustard,Kharif,Maharashtra,Drip,49.05,1061.9,23.8,150.0,2.03,99.57
+Cotton,Zaid,Tamil Nadu,Sprinkler,34.02,897.0,22.2,149.0,2.29,77.91
+Tomato,Rabi,Karnataka,Rainfed,5.68,450.0,23.8,197.6,27.95,158.76
+Sugarcane,Kharif,Madhya Pradesh,Canal,46.51,614.2,31.7,81.6,77.8,3618.48
+Cotton,Rabi,Uttar Pradesh,Sprinkler,41.4,1238.8,35.6,156.8,1.99,82.39
+Maize,Kharif,West Bengal,Drip,23.33,776.8,19.9,64.6,3.19,74.42
+Potato,Kharif,Madhya Pradesh,Canal,1.68,724.3,16.3,57.9,21.48,36.09
+Mustard,Whole Year,Haryana,Sprinkler,5.14,212.9,29.8,130.1,1.68,8.64
+Sugarcane,Whole Year,Uttar Pradesh,Tube Well,40.21,444.8,30.9,150.1,55.64,2237.28
+Rice,Kharif,Karnataka,Rainfed,29.51,1459.9,34.5,196.2,3.05,90.01
+Tomato,Whole Year,Karnataka,Rainfed,2.72,616.4,34.7,241.7,29.51,80.27
+Maize,Rabi,Andhra Pradesh,Drip,8.04,1033.7,28.6,134.9,3.8,30.55
+Groundnut,Rabi,Madhya Pradesh,Tube Well,2.25,1152.6,19.9,104.1,1.79,4.03
+Soybean,Kharif,Gujarat,Drip,10.35,981.0,34.5,163.3,2.31,23.91
+Sugarcane,Zaid,Andhra Pradesh,Sprinkler,2.49,1445.3,24.0,200.6,77.26,192.38
+Sugarcane,Whole Year,West Bengal,Canal,31.09,1520.4,17.8,209.8,94.53,2938.94
+Potato,Zaid,Karnataka,Sprinkler,41.7,920.3,20.2,188.9,30.62,1276.85
+Rice,Whole Year,Punjab,Rainfed,27.82,1023.8,29.9,170.8,3.63,100.99
+Sugarcane,Rabi,Madhya Pradesh,Sprinkler,46.71,631.6,33.1,183.2,80.8,3774.17
+Rice,Zaid,Haryana,Rainfed,14.21,1186.0,34.5,214.9,3.42,48.6
+Sugarcane,Kharif,West Bengal,Tube Well,26.47,830.5,35.4,238.4,88.89,2352.92
+Rice,Whole Year,Uttar Pradesh,Canal,26.13,1593.8,29.4,63.6,3.78,98.77
+Sugarcane,Kharif,Karnataka,Sprinkler,48.88,884.8,17.9,180.4,81.82,3999.36
+Soybean,Kharif,Tamil Nadu,Canal,49.13,728.2,15.3,154.3,2.97,145.92
+Potato,Rabi,Gujarat,Sprinkler,41.63,1111.1,35.7,85.7,19.26,801.79
+Rice,Kharif,West Bengal,Tube Well,22.13,1495.9,24.3,109.6,2.84,62.85
+Soybean,Kharif,Tamil Nadu,Rainfed,24.43,1401.4,18.4,201.4,1.88,45.93
+Soybean,Whole Year,Punjab,Sprinkler,1.71,821.3,18.7,123.7,2.23,3.81
+Sugarcane,Zaid,Haryana,Sprinkler,46.93,859.0,26.2,199.5,98.86,4639.5
+Tomato,Whole Year,Haryana,Drip,18.86,277.6,21.2,76.1,27.89,526.01
+Mustard,Zaid,Uttar Pradesh,Drip,25.73,924.9,35.7,72.3,1.54,39.62
+Cotton,Kharif,Punjab,Canal,24.17,672.7,35.1,147.1,3.17,76.62
+Maize,Whole Year,Karnataka,Canal,49.25,1150.6,30.6,88.5,2.97,146.27
+Cotton,Whole Year,Gujarat,Drip,37.6,627.2,25.0,69.5,2.86,107.54
+Rice,Rabi,Haryana,Rainfed,4.96,619.4,17.7,116.9,3.56,17.66
+Tomato,Zaid,Gujarat,Canal,22.54,896.6,32.6,157.8,31.47,709.33
+Mustard,Kharif,Madhya Pradesh,Canal,19.97,919.1,25.6,241.1,2.02,40.34
+Groundnut,Zaid,Gujarat,Canal,28.54,1591.2,27.0,181.3,2.37,67.64
+Soybean,Whole Year,West Bengal,Tube Well,42.43,512.1,27.0,122.0,2.31,98.01
+Maize,Kharif,Maharashtra,Canal,48.03,1276.7,30.1,148.3,3.68,176.75
+Wheat,Kharif,Tamil Nadu,Sprinkler,40.01,838.8,17.5,182.1,3.13,125.23
+Soybean,Zaid,Andhra Pradesh,Drip,30.48,1169.1,26.9,152.8,2.43,74.07
+Sugarcane,Rabi,Andhra Pradesh,Rainfed,26.81,1510.7,35.9,182.7,58.31,1563.29
+Sugarcane,Zaid,Madhya Pradesh,Sprinkler,5.86,1010.3,31.9,102.4,82.76,484.97
+Cotton,Kharif,Punjab,Canal,46.01,255.3,28.8,177.9,2.37,109.04
+Cotton,Rabi,Karnataka,Canal,42.89,431.0,19.9,152.5,3.21,137.68
+Maize,Zaid,Maharashtra,Rainfed,47.79,849.6,18.9,193.6,2.61,124.73
+Wheat,Whole Year,Maharashtra,Drip,49.81,262.8,30.5,247.8,5.57,277.44
+Soybean,Kharif,Tamil Nadu,Rainfed,36.94,1432.3,16.0,58.4,1.61,59.47
+Tomato,Whole Year,Gujarat,Drip,19.47,493.2,18.7,153.3,31.92,621.48
+Tomato,Whole Year,West Bengal,Sprinkler,49.82,715.3,23.7,54.0,19.34,963.52
+Cotton,Kharif,Punjab,Rainfed,26.26,1119.9,26.7,71.1,1.84,48.32
+Rice,Zaid,Gujarat,Tube Well,40.36,1377.5,29.5,181.4,3.02,121.89
+Wheat,Rabi,Madhya Pradesh,Tube Well,49.61,1108.5,27.6,218.2,3.54,175.62
+Maize,Whole Year,Madhya Pradesh,Tube Well,46.4,1210.1,25.7,239.0,2.99,138.74
+Mustard,Rabi,Haryana,Rainfed,27.37,1287.1,21.3,51.6,1.07,29.29
+Sugarcane,Zaid,Uttar Pradesh,Rainfed,8.29,807.9,34.0,249.1,77.28,640.65
+Cotton,Whole Year,Haryana,Rainfed,16.41,658.1,28.5,149.2,2.26,37.09
+Rice,Whole Year,Andhra Pradesh,Sprinkler,30.32,1498.7,31.4,169.1,4.05,122.8
+Groundnut,Zaid,Andhra Pradesh,Drip,48.28,243.4,22.7,57.7,1.78,85.94
+Potato,Whole Year,Maharashtra,Canal,26.46,599.6,33.3,170.9,29.44,778.98
+Rice,Whole Year,Gujarat,Tube Well,35.99,736.8,32.1,50.5,3.44,123.81
+Sugarcane,Kharif,Uttar Pradesh,Tube Well,34.29,567.4,15.2,140.1,73.17,2509.0
+Potato,Zaid,Haryana,Canal,4.53,1287.0,23.1,215.9,28.97,131.23
+Mustard,Rabi,Uttar Pradesh,Tube Well,19.07,1327.4,16.4,62.5,1.13,21.55
+Tomato,Rabi,Haryana,Rainfed,31.89,1390.5,28.3,158.5,19.84,632.7
+Rice,Zaid,Karnataka,Canal,24.66,808.6,26.9,236.2,5.36,132.18
+Groundnut,Whole Year,Karnataka,Canal,25.09,286.8,26.0,162.5,2.75,69.0
+Tomato,Whole Year,Madhya Pradesh,Drip,5.91,1502.6,17.3,224.0,21.76,128.6
+Groundnut,Rabi,Punjab,Rainfed,48.69,1186.7,17.3,127.3,1.86,90.56
+Groundnut,Zaid,West Bengal,Sprinkler,8.24,1246.0,24.6,65.4,1.67,13.76
+Wheat,Zaid,Punjab,Rainfed,25.76,1107.8,33.2,172.7,3.33,85.78
+Tomato,Rabi,Gujarat,Canal,34.96,795.7,23.5,201.9,36.56,1278.14
+Tomato,Kharif,West Bengal,Rainfed,17.69,442.0,22.0,128.3,27.07,478.87
+Cotton,Whole Year,Gujarat,Rainfed,26.65,543.2,25.7,200.0,2.23,59.43
+Soybean,Kharif,Haryana,Drip,36.43,964.9,17.0,201.6,2.74,99.82
+Mustard,Rabi,Gujarat,Tube Well,35.68,1324.5,34.4,121.8,1.1,39.25
+Cotton,Kharif,Gujarat,Sprinkler,14.92,596.5,16.8,240.7,3.03,45.21
+Cotton,Kharif,West Bengal,Sprinkler,17.11,1107.1,17.8,244.6,2.77,47.39
+Cotton,Rabi,Karnataka,Tube Well,8.22,209.8,32.9,122.9,2.14,17.59
+Mustard,Zaid,Haryana,Sprinkler,9.52,747.9,30.9,231.4,1.94,18.47
+Sugarcane,Kharif,Andhra Pradesh,Sprinkler,8.18,925.6,34.3,74.7,75.52,617.75
+Maize,Zaid,Uttar Pradesh,Drip,36.77,1243.5,24.9,239.4,4.3,158.11
+Groundnut,Rabi,Uttar Pradesh,Tube Well,19.04,1329.7,17.8,76.2,1.52,28.94
+Mustard,Kharif,Punjab,Drip,31.99,1518.0,23.4,228.9,1.94,62.06
+Mustard,Kharif,Karnataka,Tube Well,39.58,923.4,34.3,87.9,1.28,50.66
+Rice,Kharif,Madhya Pradesh,Sprinkler,15.46,1589.4,21.1,93.3,3.11,48.08
+Groundnut,Kharif,West Bengal,Drip,21.1,1076.2,16.7,201.3,2.56,54.02
+Potato,Zaid,Tamil Nadu,Drip,46.29,1132.9,24.1,55.0,23.81,1102.16
+Mustard,Zaid,Haryana,Sprinkler,26.44,1219.8,15.0,227.4,1.81,47.86
+Maize,Kharif,West Bengal,Rainfed,25.87,331.1,27.4,113.6,3.06,79.16
+Soybean,Rabi,Tamil Nadu,Sprinkler,13.62,286.5,24.3,66.7,2.36,32.14
+Mustard,Kharif,Gujarat,Tube Well,23.33,619.7,20.2,167.8,1.45,33.83
+Sugarcane,Whole Year,Tamil Nadu,Drip,20.8,251.4,32.6,113.7,79.09,1645.07
+Soybean,Zaid,Madhya Pradesh,Tube Well,46.53,925.3,30.5,233.4,2.4,111.67
+Mustard,Zaid,Gujarat,Drip,39.69,940.4,18.5,139.0,1.89,75.01
+Cotton,Whole Year,Gujarat,Sprinkler,36.97,410.0,31.3,121.9,2.59,95.75
+Rice,Zaid,West Bengal,Canal,12.24,1539.0,15.7,94.7,3.57,43.7
+Cotton,Rabi,West Bengal,Sprinkler,15.05,1320.9,20.4,94.4,2.08,31.3
+Mustard,Zaid,Gujarat,Canal,31.3,900.3,25.4,234.8,2.56,80.13
+Rice,Rabi,West Bengal,Sprinkler,2.19,980.1,23.1,170.8,4.51,9.88
+Potato,Whole Year,Haryana,Sprinkler,20.89,1363.8,20.3,60.6,18.96,396.07
+Groundnut,Zaid,Karnataka,Rainfed,7.54,428.7,27.7,108.4,1.95,14.7
+Soybean,Whole Year,West Bengal,Sprinkler,24.76,1018.5,30.7,113.7,2.36,58.43
+Groundnut,Kharif,Madhya Pradesh,Canal,15.28,1499.0,34.6,112.2,2.19,33.46
+Cotton,Rabi,Andhra Pradesh,Rainfed,26.28,611.3,16.3,77.9,1.87,49.14
+Groundnut,Rabi,Haryana,Tube Well,29.47,1211.1,18.2,123.3,1.49,43.91
+Soybean,Kharif,Madhya Pradesh,Tube Well,12.42,571.4,21.6,209.4,2.55,31.67
+Sugarcane,Zaid,Uttar Pradesh,Sprinkler,7.43,901.2,19.1,164.4,74.46,553.24
+Rice,Whole Year,West Bengal,Sprinkler,18.69,1063.4,33.2,68.6,3.38,63.17
+Tomato,Zaid,Punjab,Tube Well,13.05,1150.6,27.8,65.6,19.35,252.52
+Soybean,Zaid,Gujarat,Rainfed,13.65,960.6,25.1,127.3,2.07,28.26
+Wheat,Zaid,Gujarat,Rainfed,30.73,1057.6,23.0,114.5,3.19,98.03
+Tomato,Kharif,Uttar Pradesh,Sprinkler,34.03,844.1,30.8,205.8,27.55,937.53
+Rice,Zaid,Tamil Nadu,Sprinkler,46.15,426.9,24.9,197.8,4.24,195.68
+Groundnut,Rabi,Tamil Nadu,Tube Well,36.17,1454.6,16.7,64.4,1.35,48.83
+Groundnut,Zaid,Madhya Pradesh,Tube Well,49.31,294.0,17.3,215.9,2.5,123.28
+Soybean,Rabi,Andhra Pradesh,Drip,10.57,461.8,21.5,80.0,2.46,26.0
+Maize,Rabi,Gujarat,Tube Well,45.78,1410.3,26.1,109.6,2.44,111.7
+Cotton,Rabi,Tamil Nadu,Sprinkler,10.0,1569.5,18.1,180.5,2.13,21.3
+Tomato,Kharif,Maharashtra,Rainfed,30.42,1016.9,28.2,218.9,23.72,721.56
+Potato,Kharif,Gujarat,Drip,4.87,1545.8,34.9,192.3,20.66,100.61
+Soybean,Whole Year,Punjab,Rainfed,33.59,1080.7,19.1,121.6,1.94,65.16
+Maize,Whole Year,Karnataka,Drip,32.42,1273.3,22.0,65.2,2.85,92.4
+Potato,Rabi,Punjab,Drip,26.99,866.2,32.8,162.6,27.63,745.73
+Cotton,Rabi,Madhya Pradesh,Canal,19.27,872.8,22.7,118.7,2.37,45.67
+Soybean,Whole Year,Gujarat,Sprinkler,6.63,281.8,34.5,209.8,2.57,17.04
+Soybean,Rabi,Tamil Nadu,Canal,30.03,1240.2,33.0,121.6,2.62,78.68
+Mustard,Whole Year,Maharashtra,Canal,45.58,979.9,15.4,213.6,2.15,98.0
+Mustard,Kharif,Uttar Pradesh,Rainfed,26.29,1524.5,23.6,219.6,1.47,38.65
+Cotton,Whole Year,Tamil Nadu,Rainfed,24.48,228.5,22.3,76.1,1.82,44.55
+Cotton,Rabi,Tamil Nadu,Tube Well,30.91,613.5,21.5,143.1,2.12,65.53
+Maize,Whole Year,Uttar Pradesh,Drip,20.46,498.0,28.9,173.1,4.15,84.91
+Soybean,Kharif,Karnataka,Canal,11.38,861.1,35.4,104.2,2.46,27.99
+Tomato,Kharif,Karnataka,Sprinkler,33.64,1316.5,27.8,202.4,24.59,827.21
+Wheat,Rabi,Madhya Pradesh,Drip,41.33,1411.4,17.9,158.5,3.43,141.76
+Groundnut,Zaid,Andhra Pradesh,Tube Well,9.73,570.2,17.5,102.8,1.97,19.17
+Groundnut,Whole Year,Haryana,Tube Well,27.15,542.2,15.9,174.4,2.22,60.27
+Maize,Kharif,Madhya Pradesh,Drip,48.68,803.9,23.3,60.1,3.26,158.7
+Potato,Kharif,Andhra Pradesh,Tube Well,23.39,251.7,15.9,181.5,20.72,484.64
+Maize,Whole Year,Maharashtra,Drip,40.03,1011.7,25.4,64.4,3.12,124.89
+Maize,Zaid,West Bengal,Tube Well,26.16,1582.2,31.8,72.0,2.27,59.38
+Rice,Whole Year,Karnataka,Drip,26.44,571.3,23.3,158.9,4.77,126.12
+Wheat,Whole Year,West Bengal,Sprinkler,39.31,361.7,16.0,55.7,3.5,137.59
+Wheat,Rabi,Andhra Pradesh,Tube Well,37.91,619.8,23.9,52.8,2.63,99.7
+Soybean,Zaid,Maharashtra,Drip,30.74,1317.1,17.5,99.0,2.33,71.62
+Rice,Zaid,Haryana,Canal,36.85,996.5,33.4,81.7,4.13,152.19
+Cotton,Rabi,Gujarat,Tube Well,5.33,284.4,23.8,90.1,1.97,10.5
+Sugarcane,Rabi,Uttar Pradesh,Rainfed,32.5,565.6,25.9,245.0,84.87,2758.28
+Sugarcane,Rabi,Uttar Pradesh,Canal,42.14,794.8,32.4,236.3,117.17,4937.54
+Maize,Whole Year,Tamil Nadu,Rainfed,32.14,750.5,30.1,168.4,2.96,95.13
+Sugarcane,Rabi,Andhra Pradesh,Drip,18.65,1139.7,17.6,204.1,89.16,1662.83
+Mustard,Kharif,Punjab,Tube Well,45.66,237.7,15.4,190.9,1.5,68.49
+Soybean,Zaid,Andhra Pradesh,Tube Well,48.94,1155.8,33.9,219.2,2.34,114.52
+Tomato,Zaid,Karnataka,Tube Well,7.59,628.2,27.8,134.0,23.71,179.96
+Soybean,Zaid,Gujarat,Drip,20.81,446.8,34.1,121.8,3.29,68.46
+Rice,Whole Year,Andhra Pradesh,Sprinkler,12.58,1112.9,19.9,103.0,3.62,45.54
+Tomato,Zaid,Gujarat,Drip,13.59,1499.3,20.0,73.5,23.17,314.88
+Rice,Whole Year,West Bengal,Sprinkler,25.79,1288.3,24.1,93.7,3.46,89.23
+Mustard,Rabi,Tamil Nadu,Canal,39.26,251.2,34.8,72.5,1.84,72.24
+Tomato,Rabi,Karnataka,Sprinkler,16.04,872.5,29.7,64.3,27.16,435.65
+Groundnut,Whole Year,West Bengal,Canal,35.49,312.6,35.0,89.1,2.52,89.43
+Cotton,Whole Year,Punjab,Canal,48.07,1559.9,18.9,216.2,2.51,120.66
+Rice,Zaid,Madhya Pradesh,Drip,5.12,419.2,28.3,139.9,4.04,20.68
+Sugarcane,Whole Year,Karnataka,Drip,40.66,753.8,28.7,118.9,94.35,3836.27
+Maize,Zaid,Madhya Pradesh,Drip,35.37,1140.0,30.9,150.0,3.66,129.45
+Mustard,Zaid,Gujarat,Canal,25.5,490.2,33.4,207.7,2.19,55.84
+Mustard,Whole Year,Madhya Pradesh,Canal,43.63,693.3,17.2,107.4,1.87,81.59
+Wheat,Kharif,Tamil Nadu,Tube Well,44.69,1082.1,22.6,248.2,3.05,136.3
+Rice,Kharif,Madhya Pradesh,Canal,46.35,1320.6,20.5,136.1,4.91,227.58
+Sugarcane,Kharif,Uttar Pradesh,Tube Well,37.81,1038.6,18.0,64.8,57.51,2174.45
+Rice,Rabi,Tamil Nadu,Canal,25.89,677.8,29.6,92.4,4.08,105.63
+Mustard,Zaid,Karnataka,Canal,18.87,685.4,27.5,156.1,2.1,39.63
+Wheat,Zaid,Madhya Pradesh,Tube Well,33.5,827.8,18.8,51.5,2.61,87.44
+Tomato,Whole Year,Andhra Pradesh,Tube Well,42.54,1186.4,17.6,178.9,21.49,914.18
+Tomato,Whole Year,West Bengal,Tube Well,44.75,1265.1,28.6,217.7,22.9,1024.77
+Mustard,Zaid,Maharashtra,Drip,22.29,931.4,24.9,205.2,2.35,52.38
+Potato,Rabi,West Bengal,Tube Well,45.14,722.8,18.7,201.7,25.65,1157.84
+Mustard,Zaid,Karnataka,Canal,10.44,1404.9,15.4,77.0,1.56,16.29
+Tomato,Whole Year,Madhya Pradesh,Sprinkler,7.19,880.0,17.0,104.0,26.17,188.16
+Sugarcane,Rabi,Karnataka,Drip,20.07,1411.2,33.4,232.0,89.14,1789.04
+Soybean,Kharif,Gujarat,Tube Well,5.46,1480.7,16.2,109.2,1.63,8.9
+Tomato,Rabi,Punjab,Sprinkler,49.57,541.6,33.3,232.3,32.81,1626.39
+Rice,Kharif,Karnataka,Drip,47.6,285.3,20.8,228.6,5.62,267.51
+Potato,Zaid,Gujarat,Sprinkler,46.95,580.1,23.0,186.4,26.32,1235.72
+Wheat,Zaid,Karnataka,Drip,28.62,1387.5,21.1,98.6,3.2,91.58
+Cotton,Rabi,Karnataka,Tube Well,46.49,410.4,31.9,134.8,2.33,108.32
+Soybean,Whole Year,West Bengal,Drip,7.66,534.8,33.2,71.2,2.83,21.68
+Tomato,Rabi,Karnataka,Drip,4.14,1453.0,27.1,203.6,28.22,116.83
+Wheat,Whole Year,Karnataka,Canal,13.72,302.7,16.6,92.9,4.25,58.31
+Soybean,Kharif,Gujarat,Drip,33.16,227.8,22.9,72.3,2.59,85.88
+Cotton,Rabi,Karnataka,Tube Well,2.38,1537.7,31.5,116.7,1.55,3.69
+Maize,Kharif,Gujarat,Rainfed,31.38,690.5,35.0,118.6,2.8,87.86
+Mustard,Kharif,Uttar Pradesh,Drip,39.6,1076.5,28.0,147.4,1.87,74.05
+Maize,Kharif,Punjab,Rainfed,18.32,400.5,35.1,236.7,3.25,59.54
+Wheat,Zaid,Haryana,Drip,6.35,900.7,29.3,99.1,3.73,23.69
+Wheat,Kharif,Tamil Nadu,Drip,10.07,660.5,17.9,204.8,4.76,47.93
+Rice,Zaid,Karnataka,Canal,27.39,721.6,19.4,62.5,3.86,105.73
+Mustard,Rabi,Haryana,Rainfed,48.74,307.6,17.0,186.5,1.48,72.14
+Soybean,Rabi,Tamil Nadu,Drip,9.13,1513.1,35.6,234.7,2.96,27.02
+Groundnut,Whole Year,Andhra Pradesh,Canal,29.79,1445.1,25.4,168.0,2.28,67.92
+Mustard,Kharif,Gujarat,Canal,25.96,525.6,33.8,240.0,2.41,62.56
+Wheat,Kharif,Andhra Pradesh,Canal,23.17,1494.6,30.8,202.9,3.58,82.95
+Soybean,Kharif,Tamil Nadu,Drip,15.65,332.7,17.7,86.1,2.49,38.97
+Potato,Whole Year,Maharashtra,Canal,46.2,957.6,17.2,236.6,27.64,1276.97
+Potato,Whole Year,West Bengal,Canal,43.34,330.0,18.7,133.5,25.45,1103.0
+Wheat,Rabi,West Bengal,Tube Well,32.73,1542.4,35.3,82.3,2.44,79.86
+Mustard,Kharif,Haryana,Drip,16.86,578.2,16.0,129.9,2.05,34.56
+Maize,Rabi,Tamil Nadu,Canal,6.27,872.9,23.1,170.3,3.73,23.39
+Groundnut,Kharif,Andhra Pradesh,Rainfed,32.29,1359.8,21.3,177.1,1.76,56.83
+Tomato,Zaid,Karnataka,Sprinkler,18.52,1229.2,34.3,124.4,22.32,413.37
+Mustard,Whole Year,Uttar Pradesh,Canal,21.68,292.2,24.9,120.8,1.75,37.94
+Maize,Rabi,Madhya Pradesh,Sprinkler,47.21,1352.1,33.9,186.6,3.21,151.54
+Wheat,Kharif,Gujarat,Tube Well,45.85,1088.2,18.1,194.9,3.13,143.51
+Sugarcane,Whole Year,Gujarat,Drip,20.03,1242.4,29.8,90.3,61.94,1240.66
+Mustard,Rabi,Karnataka,Drip,26.98,593.3,15.2,134.9,1.88,50.72
+Rice,Whole Year,Maharashtra,Tube Well,40.2,1432.1,34.6,233.2,2.91,116.98
+Soybean,Rabi,Gujarat,Tube Well,11.9,1138.9,18.6,206.0,2.09,24.87
+Wheat,Zaid,Tamil Nadu,Canal,9.04,378.8,24.9,243.6,5.06,45.74
+Rice,Kharif,Uttar Pradesh,Tube Well,32.56,290.4,22.2,240.3,3.89,126.66
+Groundnut,Whole Year,Gujarat,Rainfed,8.87,877.9,33.5,212.9,2.1,18.63
+Tomato,Whole Year,Maharashtra,Sprinkler,2.23,512.1,29.2,235.3,35.25,78.61
+Cotton,Rabi,Madhya Pradesh,Canal,45.78,855.6,20.8,218.5,2.85,130.47
+Tomato,Whole Year,Uttar Pradesh,Tube Well,12.7,280.8,16.6,233.0,26.35,334.64
+Wheat,Rabi,Tamil Nadu,Sprinkler,9.39,812.9,20.3,101.2,3.25,30.52
+Soybean,Rabi,Maharashtra,Drip,12.38,582.0,34.3,208.8,2.56,31.69
+Wheat,Whole Year,Karnataka,Sprinkler,26.26,525.8,19.2,247.8,4.83,126.84
+Potato,Zaid,Uttar Pradesh,Tube Well,7.21,1303.3,26.1,238.9,21.64,156.02
+Groundnut,Rabi,Tamil Nadu,Rainfed,45.1,1499.1,22.0,178.4,2.05,92.45
+Rice,Kharif,Punjab,Drip,27.7,772.3,26.4,103.8,5.2,144.04
+Wheat,Kharif,Karnataka,Sprinkler,35.62,1432.6,23.9,62.3,2.77,98.67
+Tomato,Whole Year,Uttar Pradesh,Tube Well,32.72,266.0,22.9,66.6,20.37,666.51
+Groundnut,Rabi,Maharashtra,Tube Well,46.1,1500.2,25.9,112.4,1.55,71.45
+Maize,Whole Year,Andhra Pradesh,Rainfed,41.89,842.4,17.4,237.6,3.76,157.51
+Mustard,Rabi,Maharashtra,Canal,5.29,486.9,26.8,248.6,2.48,13.12
+Mustard,Rabi,Uttar Pradesh,Rainfed,27.28,1124.5,17.7,129.1,1.32,36.01
+Sugarcane,Rabi,Haryana,Tube Well,34.35,1149.4,27.9,225.3,78.02,2679.99
+Groundnut,Whole Year,West Bengal,Tube Well,6.49,1228.9,16.5,133.2,1.84,11.94
+Mustard,Zaid,Gujarat,Canal,33.63,249.1,15.0,55.1,1.39,46.75
+Groundnut,Rabi,Andhra Pradesh,Canal,5.34,635.7,31.3,101.5,2.41,12.87
+Tomato,Zaid,Madhya Pradesh,Rainfed,34.73,650.7,33.9,140.4,22.65,786.63
+Maize,Whole Year,Maharashtra,Canal,32.72,328.7,16.9,211.4,3.62,118.45
+Wheat,Whole Year,Karnataka,Drip,48.56,1354.0,27.9,216.1,3.88,188.41
+Cotton,Kharif,Andhra Pradesh,Rainfed,16.43,631.9,20.5,98.7,1.84,30.23
+Rice,Rabi,Gujarat,Rainfed,3.62,1588.6,23.9,235.5,3.42,12.38
+Potato,Rabi,Punjab,Canal,6.11,1361.2,17.8,113.2,24.07,147.07
+Cotton,Rabi,Andhra Pradesh,Drip,47.19,1151.5,33.8,88.1,2.15,101.46
+Soybean,Whole Year,Uttar Pradesh,Tube Well,16.12,852.0,30.6,232.0,2.41,38.85
+Maize,Whole Year,Punjab,Sprinkler,14.42,1073.1,18.1,194.1,3.25,46.87
+Potato,Rabi,Tamil Nadu,Canal,25.8,729.8,33.4,123.7,26.35,679.83
+Mustard,Whole Year,Tamil Nadu,Drip,22.6,905.9,28.3,104.9,1.94,43.84
+Sugarcane,Rabi,Tamil Nadu,Rainfed,6.78,928.7,21.9,161.5,72.49,491.48
+Cotton,Whole Year,West Bengal,Drip,16.08,1554.0,15.5,146.2,2.06,33.12
+Cotton,Zaid,Karnataka,Rainfed,45.11,994.7,31.4,231.9,2.3,103.75
+Cotton,Rabi,Karnataka,Drip,19.58,1192.6,23.5,72.2,1.89,37.01
+Groundnut,Rabi,Tamil Nadu,Drip,2.59,946.2,29.1,75.3,2.45,6.35
+Maize,Kharif,Tamil Nadu,Drip,1.82,405.7,35.9,196.7,4.85,8.83
+Sugarcane,Rabi,Uttar Pradesh,Canal,3.92,1259.8,34.9,154.0,91.69,359.42
+Soybean,Whole Year,West Bengal,Rainfed,45.45,365.6,15.8,187.0,2.28,103.63
+Soybean,Zaid,Andhra Pradesh,Canal,2.26,1472.7,21.3,143.2,2.29,5.18
+Tomato,Zaid,Uttar Pradesh,Drip,43.41,464.6,26.7,196.2,32.13,1394.76
+Sugarcane,Rabi,Haryana,Canal,49.26,1263.6,24.2,156.8,83.11,4094.0
+Mustard,Whole Year,Gujarat,Drip,1.47,1001.9,24.9,242.5,2.53,3.72
+Soybean,Zaid,West Bengal,Drip,47.82,1322.4,28.8,172.4,2.82,134.85
+Groundnut,Rabi,Punjab,Tube Well,47.38,1368.5,35.5,200.7,1.63,77.23
+Rice,Zaid,Punjab,Sprinkler,21.91,690.1,24.4,212.8,4.54,99.47
+Groundnut,Zaid,Punjab,Sprinkler,9.54,938.5,28.2,127.0,2.31,22.04
+Wheat,Kharif,Karnataka,Sprinkler,25.08,1365.8,30.4,116.1,3.54,88.78
+Maize,Zaid,Gujarat,Canal,49.64,1092.2,22.0,100.0,3.5,173.74
+Cotton,Kharif,Maharashtra,Tube Well,44.32,1101.1,27.6,144.0,1.73,76.67
+Soybean,Rabi,Gujarat,Drip,48.87,556.5,18.5,149.1,2.9,141.72
+Cotton,Zaid,Andhra Pradesh,Drip,12.38,360.9,27.0,236.5,3.28,40.61
+Potato,Whole Year,Gujarat,Sprinkler,5.49,540.6,19.4,100.5,22.75,124.9
+Wheat,Kharif,Maharashtra,Rainfed,16.16,300.2,30.8,180.7,3.8,61.41
+Sugarcane,Zaid,Tamil Nadu,Canal,27.52,1205.7,31.7,183.4,90.78,2498.27
+Rice,Rabi,Tamil Nadu,Tube Well,3.42,481.7,21.1,168.9,3.27,11.18
+Cotton,Rabi,Andhra Pradesh,Rainfed,38.13,1597.2,27.5,238.1,1.73,65.96
+Tomato,Kharif,Maharashtra,Canal,22.76,474.9,15.3,80.2,28.42,646.84
+Soybean,Rabi,West Bengal,Canal,25.19,929.0,17.8,205.0,2.83,71.29
+Maize,Kharif,Maharashtra,Rainfed,41.66,1485.4,29.2,88.3,2.33,97.07
+Wheat,Zaid,West Bengal,Sprinkler,5.79,1219.3,17.5,209.8,3.78,21.89
+Tomato,Kharif,Punjab,Tube Well,13.35,541.9,29.2,69.4,19.03,254.05
+Groundnut,Whole Year,Uttar Pradesh,Tube Well,49.44,1191.2,24.0,153.1,1.66,82.07
+Groundnut,Whole Year,Maharashtra,Sprinkler,25.87,364.1,23.2,220.5,2.53,65.45
+Cotton,Kharif,Andhra Pradesh,Drip,19.86,1481.7,22.7,154.8,2.59,51.44
+Potato,Whole Year,Tamil Nadu,Tube Well,30.58,957.1,23.4,198.4,23.68,724.13
+Sugarcane,Whole Year,Gujarat,Tube Well,47.23,591.9,35.6,132.1,66.86,3157.8
+Potato,Rabi,Tamil Nadu,Canal,8.33,626.0,17.0,85.6,25.95,216.16
+Tomato,Kharif,Andhra Pradesh,Sprinkler,1.59,239.4,15.2,123.3,26.25,41.74
+Mustard,Whole Year,West Bengal,Sprinkler,13.28,774.3,32.3,201.7,1.8,23.9
+Potato,Whole Year,West Bengal,Drip,10.1,263.3,28.5,82.9,24.76,250.08
+Groundnut,Rabi,Gujarat,Canal,10.93,409.1,15.1,157.9,2.85,31.15
+Sugarcane,Rabi,Maharashtra,Drip,26.56,926.7,21.8,114.9,76.8,2039.81
+Groundnut,Whole Year,Uttar Pradesh,Canal,11.65,498.7,16.7,67.9,2.24,26.1
+Tomato,Rabi,Andhra Pradesh,Drip,22.82,530.8,18.9,203.1,31.61,721.34
+Groundnut,Whole Year,Maharashtra,Canal,49.41,512.3,33.7,157.6,2.98,147.24
+Cotton,Whole Year,Uttar Pradesh,Tube Well,18.04,885.5,27.9,215.7,2.26,40.77
+Rice,Kharif,Madhya Pradesh,Sprinkler,3.47,1494.0,16.9,166.0,3.67,12.73
+Wheat,Kharif,Haryana,Drip,34.86,791.3,26.4,168.9,4.65,162.1
+Potato,Kharif,Maharashtra,Drip,47.35,1510.4,26.4,141.2,23.1,1093.79
+Maize,Zaid,Haryana,Canal,47.66,1440.7,33.0,128.3,3.35,159.66
+Wheat,Rabi,Maharashtra,Drip,17.7,241.1,25.6,229.3,4.68,82.84
+Mustard,Kharif,Andhra Pradesh,Tube Well,17.47,499.6,15.9,197.8,1.87,32.67
+Mustard,Rabi,Maharashtra,Sprinkler,7.62,1357.5,18.0,117.7,1.47,11.2
+Wheat,Rabi,Uttar Pradesh,Sprinkler,9.9,619.0,21.3,248.4,4.52,44.75
+Maize,Kharif,Andhra Pradesh,Drip,41.31,789.6,24.3,159.8,4.36,180.11
+Maize,Rabi,Gujarat,Sprinkler,10.55,609.3,18.6,203.4,4.46,47.05
+Sugarcane,Kharif,West Bengal,Rainfed,6.1,622.1,25.7,111.0,65.49,399.49
+Sugarcane,Kharif,Tamil Nadu,Drip,10.99,1040.0,26.9,85.2,76.51,840.84
+Sugarcane,Zaid,Maharashtra,Canal,33.07,1534.8,18.5,142.1,70.84,2342.68
+Groundnut,Rabi,West Bengal,Canal,45.91,781.6,18.3,186.7,2.88,132.22
+Tomato,Whole Year,Karnataka,Sprinkler,39.08,438.7,17.0,153.7,31.58,1234.15
+Maize,Kharif,Haryana,Rainfed,49.45,866.0,21.6,141.9,2.93,144.89
+Rice,Zaid,Haryana,Tube Well,32.07,1441.4,18.5,74.1,2.82,90.44
+Groundnut,Zaid,Maharashtra,Tube Well,48.42,609.6,33.7,51.6,1.75,84.73
+Cotton,Kharif,Punjab,Drip,24.14,785.1,28.4,125.2,2.73,65.9
+Cotton,Rabi,Gujarat,Sprinkler,44.06,936.8,18.0,178.6,2.49,109.71
+Groundnut,Kharif,Gujarat,Canal,43.03,724.3,20.5,83.9,2.08,89.5
+Cotton,Whole Year,Karnataka,Canal,25.87,1155.1,35.5,206.7,2.81,72.69
+Potato,Rabi,West Bengal,Drip,47.41,890.1,17.2,238.6,35.29,1673.1
+Tomato,Zaid,Uttar Pradesh,Rainfed,30.75,1146.8,35.9,186.5,19.22,591.01
+Wheat,Zaid,Madhya Pradesh,Rainfed,4.65,985.0,22.5,69.3,2.9,13.49
+Tomato,Rabi,West Bengal,Drip,4.77,665.4,24.9,96.5,25.73,122.73
+Maize,Zaid,Gujarat,Tube Well,28.9,716.4,19.8,219.7,3.27,94.5
+Mustard,Kharif,Maharashtra,Canal,48.3,968.5,20.4,225.4,1.99,96.12
+Rice,Zaid,Maharashtra,Tube Well,17.35,530.4,18.3,97.0,2.86,49.62
+Wheat,Zaid,Punjab,Drip,9.74,273.4,34.4,208.4,4.79,46.65
+Groundnut,Whole Year,Gujarat,Rainfed,42.36,1467.4,26.4,190.7,1.86,78.79
+Rice,Rabi,West Bengal,Canal,7.37,1501.9,15.2,214.5,4.75,35.01
+Groundnut,Zaid,Maharashtra,Tube Well,31.34,1521.6,30.2,92.9,1.48,46.38
+Mustard,Kharif,Karnataka,Sprinkler,18.73,309.7,34.6,168.0,1.46,27.35
+Tomato,Zaid,Tamil Nadu,Rainfed,41.6,803.2,27.0,244.4,25.91,1077.86
+Maize,Kharif,Madhya Pradesh,Drip,2.12,1540.3,28.5,215.1,3.79,8.03
+Wheat,Kharif,Maharashtra,Canal,3.13,1307.2,27.2,146.2,3.58,11.21
+Maize,Rabi,West Bengal,Tube Well,18.39,1033.5,33.2,146.3,2.98,54.8
+Mustard,Kharif,Andhra Pradesh,Sprinkler,26.33,963.2,15.3,70.0,1.47,38.71
+Soybean,Kharif,Haryana,Canal,45.16,592.5,16.6,174.7,3.43,154.9
+Soybean,Rabi,Tamil Nadu,Sprinkler,3.03,844.7,24.2,159.3,2.4,7.27
+Mustard,Rabi,Haryana,Drip,44.67,868.7,25.9,155.8,2.1,93.81
+Potato,Whole Year,Uttar Pradesh,Rainfed,16.27,428.0,23.0,107.7,20.02,325.73
+Tomato,Whole Year,Madhya Pradesh,Sprinkler,25.32,478.4,27.1,131.6,27.62,699.34
+Tomato,Kharif,Uttar Pradesh,Drip,2.94,1107.1,17.2,125.8,27.2,79.97
+Cotton,Kharif,Punjab,Rainfed,22.69,1451.9,15.2,180.7,1.64,37.21
+Cotton,Whole Year,Gujarat,Drip,12.74,1320.6,16.4,162.8,2.19,27.9
+Potato,Whole Year,Maharashtra,Rainfed,30.43,1176.8,24.1,235.2,19.68,598.86
+Soybean,Zaid,Maharashtra,Sprinkler,26.72,642.7,19.9,64.8,2.14,57.18
+Groundnut,Zaid,Maharashtra,Canal,5.76,1319.5,20.4,160.5,2.47,14.23
+Wheat,Whole Year,West Bengal,Rainfed,11.35,336.3,20.8,249.5,4.11,46.65
+Cotton,Rabi,Gujarat,Sprinkler,8.66,584.7,25.7,226.2,2.83,24.51
+Tomato,Zaid,Karnataka,Drip,13.89,1224.7,26.7,198.5,29.9,415.31
+Maize,Whole Year,Madhya Pradesh,Canal,15.78,1446.4,23.9,162.4,3.36,53.02
+Mustard,Kharif,Gujarat,Canal,44.61,541.4,29.1,209.6,1.91,85.21
+Cotton,Zaid,Tamil Nadu,Drip,26.86,594.7,18.8,178.5,3.07,82.46
+Soybean,Kharif,Haryana,Canal,49.33,1266.3,15.1,94.7,2.11,104.09
+Soybean,Zaid,Madhya Pradesh,Drip,32.27,522.1,22.8,60.1,2.94,94.87
+Rice,Zaid,Punjab,Tube Well,25.53,1294.1,22.8,180.4,3.66,93.44
+Potato,Rabi,Maharashtra,Tube Well,32.65,418.8,33.6,167.2,20.59,672.26
+Sugarcane,Rabi,Tamil Nadu,Sprinkler,47.27,740.3,29.5,207.6,92.75,4384.29
+Wheat,Rabi,Karnataka,Tube Well,18.18,615.1,22.2,160.3,3.48,63.27
+Rice,Rabi,West Bengal,Tube Well,7.51,476.7,27.1,107.1,3.29,24.71
+Potato,Kharif,Haryana,Rainfed,23.87,1149.5,18.7,236.5,21.07,502.94
+Wheat,Whole Year,Punjab,Drip,36.67,1148.2,35.9,208.4,4.55,166.85
+Mustard,Kharif,West Bengal,Rainfed,39.51,1158.0,16.4,57.9,1.25,49.39
+Wheat,Whole Year,Maharashtra,Rainfed,20.24,1312.0,28.4,98.6,2.55,51.61
+Potato,Kharif,Maharashtra,Canal,42.08,892.0,32.9,160.0,27.19,1144.16
+Soybean,Whole Year,Tamil Nadu,Sprinkler,19.33,1268.7,25.7,211.2,2.57,49.68
+Rice,Kharif,Karnataka,Rainfed,3.81,1127.7,31.1,64.6,3.17,12.08
+Soybean,Kharif,Madhya Pradesh,Tube Well,6.7,955.9,17.3,114.3,2.32,15.54
+Soybean,Kharif,Punjab,Tube Well,7.82,1556.4,25.0,123.9,1.6,12.51
+Rice,Kharif,Maharashtra,Canal,48.98,1260.9,19.4,208.3,4.08,199.84
+Cotton,Zaid,Maharashtra,Sprinkler,17.32,1373.4,16.0,222.7,2.19,37.93
+Tomato,Kharif,Tamil Nadu,Tube Well,47.56,975.5,22.2,58.9,19.43,924.09
+Wheat,Whole Year,West Bengal,Tube Well,41.91,756.0,17.1,208.3,3.19,133.69
+Cotton,Rabi,Haryana,Canal,3.03,868.5,34.5,52.3,2.49,7.54
+Maize,Kharif,Haryana,Canal,1.49,1322.5,16.4,154.9,3.16,4.71
+Groundnut,Whole Year,Uttar Pradesh,Tube Well,34.99,457.7,19.5,67.4,1.99,69.63
+Rice,Whole Year,Uttar Pradesh,Drip,22.88,1456.9,16.9,85.1,3.49,79.85
+Maize,Zaid,Madhya Pradesh,Rainfed,17.37,489.5,18.8,161.9,3.24,56.28
+Rice,Kharif,Karnataka,Canal,11.12,1202.0,16.7,204.4,4.1,45.59
+Rice,Kharif,Maharashtra,Drip,27.97,481.2,29.1,191.7,4.82,134.82
+Sugarcane,Zaid,Karnataka,Rainfed,5.84,585.8,22.8,70.8,60.09,350.93
+Wheat,Whole Year,West Bengal,Canal,49.85,323.9,30.0,220.2,4.34,216.35
+Wheat,Kharif,Maharashtra,Sprinkler,14.47,1271.8,17.0,101.7,3.02,43.7
+Wheat,Kharif,Haryana,Sprinkler,49.61,1101.6,21.4,159.6,3.62,179.59
+Rice,Whole Year,Uttar Pradesh,Tube Well,20.77,1172.3,16.8,90.0,3.13,65.01
+Soybean,Rabi,Andhra Pradesh,Drip,45.16,922.3,26.9,66.8,2.19,98.9
+Wheat,Zaid,Tamil Nadu,Canal,44.04,855.5,19.9,116.7,3.78,166.47
+Rice,Zaid,Uttar Pradesh,Sprinkler,6.12,1396.4,15.9,97.2,3.08,18.85
+Mustard,Rabi,Andhra Pradesh,Drip,36.4,775.1,29.7,222.1,2.29,83.36
+Sugarcane,Rabi,Haryana,Rainfed,11.03,983.1,27.5,234.0,70.98,782.91
+Rice,Kharif,Punjab,Rainfed,40.24,1420.7,25.8,238.4,3.84,154.52
+Soybean,Rabi,Uttar Pradesh,Rainfed,40.63,1562.7,33.3,115.2,1.74,70.7
+Sugarcane,Kharif,Punjab,Tube Well,22.21,1320.8,33.3,58.9,53.28,1183.35
+Soybean,Kharif,West Bengal,Canal,14.36,725.6,20.1,50.7,2.4,34.46
+Soybean,Zaid,Punjab,Sprinkler,44.83,658.1,28.3,233.2,2.83,126.87
+Wheat,Zaid,Gujarat,Canal,40.79,1053.8,28.8,79.5,2.96,120.74
+Cotton,Whole Year,Karnataka,Canal,8.31,224.3,23.3,114.4,2.51,20.86
+Potato,Whole Year,Andhra Pradesh,Tube Well,28.93,1236.5,19.2,144.5,20.08,580.91
+Tomato,Zaid,Punjab,Canal,12.41,1212.7,30.5,85.8,24.09,298.96
+Tomato,Kharif,Haryana,Tube Well,4.89,723.5,28.5,204.2,23.1,112.96
+Sugarcane,Kharif,Madhya Pradesh,Rainfed,25.99,535.7,26.7,94.0,68.57,1782.13
+Sugarcane,Rabi,Gujarat,Rainfed,10.94,1588.1,34.7,72.5,51.49,563.3
+Rice,Rabi,Andhra Pradesh,Drip,20.74,1091.5,24.8,123.3,4.53,93.95
+Rice,Zaid,Madhya Pradesh,Rainfed,26.21,456.8,32.0,144.4,3.24,84.92
+Maize,Whole Year,West Bengal,Rainfed,25.82,628.5,24.7,177.3,3.08,79.53
+Potato,Kharif,Karnataka,Tube Well,3.09,445.6,28.7,82.1,22.58,69.77
+Potato,Whole Year,Karnataka,Canal,46.01,1127.2,28.3,233.1,27.59,1269.42
+Sugarcane,Rabi,Madhya Pradesh,Sprinkler,11.66,402.4,31.6,75.6,59.77,696.92
+Wheat,Rabi,Haryana,Canal,11.17,1304.8,32.8,88.6,2.86,31.95
+Rice,Kharif,West Bengal,Rainfed,42.17,1438.9,18.5,111.9,2.98,125.67
+Soybean,Kharif,Andhra Pradesh,Drip,1.49,973.6,34.2,74.9,2.36,3.52
+Mustard,Zaid,Madhya Pradesh,Canal,7.6,918.6,16.9,161.6,1.68,12.77
+Groundnut,Whole Year,Uttar Pradesh,Sprinkler,12.92,558.0,35.0,196.0,2.58,33.33
+Sugarcane,Zaid,Haryana,Tube Well,42.3,1323.2,29.1,89.2,67.34,2848.48
+Cotton,Kharif,Haryana,Drip,22.75,480.2,32.6,100.9,2.56,58.24
+Sugarcane,Whole Year,Gujarat,Tube Well,16.29,200.7,21.8,65.7,52.93,862.23
+Rice,Kharif,Haryana,Canal,6.79,635.8,25.7,93.2,4.37,29.67
+Rice,Whole Year,Haryana,Rainfed,14.99,450.3,15.6,174.6,3.03,45.42
+Rice,Rabi,Uttar Pradesh,Tube Well,1.36,732.3,15.2,97.6,3.9,5.3
+Maize,Rabi,Uttar Pradesh,Rainfed,18.0,1086.3,32.9,107.3,2.67,48.06
+Cotton,Whole Year,Tamil Nadu,Drip,38.12,301.5,16.6,180.8,2.25,85.77
+Groundnut,Kharif,Maharashtra,Sprinkler,31.27,1286.8,33.2,99.9,1.78,55.66
+Tomato,Whole Year,Madhya Pradesh,Sprinkler,8.48,997.9,20.5,142.9,28.06,237.95
+Mustard,Whole Year,West Bengal,Canal,14.46,1572.8,26.4,229.5,2.07,29.93
+Sugarcane,Zaid,Uttar Pradesh,Sprinkler,6.97,1149.7,16.8,211.4,89.9,626.6
+Cotton,Kharif,Andhra Pradesh,Tube Well,37.3,1506.3,16.0,205.0,1.9,70.87
+Rice,Rabi,Haryana,Rainfed,47.95,868.4,19.6,182.9,3.63,174.06
+Rice,Whole Year,Andhra Pradesh,Canal,2.88,1445.6,31.7,215.8,5.01,14.43
+Wheat,Zaid,Maharashtra,Drip,18.53,1489.9,17.4,236.3,3.81,70.6
+Wheat,Whole Year,Haryana,Rainfed,25.16,454.4,31.1,233.9,4.18,105.17
+Potato,Zaid,Karnataka,Rainfed,34.49,997.0,31.4,212.6,20.43,704.63
+Rice,Whole Year,Andhra Pradesh,Drip,7.02,1356.5,34.9,111.5,4.32,30.33
+Maize,Kharif,Uttar Pradesh,Canal,44.8,416.7,30.9,122.3,3.64,163.07
+Sugarcane,Rabi,Maharashtra,Drip,17.16,822.3,16.8,200.1,100.46,1723.89
+Mustard,Kharif,Uttar Pradesh,Tube Well,24.91,301.2,26.8,149.4,1.45,36.12
+Potato,Zaid,West Bengal,Rainfed,40.33,1086.2,27.0,189.0,21.87,882.02
+Mustard,Zaid,Haryana,Rainfed,49.06,1384.9,19.6,61.5,1.0,49.06
+Sugarcane,Kharif,Punjab,Rainfed,4.58,1200.6,24.0,90.9,69.82,319.78
+Maize,Zaid,Madhya Pradesh,Canal,42.39,1472.8,28.5,122.1,3.03,128.44
+Sugarcane,Whole Year,Karnataka,Canal,10.8,574.1,33.2,204.0,96.34,1040.47
+Groundnut,Kharif,Gujarat,Tube Well,23.89,1038.7,23.9,63.4,1.53,36.55
+Potato,Whole Year,Uttar Pradesh,Sprinkler,19.74,237.9,19.1,91.1,22.43,442.77
+Groundnut,Rabi,Uttar Pradesh,Rainfed,32.86,1019.0,19.3,151.2,1.74,57.18
+Rice,Kharif,Andhra Pradesh,Rainfed,37.79,1176.1,18.2,141.9,3.53,133.4
+Cotton,Kharif,Uttar Pradesh,Sprinkler,22.2,737.3,18.7,216.4,2.59,57.5
+Cotton,Zaid,Andhra Pradesh,Tube Well,20.04,1301.0,26.1,171.5,1.86,37.27
+Sugarcane,Whole Year,Uttar Pradesh,Sprinkler,41.72,1119.9,19.6,63.1,62.48,2606.67
+Sugarcane,Kharif,Maharashtra,Rainfed,7.36,1062.9,29.5,181.5,73.69,542.36
+Wheat,Zaid,Tamil Nadu,Canal,14.99,413.0,35.8,162.8,4.34,65.06
+Soybean,Kharif,Uttar Pradesh,Sprinkler,3.83,283.2,34.7,192.0,2.85,10.92
+Cotton,Kharif,Karnataka,Drip,28.02,905.9,16.2,67.6,2.14,59.96
+Soybean,Zaid,Maharashtra,Drip,41.95,1325.3,18.0,183.6,2.61,109.49
+Groundnut,Rabi,Punjab,Drip,35.55,1551.8,19.0,53.3,1.69,60.08
+Potato,Rabi,Punjab,Drip,27.87,1458.3,29.5,77.2,21.41,596.7
+Rice,Whole Year,Uttar Pradesh,Sprinkler,16.7,1582.2,28.4,148.4,3.54,59.12
+Maize,Rabi,Madhya Pradesh,Tube Well,8.15,1039.5,21.8,164.3,2.69,21.92
+Sugarcane,Whole Year,Gujarat,Canal,18.19,1221.7,29.4,60.7,71.93,1308.41
+Potato,Rabi,Maharashtra,Sprinkler,14.3,1340.2,15.6,88.1,19.92,284.86
+Tomato,Whole Year,Uttar Pradesh,Drip,18.91,242.1,16.6,89.7,27.1,512.46
+Wheat,Zaid,Maharashtra,Canal,14.87,450.3,29.9,243.8,4.69,69.74
+Cotton,Kharif,Andhra Pradesh,Sprinkler,8.16,1101.9,26.8,89.5,1.87,15.26
+Rice,Rabi,West Bengal,Tube Well,38.24,567.7,29.1,74.7,3.1,118.54
+Soybean,Kharif,Maharashtra,Tube Well,18.77,1323.1,15.9,190.9,2.27,42.61
+Rice,Rabi,Madhya Pradesh,Rainfed,4.8,1481.5,21.3,72.3,2.47,11.86
+Groundnut,Rabi,Uttar Pradesh,Sprinkler,49.66,826.7,36.0,127.1,2.38,118.19
+Maize,Kharif,Haryana,Drip,3.17,688.4,34.1,66.7,3.14,9.95
+Tomato,Kharif,Karnataka,Canal,5.83,234.6,17.9,114.4,32.89,191.75
+Sugarcane,Rabi,West Bengal,Rainfed,37.87,1383.4,25.2,241.3,73.89,2798.21
+Sugarcane,Zaid,Punjab,Rainfed,12.04,866.6,16.0,226.6,76.67,923.11
+Cotton,Whole Year,West Bengal,Rainfed,40.41,1059.5,19.3,72.1,1.65,66.68
+Rice,Rabi,West Bengal,Drip,31.33,1215.5,19.4,241.0,5.1,159.78
+Soybean,Zaid,Punjab,Sprinkler,28.92,986.1,31.3,214.8,2.75,79.53
+Cotton,Rabi,Madhya Pradesh,Tube Well,1.5,1133.1,34.4,66.6,1.6,2.4
+Wheat,Kharif,Gujarat,Tube Well,34.76,282.6,25.0,204.1,3.7,128.61
+Sugarcane,Kharif,Tamil Nadu,Drip,44.27,1031.7,30.3,240.8,99.9,4422.57
+Potato,Rabi,Karnataka,Rainfed,24.33,1259.3,32.0,93.5,18.81,457.65
+Tomato,Rabi,Gujarat,Sprinkler,30.85,1057.0,24.1,242.1,29.0,894.65
+Groundnut,Whole Year,Gujarat,Tube Well,9.32,1200.9,29.5,227.4,2.29,21.34
+Groundnut,Whole Year,Karnataka,Tube Well,38.17,1127.5,32.6,203.7,2.23,85.12
+Soybean,Rabi,Gujarat,Rainfed,20.69,404.3,33.6,209.0,2.52,52.14
+Rice,Whole Year,Punjab,Canal,33.64,386.2,25.9,177.3,4.81,161.81
+Groundnut,Whole Year,Punjab,Rainfed,7.27,224.1,27.2,207.9,2.39,17.38
+Wheat,Whole Year,Uttar Pradesh,Rainfed,3.89,901.0,15.5,86.1,2.86,11.13
+Wheat,Whole Year,Madhya Pradesh,Tube Well,10.06,586.8,22.9,89.4,3.11,31.29
+Potato,Zaid,Gujarat,Drip,17.21,1054.7,26.4,166.1,28.64,492.89
+Sugarcane,Whole Year,Madhya Pradesh,Rainfed,36.7,550.8,34.6,67.3,49.04,1799.77
+Groundnut,Whole Year,West Bengal,Sprinkler,7.83,553.8,17.6,135.3,2.38,18.64
+Maize,Zaid,Madhya Pradesh,Sprinkler,41.18,1208.5,28.5,111.6,3.12,128.48
+Potato,Kharif,Uttar Pradesh,Tube Well,4.92,903.8,25.8,217.4,24.96,122.8
+Cotton,Whole Year,Uttar Pradesh,Rainfed,5.34,883.1,33.9,141.1,1.75,9.34
+Wheat,Whole Year,Andhra Pradesh,Rainfed,5.47,1435.8,29.5,174.7,2.71,14.82
+Soybean,Zaid,Maharashtra,Sprinkler,9.9,1507.8,23.4,174.5,2.13,21.09
+Maize,Kharif,Uttar Pradesh,Rainfed,34.85,397.3,33.6,51.0,2.68,93.4
+Sugarcane,Rabi,Gujarat,Sprinkler,24.05,1072.3,22.7,210.3,79.31,1907.41
+Sugarcane,Kharif,Madhya Pradesh,Drip,5.05,762.6,33.6,221.1,92.66,467.93
+Mustard,Kharif,Maharashtra,Canal,46.19,1397.3,25.1,116.7,1.66,76.68
+Sugarcane,Kharif,Punjab,Sprinkler,28.94,1424.3,30.4,118.2,80.75,2336.91
+Soybean,Kharif,Punjab,Canal,22.06,1376.7,20.7,184.1,2.4,52.94
+Mustard,Kharif,Punjab,Canal,34.09,596.4,35.4,236.9,2.42,82.5
+Cotton,Whole Year,Haryana,Tube Well,38.31,872.9,35.7,232.9,2.28,87.35
+Maize,Rabi,Uttar Pradesh,Drip,16.29,794.7,16.1,75.5,3.34,54.41
+Potato,Rabi,Gujarat,Tube Well,24.59,667.3,34.6,70.6,16.64,409.18
+Rice,Rabi,Uttar Pradesh,Drip,47.67,266.2,20.1,142.8,4.33,206.41
+Rice,Kharif,Maharashtra,Tube Well,31.18,457.2,34.8,136.0,3.54,110.38
+Wheat,Rabi,Punjab,Rainfed,21.6,1309.6,16.1,203.1,3.01,65.02
+Groundnut,Rabi,Uttar Pradesh,Rainfed,2.95,565.8,17.1,128.9,1.95,5.75
+Mustard,Rabi,Uttar Pradesh,Tube Well,44.1,515.1,23.3,119.1,1.75,77.17
+Soybean,Zaid,Punjab,Tube Well,39.36,815.5,15.0,132.9,1.96,77.15
+Tomato,Zaid,Uttar Pradesh,Rainfed,25.67,626.7,18.4,192.3,25.57,656.38
+Cotton,Zaid,Andhra Pradesh,Sprinkler,16.46,375.7,25.3,231.5,2.67,43.95
+Mustard,Rabi,Karnataka,Tube Well,21.76,862.6,20.6,107.8,1.49,32.42
+Tomato,Whole Year,Punjab,Drip,14.5,352.1,35.8,231.4,40.23,583.33
+Cotton,Zaid,Maharashtra,Rainfed,14.54,638.8,24.5,215.8,2.46,35.77
+Mustard,Kharif,West Bengal,Canal,18.29,473.9,22.1,156.7,2.15,39.32
+Sugarcane,Rabi,Tamil Nadu,Sprinkler,4.91,381.2,17.0,165.3,82.11,403.16
+Cotton,Rabi,Karnataka,Tube Well,15.51,562.8,30.3,193.2,2.36,36.6
+Sugarcane,Zaid,Tamil Nadu,Drip,3.52,1083.0,35.7,220.8,100.22,352.77
+Groundnut,Rabi,Punjab,Sprinkler,37.68,314.1,25.4,124.2,2.12,79.88
+Cotton,Kharif,Uttar Pradesh,Rainfed,42.92,1276.8,26.0,182.9,2.08,89.27
+Maize,Zaid,Madhya Pradesh,Rainfed,28.0,946.9,34.7,120.3,2.66,74.48
+Groundnut,Kharif,Uttar Pradesh,Tube Well,28.54,1374.3,32.6,195.2,1.8,51.37
+Potato,Zaid,Uttar Pradesh,Tube Well,36.66,653.5,29.2,164.2,19.02,697.27
+Sugarcane,Whole Year,West Bengal,Sprinkler,28.34,1411.8,31.4,110.5,77.28,2190.12
+Groundnut,Zaid,Punjab,Drip,11.25,1305.0,24.5,75.2,1.78,20.02
+Sugarcane,Kharif,Haryana,Canal,34.19,981.0,34.7,170.4,87.94,3006.67
+Groundnut,Kharif,Maharashtra,Canal,3.08,1097.0,27.9,91.6,2.28,7.02
+Sugarcane,Kharif,Andhra Pradesh,Canal,44.58,531.3,35.9,101.4,77.76,3466.54
+Rice,Kharif,Gujarat,Drip,25.0,538.3,25.3,87.9,4.29,107.25
+Cotton,Zaid,West Bengal,Tube Well,34.95,1550.9,31.6,82.3,1.56,54.52
+Soybean,Rabi,Punjab,Rainfed,7.65,551.0,19.2,92.7,1.96,14.99
+Mustard,Zaid,Andhra Pradesh,Canal,34.73,531.0,18.6,63.5,1.66,57.65
+Soybean,Kharif,Uttar Pradesh,Rainfed,27.57,1110.9,27.4,225.5,2.48,68.37
+Sugarcane,Zaid,Madhya Pradesh,Sprinkler,14.68,1269.0,24.9,159.5,69.25,1016.59
+Groundnut,Rabi,Haryana,Drip,23.94,1077.6,28.9,87.9,2.13,50.99
+Sugarcane,Zaid,Uttar Pradesh,Sprinkler,5.18,884.4,25.7,166.0,89.0,461.02
+Mustard,Rabi,West Bengal,Rainfed,32.1,213.7,29.9,202.9,1.69,54.25
+Cotton,Kharif,Andhra Pradesh,Drip,45.09,1087.3,20.8,85.9,2.47,111.37
+Mustard,Rabi,Punjab,Drip,10.31,1564.5,33.6,144.3,1.51,15.57
+Mustard,Rabi,Karnataka,Rainfed,32.26,1096.2,18.8,191.0,1.4,45.16
+Potato,Zaid,Karnataka,Canal,26.63,1065.4,23.7,79.9,22.51,599.44
+Groundnut,Whole Year,Tamil Nadu,Canal,1.7,499.8,18.2,70.4,2.44,4.15
+Wheat,Rabi,Haryana,Canal,41.49,1118.8,30.9,132.9,3.69,153.1
+Cotton,Kharif,Punjab,Drip,33.3,481.9,16.8,95.9,2.74,91.24
+Soybean,Kharif,Punjab,Tube Well,22.2,803.9,15.8,140.6,2.48,55.06
+Rice,Rabi,Tamil Nadu,Drip,19.01,773.6,27.0,90.5,4.19,79.65
+Mustard,Rabi,Maharashtra,Sprinkler,18.44,397.2,35.1,56.8,1.61,29.69
+Groundnut,Zaid,Haryana,Drip,29.09,412.8,17.5,155.7,2.75,80.0
+Groundnut,Kharif,Tamil Nadu,Rainfed,25.85,239.0,17.5,233.9,2.17,56.09
+Rice,Whole Year,Haryana,Drip,31.4,1394.9,20.1,142.4,4.4,138.16
+Soybean,Zaid,Uttar Pradesh,Drip,33.0,593.1,19.1,104.7,2.98,98.34
+Potato,Whole Year,Karnataka,Sprinkler,16.65,661.6,18.2,180.5,24.77,412.42
+Mustard,Kharif,Andhra Pradesh,Sprinkler,8.56,1246.7,19.4,80.4,1.4,11.98
+Rice,Rabi,Uttar Pradesh,Rainfed,46.05,1262.5,22.2,80.9,2.76,127.1
+Cotton,Whole Year,Andhra Pradesh,Drip,7.19,1490.2,30.0,117.3,2.09,15.03
+Sugarcane,Rabi,Haryana,Drip,25.41,1440.2,18.8,140.4,74.35,1889.23
+Potato,Whole Year,Maharashtra,Drip,33.16,1497.0,27.4,115.6,20.07,665.52
+Sugarcane,Zaid,Maharashtra,Rainfed,9.56,1445.8,32.5,119.8,53.74,513.75
+Mustard,Rabi,Karnataka,Rainfed,8.79,1059.9,29.3,66.8,1.12,9.84
+Groundnut,Kharif,Uttar Pradesh,Tube Well,43.72,1549.3,29.5,176.4,1.53,66.89
+Maize,Whole Year,Gujarat,Tube Well,40.55,813.9,28.7,82.4,2.82,114.35
+Tomato,Kharif,Karnataka,Tube Well,22.56,1464.9,35.6,245.6,23.71,534.9
+Wheat,Rabi,Uttar Pradesh,Tube Well,15.69,667.3,19.5,241.1,3.94,61.82
+Mustard,Rabi,Punjab,Drip,38.17,1144.5,21.4,141.7,1.8,68.71
+Wheat,Rabi,Haryana,Canal,48.44,1225.4,32.8,66.5,2.85,138.05
+Groundnut,Zaid,Karnataka,Canal,7.49,384.4,15.7,202.2,2.66,19.92
+Soybean,Whole Year,Haryana,Sprinkler,22.21,1487.3,27.0,95.9,2.16,47.97
+Tomato,Rabi,Maharashtra,Tube Well,21.41,561.8,33.4,178.5,26.97,577.43
+Wheat,Rabi,Haryana,Sprinkler,48.63,804.7,24.7,215.2,3.8,184.79
+Potato,Zaid,Karnataka,Canal,20.69,1207.7,27.1,155.6,25.2,521.39
+Tomato,Whole Year,Uttar Pradesh,Drip,38.52,1135.3,35.1,239.6,30.17,1162.15
+Rice,Whole Year,Karnataka,Drip,35.95,1327.3,26.2,75.1,3.66,131.58
+Mustard,Zaid,Karnataka,Rainfed,31.14,1395.1,29.9,94.7,1.12,34.88
+Sugarcane,Kharif,Karnataka,Sprinkler,9.39,1408.0,27.7,97.4,71.58,672.14
+Wheat,Rabi,Tamil Nadu,Canal,45.48,841.0,22.6,239.8,4.07,185.1
+Tomato,Whole Year,Maharashtra,Sprinkler,33.05,1303.6,27.9,224.0,24.59,812.7
+Tomato,Whole Year,Karnataka,Rainfed,35.17,464.0,16.9,69.3,20.24,711.84
+Groundnut,Zaid,Karnataka,Tube Well,11.07,1250.6,30.8,154.6,1.71,18.93
+Cotton,Zaid,Uttar Pradesh,Sprinkler,8.0,1081.0,34.0,241.1,2.29,18.32
+Wheat,Rabi,Haryana,Sprinkler,35.25,260.5,32.2,180.5,4.16,146.64
+Rice,Kharif,Maharashtra,Drip,4.37,470.3,27.8,226.8,4.94,21.59
+Sugarcane,Whole Year,Maharashtra,Tube Well,44.42,684.9,24.8,107.1,68.28,3033.0
+Potato,Kharif,West Bengal,Tube Well,17.59,1048.5,33.4,177.1,18.61,327.35
+Groundnut,Rabi,Maharashtra,Canal,17.33,1261.1,32.9,133.4,2.4,41.59
+Mustard,Zaid,Tamil Nadu,Sprinkler,3.76,1565.9,23.9,220.2,1.71,6.43
+Groundnut,Whole Year,Andhra Pradesh,Drip,23.5,787.0,26.9,186.8,2.52,59.22
+Maize,Kharif,West Bengal,Drip,14.59,830.4,23.1,204.9,4.41,64.34
+Tomato,Zaid,Maharashtra,Tube Well,35.53,913.5,19.0,84.8,19.31,686.08
+Soybean,Rabi,West Bengal,Canal,27.01,902.0,18.8,135.9,2.47,66.71
+Mustard,Whole Year,Uttar Pradesh,Drip,44.14,996.7,30.7,59.0,1.57,69.3
+Mustard,Rabi,Gujarat,Canal,43.82,1163.7,19.2,89.0,1.66,72.74
+Sugarcane,Rabi,Punjab,Tube Well,36.04,327.7,35.3,146.4,72.27,2604.61
+Potato,Kharif,Gujarat,Drip,47.64,1563.1,20.9,146.6,19.89,947.56
+Soybean,Rabi,West Bengal,Drip,5.29,416.3,25.8,226.3,3.32,17.56
+Mustard,Whole Year,Karnataka,Sprinkler,48.83,274.0,35.9,231.2,2.12,103.52
+Tomato,Kharif,Gujarat,Drip,27.76,884.3,25.8,103.5,27.66,767.84
+Maize,Whole Year,Tamil Nadu,Rainfed,32.96,1434.8,33.5,131.7,2.24,73.83
+Rice,Whole Year,Gujarat,Canal,1.74,1352.1,23.1,105.3,3.59,6.25
+Maize,Kharif,Haryana,Tube Well,17.24,1549.2,21.3,220.9,2.79,48.1
+Maize,Whole Year,Punjab,Sprinkler,24.12,972.5,18.3,205.9,3.47,83.7
+Soybean,Whole Year,Maharashtra,Drip,17.15,1408.0,22.4,151.2,2.14,36.7
+Maize,Rabi,Uttar Pradesh,Tube Well,28.88,503.6,35.8,186.8,2.89,83.46
+Rice,Kharif,Gujarat,Tube Well,31.76,1016.0,24.0,177.2,3.77,119.74
+Wheat,Rabi,Maharashtra,Sprinkler,9.19,1499.0,34.2,98.5,3.09,28.4
+Maize,Kharif,Tamil Nadu,Tube Well,19.63,534.2,30.5,231.0,3.54,69.49
+Groundnut,Rabi,Haryana,Sprinkler,18.15,208.1,27.1,89.7,2.27,41.2
+Maize,Zaid,Tamil Nadu,Drip,2.44,205.7,34.2,80.4,3.22,7.86
+Sugarcane,Rabi,Punjab,Drip,5.68,943.1,28.5,228.2,99.05,562.6
+Rice,Rabi,Gujarat,Sprinkler,34.89,1182.6,18.4,240.1,4.28,149.33
+Groundnut,Zaid,Karnataka,Rainfed,2.28,926.5,27.2,57.0,1.49,3.4
+Sugarcane,Zaid,Tamil Nadu,Tube Well,35.87,494.4,31.7,112.2,66.62,2389.66
+Tomato,Zaid,Maharashtra,Drip,9.01,1066.5,26.8,231.0,31.44,283.27
+Rice,Whole Year,Andhra Pradesh,Drip,27.46,1377.4,26.0,204.4,3.5,96.11
+Sugarcane,Kharif,Punjab,Rainfed,22.33,1443.9,18.1,75.5,58.66,1309.88
+Wheat,Zaid,Madhya Pradesh,Canal,31.65,730.6,31.8,243.8,4.88,154.45
+Groundnut,Whole Year,Gujarat,Tube Well,17.18,818.4,15.3,61.0,1.79,30.75
+Sugarcane,Zaid,Maharashtra,Rainfed,23.05,853.2,16.2,234.8,76.68,1767.47
+Potato,Whole Year,Maharashtra,Tube Well,26.32,845.1,16.2,243.1,25.37,667.74
+Maize,Rabi,Madhya Pradesh,Tube Well,30.62,382.3,31.3,90.0,2.73,83.59
+Soybean,Kharif,Andhra Pradesh,Canal,39.21,306.8,28.1,151.5,3.16,123.9
+Rice,Whole Year,Gujarat,Canal,3.57,896.7,25.6,67.3,3.96,14.14
+Soybean,Rabi,Karnataka,Rainfed,43.12,998.5,15.8,177.2,1.96,84.52
+Rice,Kharif,Gujarat,Drip,17.98,870.7,22.3,54.7,3.89,69.94
+Tomato,Zaid,Haryana,Rainfed,39.71,349.0,25.0,239.1,28.18,1119.03
+Sugarcane,Zaid,Punjab,Drip,46.59,881.5,23.5,180.1,92.68,4317.96
+Cotton,Whole Year,Madhya Pradesh,Tube Well,41.54,962.3,24.4,124.2,1.82,75.6
+Maize,Zaid,Tamil Nadu,Sprinkler,21.21,790.1,18.4,169.5,3.45,73.17
+Maize,Rabi,Gujarat,Canal,2.68,226.6,24.5,181.3,4.21,11.28
+Sugarcane,Whole Year,West Bengal,Canal,27.15,631.6,30.8,210.8,95.33,2588.21
+Maize,Whole Year,Punjab,Rainfed,49.75,1492.3,15.0,160.1,2.63,130.84
+Maize,Rabi,Maharashtra,Canal,22.4,731.1,15.6,208.1,4.8,107.52
+Maize,Kharif,Gujarat,Drip,27.56,1322.4,33.6,81.8,2.39,65.87
+Maize,Kharif,Uttar Pradesh,Rainfed,42.96,1302.7,28.5,68.1,2.22,95.37
+Mustard,Whole Year,Andhra Pradesh,Canal,13.38,1536.4,21.3,75.0,1.46,19.53
+Cotton,Zaid,Tamil Nadu,Rainfed,37.94,1068.3,19.4,227.4,2.1,79.67
+Maize,Whole Year,Tamil Nadu,Drip,17.35,919.2,21.8,67.9,3.17,55.0
+Tomato,Kharif,Gujarat,Tube Well,32.94,222.1,34.8,244.2,26.46,871.59
+Maize,Whole Year,Maharashtra,Tube Well,31.1,730.4,29.9,209.1,3.43,106.67
+Rice,Rabi,Tamil Nadu,Tube Well,13.24,685.0,15.7,116.5,3.14,41.57
+Rice,Rabi,Karnataka,Canal,15.77,225.0,33.1,166.9,4.14,65.29
+Wheat,Rabi,Madhya Pradesh,Tube Well,40.67,662.1,26.0,220.5,3.53,143.57
+Cotton,Kharif,Gujarat,Drip,6.65,338.6,21.7,96.5,2.61,17.36
+Cotton,Rabi,Andhra Pradesh,Canal,22.51,321.6,26.6,119.2,2.64,59.43
+Groundnut,Whole Year,Uttar Pradesh,Canal,38.51,719.5,30.7,165.8,2.59,99.74
+Rice,Whole Year,Haryana,Sprinkler,9.28,511.3,20.5,162.9,4.23,39.25
+Mustard,Zaid,Maharashtra,Tube Well,18.01,618.6,22.0,57.7,1.33,23.95
+Groundnut,Zaid,Andhra Pradesh,Rainfed,23.41,845.2,31.1,150.5,1.71,40.03
+Soybean,Rabi,Madhya Pradesh,Rainfed,26.64,1056.7,15.0,184.1,2.09,55.68
+Potato,Kharif,Haryana,Canal,42.37,1001.3,21.2,74.3,21.9,927.9
+Sugarcane,Zaid,Haryana,Drip,40.94,871.8,35.2,250.0,123.58,5059.37
+Potato,Whole Year,Madhya Pradesh,Sprinkler,13.43,1581.5,22.0,191.3,19.69,264.44
+Tomato,Kharif,Gujarat,Drip,15.1,1024.3,25.0,73.9,25.76,388.98
+Sugarcane,Whole Year,Maharashtra,Rainfed,36.7,1230.1,15.0,219.2,62.45,2291.92
+Wheat,Kharif,Uttar Pradesh,Drip,21.63,1493.9,16.6,160.1,3.78,81.76
+Soybean,Zaid,Uttar Pradesh,Canal,37.44,1474.6,33.6,150.4,2.66,99.59
+Wheat,Zaid,Andhra Pradesh,Tube Well,6.48,739.4,30.1,174.8,3.63,23.52
+Cotton,Zaid,Uttar Pradesh,Sprinkler,16.85,312.5,15.6,72.0,2.11,35.55
+Soybean,Rabi,Karnataka,Rainfed,25.29,216.9,23.0,179.0,2.2,55.64
+Cotton,Zaid,Andhra Pradesh,Tube Well,46.52,545.8,33.7,92.7,1.69,78.62
+Cotton,Zaid,Gujarat,Canal,1.1,691.9,15.2,186.7,3.26,3.59
+Cotton,Rabi,West Bengal,Sprinkler,26.72,292.2,23.1,77.8,2.11,56.38
+Groundnut,Whole Year,West Bengal,Tube Well,47.91,1220.5,23.8,199.5,1.98,94.86
+Groundnut,Whole Year,Tamil Nadu,Tube Well,24.95,1350.4,30.3,114.1,1.66,41.42
+Tomato,Rabi,West Bengal,Tube Well,23.48,706.5,15.3,165.8,25.57,600.38
+Sugarcane,Rabi,Madhya Pradesh,Tube Well,5.66,558.9,24.5,83.5,50.29,284.64
+Potato,Zaid,Andhra Pradesh,Sprinkler,29.19,1525.3,23.4,161.1,19.64,573.29
+Rice,Rabi,Madhya Pradesh,Drip,49.41,834.5,28.2,190.2,5.09,251.5
+Cotton,Zaid,Maharashtra,Sprinkler,46.73,1518.4,27.5,148.4,2.38,111.22
+Soybean,Kharif,Andhra Pradesh,Rainfed,30.12,982.7,23.4,167.0,2.04,61.44
+Tomato,Kharif,Maharashtra,Rainfed,22.13,942.5,23.3,177.6,23.75,525.59
+Tomato,Whole Year,Gujarat,Canal,22.21,1096.3,35.7,115.0,24.71,548.81
+Wheat,Rabi,West Bengal,Tube Well,32.82,920.1,29.2,225.9,3.8,124.72
+Potato,Zaid,West Bengal,Canal,16.21,1589.9,28.3,98.8,21.05,341.22
+Soybean,Whole Year,Gujarat,Rainfed,18.36,1102.3,18.8,240.7,2.17,39.84
+Potato,Kharif,Karnataka,Sprinkler,43.86,1072.8,31.9,235.5,25.83,1132.9
+Potato,Zaid,Karnataka,Sprinkler,16.41,1430.5,29.6,94.7,19.74,323.93
+Groundnut,Zaid,Karnataka,Sprinkler,6.31,1377.0,28.4,51.9,1.66,10.47
+Soybean,Kharif,Andhra Pradesh,Rainfed,46.61,1586.5,23.9,135.6,1.74,81.1
+Tomato,Rabi,Uttar Pradesh,Tube Well,9.1,573.1,33.7,175.3,27.27,248.16
+Groundnut,Whole Year,Gujarat,Drip,26.38,1259.7,25.9,99.3,2.01,53.02
+Sugarcane,Kharif,Karnataka,Sprinkler,12.26,969.1,23.2,199.0,74.3,910.92
+Cotton,Kharif,Gujarat,Canal,41.21,279.5,33.2,194.7,3.24,133.52
+Rice,Zaid,Gujarat,Sprinkler,35.41,1503.5,24.9,140.6,3.37,119.33
+Rice,Kharif,Maharashtra,Drip,49.69,428.8,30.7,166.0,4.46,221.62
+Groundnut,Whole Year,Maharashtra,Drip,36.28,884.5,20.4,201.9,2.61,94.69
+Sugarcane,Kharif,Gujarat,Drip,9.87,250.8,29.6,171.2,86.33,852.08
+Potato,Zaid,Haryana,Canal,34.98,915.4,22.0,97.0,23.37,817.48
+Wheat,Kharif,Karnataka,Rainfed,46.07,894.2,23.9,59.6,2.54,117.02
+Sugarcane,Zaid,Uttar Pradesh,Drip,44.49,1268.1,33.2,61.9,64.58,2873.16
+Wheat,Zaid,Haryana,Sprinkler,17.94,301.8,25.0,164.2,3.62,64.94
+Sugarcane,Kharif,West Bengal,Sprinkler,33.14,1545.5,15.5,185.3,70.61,2340.02
+Soybean,Zaid,West Bengal,Rainfed,19.37,803.8,19.6,136.5,1.95,37.77
+Mustard,Zaid,Karnataka,Drip,13.68,744.0,32.6,80.1,1.62,22.16
+Wheat,Whole Year,Maharashtra,Rainfed,49.99,1338.4,27.0,87.9,2.33,116.48
+Maize,Zaid,Karnataka,Canal,39.6,847.1,23.8,199.7,3.28,129.89
+Mustard,Zaid,West Bengal,Drip,20.46,979.8,15.9,180.9,2.1,42.97
+Maize,Whole Year,Karnataka,Sprinkler,6.0,1537.0,27.4,212.2,2.56,15.36
+Potato,Rabi,Tamil Nadu,Sprinkler,45.11,487.0,15.2,70.8,24.66,1112.41
+Potato,Whole Year,Andhra Pradesh,Sprinkler,22.87,817.9,29.1,179.1,25.65,586.62
+Soybean,Whole Year,Gujarat,Rainfed,47.31,542.7,17.3,235.9,2.66,125.84
+Sugarcane,Kharif,Haryana,Tube Well,39.76,1486.2,35.0,66.9,59.9,2381.62
+Wheat,Kharif,Andhra Pradesh,Tube Well,45.82,509.4,33.2,152.5,3.19,146.17
+Groundnut,Kharif,Andhra Pradesh,Sprinkler,6.07,685.9,24.0,145.8,2.25,13.66
+Maize,Whole Year,Andhra Pradesh,Drip,23.27,1594.3,22.8,68.8,3.04,70.74
+Wheat,Kharif,West Bengal,Sprinkler,39.86,276.8,29.1,65.8,3.34,133.13
+Mustard,Zaid,Punjab,Sprinkler,9.36,551.3,32.1,125.4,2.26,21.15
+Cotton,Kharif,West Bengal,Tube Well,43.17,211.3,34.6,199.2,2.51,108.36
+Tomato,Zaid,Haryana,Sprinkler,46.89,1095.9,32.6,174.1,22.57,1058.31
+Cotton,Rabi,West Bengal,Rainfed,20.72,409.8,23.7,112.1,1.69,35.02
+Cotton,Rabi,Punjab,Canal,6.43,317.9,25.5,59.9,2.39,15.37
+Cotton,Zaid,Gujarat,Sprinkler,31.43,264.3,33.6,63.6,2.09,65.69
+Sugarcane,Whole Year,Karnataka,Rainfed,30.8,492.1,24.2,188.0,80.02,2464.62
+Rice,Rabi,Haryana,Rainfed,29.2,735.5,21.8,220.4,3.98,116.22
+Wheat,Zaid,Punjab,Drip,17.07,681.9,27.6,102.4,3.9,66.57
+Tomato,Zaid,Tamil Nadu,Tube Well,7.62,837.2,16.3,55.6,21.31,162.38
+Cotton,Zaid,Karnataka,Canal,32.12,704.8,20.8,213.0,2.98,95.72
+Wheat,Whole Year,Haryana,Drip,5.44,1323.1,31.9,173.8,4.01,21.81
+Groundnut,Whole Year,Maharashtra,Rainfed,7.9,812.2,32.2,196.6,2.13,16.83
+Cotton,Rabi,Haryana,Tube Well,19.69,422.3,15.8,102.9,1.94,38.2
+Groundnut,Kharif,Karnataka,Tube Well,46.08,1247.5,32.7,210.9,1.69,77.88
+Rice,Whole Year,Karnataka,Tube Well,39.47,920.2,22.0,215.5,3.83,151.17
+Maize,Whole Year,Madhya Pradesh,Canal,5.71,595.3,22.2,218.7,4.29,24.5
+Cotton,Zaid,Haryana,Sprinkler,43.38,389.9,22.1,105.0,2.22,96.3
+Mustard,Zaid,Punjab,Drip,39.66,1178.5,33.0,51.5,1.36,53.94
+Soybean,Rabi,Tamil Nadu,Sprinkler,7.38,890.5,24.3,205.7,2.36,17.42
+Tomato,Kharif,Karnataka,Rainfed,18.0,977.5,30.0,58.0,17.63,317.34
+Wheat,Zaid,Punjab,Rainfed,3.61,608.1,33.3,231.9,3.47,12.53
+Rice,Whole Year,Uttar Pradesh,Tube Well,47.46,1334.2,29.4,194.1,3.24,153.77
+Potato,Rabi,Maharashtra,Drip,47.11,254.8,21.1,60.3,21.71,1022.76
+Potato,Zaid,Tamil Nadu,Canal,9.06,1257.5,16.3,79.9,21.68,196.42
+Potato,Rabi,Haryana,Rainfed,11.8,334.1,32.8,179.9,22.65,267.27
+Maize,Rabi,Uttar Pradesh,Tube Well,14.41,1113.2,18.7,213.3,2.67,38.47
+Maize,Kharif,Maharashtra,Rainfed,6.69,1583.5,25.3,140.4,1.94,12.98
+Sugarcane,Whole Year,Maharashtra,Tube Well,16.19,1254.6,31.0,95.6,52.2,845.12
+Groundnut,Zaid,Tamil Nadu,Drip,20.08,535.0,26.7,107.8,2.89,58.03
+Rice,Zaid,Gujarat,Drip,16.12,404.1,22.2,177.0,4.18,67.38
+Maize,Zaid,Punjab,Tube Well,9.78,510.5,26.2,107.8,2.99,29.24
+Mustard,Kharif,Punjab,Drip,28.57,441.3,31.1,197.0,2.25,64.28
+Soybean,Zaid,Punjab,Drip,27.56,1244.8,15.8,241.5,2.77,76.34
+Cotton,Whole Year,Gujarat,Tube Well,44.7,300.2,22.4,161.4,2.1,93.87
+Sugarcane,Zaid,Haryana,Canal,41.44,1093.4,17.8,173.5,91.83,3805.44
+Tomato,Zaid,Tamil Nadu,Rainfed,33.98,298.5,32.1,174.8,26.8,910.66
+Potato,Kharif,Andhra Pradesh,Rainfed,28.46,1273.0,27.3,154.0,18.24,519.11
+Cotton,Zaid,Uttar Pradesh,Rainfed,23.34,405.3,18.2,194.2,2.11,49.25
+Rice,Kharif,Andhra Pradesh,Canal,18.43,1233.6,26.1,135.8,3.76,69.3
+Wheat,Zaid,Uttar Pradesh,Canal,22.18,567.4,24.9,139.3,4.46,98.92
+Maize,Whole Year,Punjab,Sprinkler,20.65,718.5,30.0,171.6,3.37,69.59
+Cotton,Rabi,Andhra Pradesh,Tube Well,25.94,1160.4,16.9,224.6,2.14,55.51
+Mustard,Zaid,Madhya Pradesh,Sprinkler,42.52,342.6,30.6,143.6,1.79,76.11
+Rice,Rabi,Karnataka,Rainfed,10.74,421.4,16.9,190.3,3.73,40.06
+Groundnut,Whole Year,Punjab,Canal,10.73,1597.8,22.3,231.0,2.24,24.04
+Sugarcane,Zaid,Madhya Pradesh,Drip,18.64,1363.5,30.6,105.3,79.84,1488.22
+Groundnut,Kharif,Maharashtra,Rainfed,4.87,1121.6,29.1,83.9,1.85,9.01
+Rice,Rabi,Maharashtra,Tube Well,6.3,769.3,33.5,127.3,3.89,24.51
+Potato,Zaid,Andhra Pradesh,Drip,23.75,1359.8,19.0,61.3,19.28,457.9
+Mustard,Rabi,Punjab,Sprinkler,39.14,1381.1,33.2,146.6,1.62,63.41
+Mustard,Rabi,Andhra Pradesh,Sprinkler,17.58,1391.7,25.4,233.1,1.77,31.12
+Rice,Whole Year,Gujarat,Sprinkler,23.38,1545.9,28.3,178.8,3.54,82.77
+Soybean,Rabi,Tamil Nadu,Sprinkler,4.8,642.2,32.3,181.3,3.08,14.78
+Rice,Whole Year,Karnataka,Drip,43.19,1443.2,18.3,193.1,4.17,180.1
+Groundnut,Zaid,Karnataka,Sprinkler,43.86,609.4,22.3,114.8,2.27,99.56
+Mustard,Kharif,Andhra Pradesh,Tube Well,45.9,675.7,15.6,85.7,1.24,56.92
+Tomato,Rabi,Uttar Pradesh,Sprinkler,1.82,662.8,16.8,234.1,34.9,63.52
+Sugarcane,Whole Year,Madhya Pradesh,Canal,39.68,345.7,19.3,57.6,73.84,2929.97
+Maize,Kharif,Uttar Pradesh,Drip,26.08,330.3,34.7,246.8,4.96,129.36
+Soybean,Rabi,Madhya Pradesh,Drip,45.11,307.7,17.8,102.2,2.85,128.56
+Mustard,Zaid,Maharashtra,Canal,19.71,1056.3,35.5,206.8,1.9,37.45
+Sugarcane,Whole Year,Uttar Pradesh,Tube Well,15.7,551.2,22.3,62.5,57.9,909.03
+Cotton,Rabi,Haryana,Drip,16.41,1395.9,30.0,215.3,2.47,40.53
+Sugarcane,Zaid,Maharashtra,Sprinkler,35.73,1594.7,29.6,75.7,66.16,2363.9
+Rice,Rabi,Haryana,Sprinkler,9.0,1426.3,34.6,130.0,3.28,29.52
+Rice,Rabi,Haryana,Drip,6.76,866.4,29.2,229.4,4.83,32.65
+Mustard,Whole Year,Madhya Pradesh,Tube Well,12.21,873.4,15.2,243.0,1.7,20.76
+Tomato,Rabi,West Bengal,Canal,13.86,349.4,34.7,99.0,27.72,384.2
+Rice,Zaid,Gujarat,Canal,42.34,1373.8,35.8,210.8,4.65,196.88
+Tomato,Whole Year,Haryana,Canal,11.3,1203.7,17.1,59.9,20.76,234.59
+Sugarcane,Kharif,Uttar Pradesh,Canal,43.56,956.2,32.6,55.1,69.22,3015.22
+Tomato,Kharif,Haryana,Rainfed,33.74,1309.3,30.6,54.0,16.97,572.57
+Wheat,Whole Year,Uttar Pradesh,Drip,21.99,629.3,20.3,86.5,3.71,81.58
+Sugarcane,Zaid,Tamil Nadu,Drip,46.29,632.5,28.7,56.4,80.0,3703.2
+Sugarcane,Kharif,Madhya Pradesh,Sprinkler,44.44,509.9,33.5,108.6,76.21,3386.77
+Tomato,Zaid,West Bengal,Drip,14.7,1514.7,30.9,120.0,25.09,368.82
+Potato,Kharif,Uttar Pradesh,Canal,12.98,355.4,25.2,58.2,24.24,314.64
+Wheat,Kharif,Karnataka,Tube Well,44.52,873.9,21.6,230.2,3.25,144.69
+Sugarcane,Zaid,West Bengal,Canal,20.12,1165.6,18.9,149.0,89.9,1808.79
+Soybean,Rabi,Gujarat,Rainfed,23.46,284.0,32.5,73.6,2.14,50.2
+Rice,Whole Year,Tamil Nadu,Tube Well,37.54,1172.5,24.2,233.6,3.89,146.03
+Soybean,Whole Year,Uttar Pradesh,Canal,47.69,509.4,30.3,239.1,3.7,176.45
+Potato,Rabi,Uttar Pradesh,Tube Well,41.07,1431.9,29.8,108.7,16.97,696.96
+Potato,Zaid,Gujarat,Canal,7.66,708.0,20.4,173.9,25.89,198.32
+Rice,Rabi,Karnataka,Drip,46.07,1302.0,28.2,231.8,4.52,208.24
+Mustard,Zaid,Tamil Nadu,Sprinkler,25.81,1062.5,16.3,56.5,1.25,32.26
+Rice,Kharif,Gujarat,Sprinkler,33.77,656.2,16.0,86.5,4.09,138.12
+Wheat,Kharif,West Bengal,Tube Well,28.53,1113.6,31.3,206.8,3.05,87.02
+Tomato,Zaid,Gujarat,Tube Well,21.15,1560.8,18.9,131.8,18.72,395.93
+Mustard,Zaid,Andhra Pradesh,Rainfed,18.0,1328.8,33.0,88.0,1.19,21.42
+Tomato,Rabi,Andhra Pradesh,Rainfed,6.97,257.1,31.3,116.1,22.4,156.13
+Tomato,Zaid,Andhra Pradesh,Sprinkler,49.75,864.6,29.3,231.6,31.95,1589.51
+Wheat,Rabi,Tamil Nadu,Sprinkler,46.73,820.3,22.4,148.2,3.26,152.34
+Tomato,Kharif,Karnataka,Rainfed,20.4,874.1,17.7,151.1,22.57,460.43
+Tomato,Whole Year,Maharashtra,Rainfed,19.06,1322.8,18.5,81.5,18.77,357.76
+Tomato,Kharif,Karnataka,Tube Well,46.8,364.3,20.3,235.9,27.61,1292.15
+Wheat,Rabi,Karnataka,Tube Well,42.42,1369.4,28.9,229.8,2.86,121.32
+Tomato,Kharif,Haryana,Canal,14.32,1171.0,29.0,221.3,28.56,408.98
+Tomato,Zaid,Gujarat,Sprinkler,42.7,1429.8,24.4,55.2,19.71,841.62
+Potato,Zaid,Andhra Pradesh,Tube Well,33.71,1040.5,15.0,112.5,17.98,606.11
+Soybean,Zaid,Maharashtra,Rainfed,43.45,597.5,17.1,91.0,1.97,85.6
+Soybean,Rabi,Maharashtra,Tube Well,16.66,983.8,22.2,212.9,2.14,35.65
+Tomato,Kharif,Tamil Nadu,Tube Well,17.98,255.9,22.9,184.3,25.17,452.56
+Potato,Zaid,Gujarat,Rainfed,16.68,1002.8,20.6,165.3,22.14,369.3
+Maize,Kharif,Karnataka,Drip,26.5,791.3,35.8,242.9,4.15,109.98
+Mustard,Whole Year,Maharashtra,Tube Well,42.81,661.9,32.2,248.9,1.64,70.21
+Groundnut,Rabi,Gujarat,Rainfed,27.16,1301.1,18.2,177.6,1.91,51.88
+Sugarcane,Whole Year,Karnataka,Sprinkler,17.94,867.2,21.5,112.0,82.72,1484.0
+Tomato,Kharif,Tamil Nadu,Sprinkler,1.22,415.5,15.1,169.5,32.51,39.66
+Wheat,Rabi,Haryana,Sprinkler,48.6,1458.3,34.9,71.2,2.97,144.34
+Tomato,Zaid,West Bengal,Sprinkler,30.42,525.8,31.2,178.8,33.6,1022.11
+Soybean,Zaid,Madhya Pradesh,Rainfed,31.41,1539.9,27.6,175.9,1.9,59.68
+Soybean,Whole Year,West Bengal,Tube Well,39.57,1223.2,27.1,84.0,1.79,70.83
+Potato,Rabi,Tamil Nadu,Canal,11.42,1474.7,33.9,108.7,18.88,215.61
+Wheat,Whole Year,Punjab,Rainfed,42.02,1377.3,23.6,78.3,2.48,104.21
+Sugarcane,Kharif,Uttar Pradesh,Rainfed,7.85,1363.0,29.5,141.3,56.36,442.43
+Potato,Kharif,Maharashtra,Drip,37.86,273.8,15.2,207.5,34.02,1288.0
+Mustard,Kharif,Uttar Pradesh,Sprinkler,3.86,541.6,34.1,76.6,1.74,6.72
+Rice,Zaid,Gujarat,Canal,22.82,1301.0,34.1,197.1,4.6,104.97
+Rice,Zaid,Punjab,Sprinkler,43.04,963.7,34.9,188.8,4.25,182.92
+Cotton,Zaid,Gujarat,Tube Well,37.76,1082.7,32.2,206.2,2.2,83.07
+Maize,Rabi,West Bengal,Canal,10.89,982.4,31.6,212.5,3.99,43.45
+Tomato,Whole Year,West Bengal,Sprinkler,27.98,1431.4,25.4,120.2,21.94,613.88
+Soybean,Kharif,Maharashtra,Rainfed,17.07,1391.0,28.1,207.2,2.06,35.16
+Groundnut,Kharif,Punjab,Sprinkler,38.13,1424.6,23.6,223.9,2.11,80.45
+Mustard,Zaid,Madhya Pradesh,Canal,15.6,753.9,16.5,238.5,2.29,35.72
+Potato,Rabi,Karnataka,Rainfed,32.7,1213.9,30.5,125.0,18.02,589.25
+Wheat,Whole Year,Andhra Pradesh,Rainfed,43.15,954.4,33.9,90.3,3.02,130.31
+Potato,Kharif,Haryana,Tube Well,21.68,1538.8,24.3,149.7,16.13,349.7
+Sugarcane,Kharif,Karnataka,Canal,41.33,1075.2,26.3,95.8,85.04,3514.7
+Groundnut,Kharif,Karnataka,Rainfed,20.07,544.6,30.8,177.9,2.29,45.96
+Soybean,Zaid,West Bengal,Rainfed,5.7,1514.1,26.8,121.4,1.63,9.29
+Soybean,Kharif,Andhra Pradesh,Rainfed,28.3,1524.4,18.8,137.2,1.68,47.54
+Tomato,Kharif,Tamil Nadu,Drip,45.58,740.5,15.2,194.2,31.28,1425.74
+Cotton,Zaid,Gujarat,Sprinkler,4.26,1412.3,19.3,244.3,2.53,10.78
+Maize,Zaid,Madhya Pradesh,Rainfed,20.68,1184.6,26.1,176.4,2.63,54.39
+Wheat,Kharif,Haryana,Drip,10.27,277.6,22.5,143.2,4.14,42.52
+Potato,Kharif,Haryana,Sprinkler,43.71,798.7,34.5,104.3,24.45,1068.71
+Maize,Rabi,Punjab,Drip,28.24,1125.7,20.9,115.7,2.93,82.74
+Tomato,Zaid,Haryana,Sprinkler,38.97,1504.9,27.3,134.1,22.25,867.08
+Mustard,Rabi,Andhra Pradesh,Tube Well,23.36,985.6,21.6,154.8,1.53,35.74
+Groundnut,Whole Year,Gujarat,Canal,20.08,1490.9,22.4,203.2,2.49,50.0
+Tomato,Whole Year,West Bengal,Tube Well,16.31,1408.3,33.3,129.7,16.15,263.41
+Soybean,Kharif,Madhya Pradesh,Sprinkler,26.07,1223.4,19.4,100.8,2.06,53.7
+Cotton,Rabi,Gujarat,Tube Well,27.79,386.1,24.4,75.5,1.94,53.91
+Maize,Kharif,Uttar Pradesh,Canal,43.5,1194.4,26.6,54.2,2.74,119.19
+Cotton,Rabi,Maharashtra,Drip,40.93,1364.8,33.6,155.6,2.22,90.86
+Mustard,Kharif,Madhya Pradesh,Drip,43.71,234.6,17.6,119.2,1.86,81.3
+Wheat,Kharif,Tamil Nadu,Rainfed,10.93,1024.9,26.9,154.9,2.66,29.07
+Cotton,Kharif,Andhra Pradesh,Drip,30.83,564.2,35.7,196.5,3.2,98.66
+Potato,Rabi,Andhra Pradesh,Tube Well,40.22,1232.0,31.3,113.6,18.06,726.37
+Maize,Kharif,West Bengal,Canal,32.83,779.6,15.3,187.8,3.4,111.62
+Tomato,Whole Year,Uttar Pradesh,Sprinkler,4.17,1433.8,28.5,172.1,23.32,97.24
+Potato,Kharif,West Bengal,Canal,2.08,1000.0,20.2,218.2,28.16,58.57
+Maize,Zaid,Tamil Nadu,Canal,28.29,748.4,26.6,225.7,4.57,129.29
+Sugarcane,Zaid,Haryana,Rainfed,1.31,800.6,17.0,73.3,67.46,88.37
+Groundnut,Rabi,Punjab,Tube Well,9.32,636.4,20.8,123.0,1.93,17.99
+Wheat,Whole Year,Madhya Pradesh,Rainfed,42.06,601.6,20.7,162.0,3.16,132.91
+Cotton,Whole Year,Maharashtra,Drip,3.61,1560.2,16.2,85.8,1.87,6.75
+Groundnut,Zaid,Punjab,Sprinkler,16.74,1001.7,30.1,146.3,2.3,38.5
+Soybean,Kharif,Andhra Pradesh,Tube Well,32.06,284.9,35.2,188.6,2.52,80.79
+Soybean,Rabi,West Bengal,Tube Well,33.25,645.5,19.7,66.2,1.92,63.84
+Sugarcane,Kharif,Uttar Pradesh,Tube Well,7.66,918.1,20.1,234.4,80.09,613.49
+Groundnut,Kharif,Maharashtra,Canal,20.06,387.6,29.5,131.4,2.61,52.36
+Rice,Zaid,Andhra Pradesh,Canal,20.74,1535.1,16.6,167.4,3.84,79.64
+Cotton,Rabi,Gujarat,Rainfed,13.97,1526.0,35.2,212.7,1.97,27.52
+Soybean,Whole Year,Andhra Pradesh,Canal,2.48,1168.7,31.6,88.2,2.39,5.93
+Mustard,Rabi,Karnataka,Canal,8.75,642.1,26.0,72.5,1.95,17.06
+Mustard,Kharif,Madhya Pradesh,Drip,13.37,1091.7,32.4,157.9,1.76,23.53
+Maize,Rabi,Karnataka,Canal,21.38,224.9,19.7,127.8,3.94,84.24
+Potato,Rabi,Punjab,Canal,35.41,593.6,26.9,82.1,23.72,839.93
+Wheat,Zaid,Karnataka,Canal,7.76,1067.5,34.8,61.5,3.29,25.53
+Maize,Zaid,West Bengal,Tube Well,1.77,540.9,30.6,121.1,3.01,5.33
+Potato,Kharif,Karnataka,Sprinkler,30.55,929.6,25.8,71.8,19.77,603.97
+Cotton,Rabi,Tamil Nadu,Sprinkler,36.46,648.1,32.5,97.8,2.43,88.6
+Tomato,Rabi,Andhra Pradesh,Tube Well,37.04,1412.0,35.3,54.5,16.85,624.12
+Tomato,Whole Year,Maharashtra,Tube Well,24.8,1375.7,31.1,149.7,15.33,380.18
+Groundnut,Kharif,West Bengal,Canal,45.44,703.6,15.6,83.7,2.48,112.69
+Cotton,Whole Year,Madhya Pradesh,Drip,37.2,455.9,25.5,91.0,2.44,90.77
+Groundnut,Rabi,Tamil Nadu,Canal,38.36,349.1,20.7,206.5,2.82,108.18
+Sugarcane,Kharif,West Bengal,Rainfed,12.05,969.8,31.8,169.9,64.18,773.37
+Sugarcane,Kharif,Andhra Pradesh,Canal,38.82,322.6,15.1,85.1,72.63,2819.5
+Potato,Zaid,Haryana,Rainfed,23.8,1357.3,15.7,135.4,17.65,420.07
+Soybean,Kharif,Maharashtra,Sprinkler,44.15,1429.7,23.3,239.7,2.47,109.05
+Sugarcane,Kharif,Tamil Nadu,Tube Well,48.51,367.8,25.7,162.8,64.48,3127.92
+Potato,Whole Year,Karnataka,Rainfed,45.02,1117.0,15.4,243.3,21.19,953.97
+Cotton,Kharif,Gujarat,Rainfed,27.97,993.1,19.0,215.5,2.23,62.37
+Cotton,Zaid,Maharashtra,Sprinkler,9.74,600.6,35.9,166.8,2.24,21.82
+Tomato,Rabi,Haryana,Canal,20.91,1522.4,23.9,167.2,25.64,536.13
+Mustard,Rabi,Karnataka,Tube Well,36.02,614.6,30.3,227.8,1.87,67.36
+Wheat,Kharif,Andhra Pradesh,Drip,10.38,1277.6,17.9,106.2,2.87,29.79
+Rice,Rabi,Haryana,Rainfed,46.17,1097.0,19.6,153.7,3.79,174.98
+Wheat,Kharif,Maharashtra,Drip,43.29,1083.9,30.2,188.9,4.13,178.79
+Wheat,Zaid,Maharashtra,Canal,43.45,972.7,26.6,114.1,3.06,132.96
+Soybean,Rabi,Haryana,Canal,34.17,573.4,29.5,172.4,3.35,114.47
+Maize,Rabi,Tamil Nadu,Tube Well,23.95,1512.6,16.6,120.1,2.23,53.41
+Maize,Rabi,Tamil Nadu,Tube Well,44.82,873.6,31.2,231.8,3.2,143.42
+Cotton,Zaid,Karnataka,Tube Well,35.56,789.5,16.8,52.3,1.56,55.47
+Wheat,Kharif,Uttar Pradesh,Rainfed,45.92,259.1,19.2,190.5,3.19,146.48
+Potato,Kharif,West Bengal,Canal,19.46,1501.9,19.1,147.5,22.17,431.43
+Sugarcane,Zaid,Karnataka,Rainfed,42.59,776.8,26.5,111.5,58.4,2487.26
+Sugarcane,Whole Year,Andhra Pradesh,Drip,22.18,1040.2,17.6,180.7,89.39,1982.67
+Soybean,Kharif,Maharashtra,Sprinkler,21.96,1057.0,27.9,171.4,2.75,60.39
+Rice,Kharif,Maharashtra,Rainfed,46.96,1001.3,28.5,165.8,3.61,169.53
+Sugarcane,Kharif,Andhra Pradesh,Canal,35.96,1042.9,15.8,204.9,96.02,3452.88
+Wheat,Kharif,Karnataka,Sprinkler,26.43,1081.3,16.6,243.3,3.92,103.61
+Potato,Rabi,West Bengal,Drip,28.84,561.6,28.4,184.6,30.15,869.53
+Maize,Rabi,Maharashtra,Tube Well,33.08,209.2,25.8,213.4,3.24,107.18
+Soybean,Zaid,Maharashtra,Rainfed,6.3,1404.3,17.5,67.4,1.5,9.45
+Cotton,Rabi,Haryana,Rainfed,4.97,847.6,23.3,200.4,2.39,11.88
+Cotton,Zaid,Uttar Pradesh,Rainfed,35.61,863.0,20.4,228.1,2.24,79.77
+Tomato,Kharif,Madhya Pradesh,Sprinkler,11.0,385.1,25.3,163.1,28.75,316.25
+Mustard,Whole Year,Maharashtra,Rainfed,34.85,783.3,25.8,192.5,1.68,58.55
+Potato,Zaid,West Bengal,Tube Well,1.91,984.1,32.2,86.0,21.09,40.28
+Rice,Rabi,Punjab,Drip,15.8,492.0,22.0,136.2,4.12,65.1
+Cotton,Kharif,Madhya Pradesh,Canal,2.28,1358.7,29.9,79.8,2.19,4.99
+Rice,Kharif,West Bengal,Drip,24.41,206.3,33.5,83.1,3.56,86.9
+Wheat,Rabi,Andhra Pradesh,Tube Well,20.07,268.3,28.4,184.2,3.21,64.42
+Wheat,Kharif,Tamil Nadu,Tube Well,28.1,369.4,15.4,205.7,3.79,106.5
+Sugarcane,Rabi,Haryana,Drip,9.4,905.6,18.3,217.2,79.67,748.9
+Maize,Zaid,Gujarat,Canal,40.83,1523.6,15.7,232.1,3.19,130.25
+Potato,Rabi,Gujarat,Drip,23.98,1365.4,19.7,185.7,23.48,563.05
+Groundnut,Whole Year,Karnataka,Canal,7.54,1332.5,28.8,83.2,2.23,16.81
+Potato,Kharif,Gujarat,Sprinkler,32.07,984.1,20.9,81.9,20.05,643.0
+Tomato,Kharif,West Bengal,Drip,36.47,264.9,26.5,118.6,27.81,1014.23
+Tomato,Whole Year,Madhya Pradesh,Sprinkler,9.08,1067.0,28.4,246.7,31.95,290.11
+Potato,Zaid,Maharashtra,Sprinkler,26.06,1518.8,28.0,192.8,22.19,578.27
+Potato,Whole Year,Tamil Nadu,Canal,42.63,1167.7,23.6,136.3,23.15,986.88
+Cotton,Rabi,Madhya Pradesh,Sprinkler,48.48,422.8,22.4,220.3,2.67,129.44
+Rice,Whole Year,Maharashtra,Sprinkler,20.12,768.7,20.5,122.2,4.02,80.88
+Wheat,Whole Year,Uttar Pradesh,Canal,28.62,398.6,15.1,65.9,4.49,128.5
+Maize,Kharif,Madhya Pradesh,Canal,14.75,871.5,24.7,231.1,4.34,64.02
+Sugarcane,Zaid,Karnataka,Canal,14.8,911.8,18.2,184.3,97.08,1436.78
+Maize,Whole Year,Tamil Nadu,Drip,10.93,1025.1,30.6,246.5,3.84,41.97
+Groundnut,Whole Year,Gujarat,Canal,9.18,292.3,18.0,196.4,2.89,26.53
+Tomato,Kharif,Gujarat,Rainfed,28.92,1478.0,21.2,90.7,15.41,445.66
+Sugarcane,Rabi,West Bengal,Sprinkler,21.15,705.8,29.8,68.4,79.91,1690.1
+Soybean,Zaid,Karnataka,Drip,12.73,751.1,18.8,151.8,2.84,36.15
+Rice,Whole Year,Maharashtra,Rainfed,43.92,286.6,23.2,168.2,3.2,140.54
+Sugarcane,Zaid,Gujarat,Canal,49.36,781.6,16.4,132.2,89.58,4421.67
+Wheat,Whole Year,Karnataka,Tube Well,2.76,334.2,20.9,119.7,3.01,8.31
+Potato,Zaid,Haryana,Canal,14.96,1281.0,15.2,234.8,28.53,426.81
+Cotton,Kharif,Uttar Pradesh,Canal,19.46,954.6,18.2,185.0,2.54,49.43
+Soybean,Whole Year,Andhra Pradesh,Tube Well,6.35,1477.0,21.9,196.7,1.67,10.6
+Wheat,Whole Year,Tamil Nadu,Tube Well,34.29,1380.9,19.2,133.7,2.93,100.47
+Sugarcane,Kharif,Tamil Nadu,Sprinkler,48.11,1160.3,30.1,180.2,84.02,4042.2
+Sugarcane,Whole Year,Maharashtra,Canal,38.96,1458.3,33.9,102.3,77.73,3028.36
+Potato,Whole Year,Punjab,Rainfed,40.65,287.1,32.5,105.0,21.66,880.48
+Wheat,Kharif,Madhya Pradesh,Sprinkler,49.48,628.5,26.6,143.2,3.75,185.55
+Rice,Whole Year,West Bengal,Drip,1.81,1554.7,31.1,238.2,3.59,6.5
+Mustard,Whole Year,Gujarat,Drip,2.11,239.8,30.0,236.1,2.49,5.25
+Soybean,Kharif,Tamil Nadu,Tube Well,24.69,1332.6,31.8,151.4,2.0,49.38
+Potato,Zaid,Tamil Nadu,Tube Well,29.94,512.5,26.2,155.2,21.53,644.61
+Maize,Zaid,Uttar Pradesh,Sprinkler,10.56,456.0,20.5,110.5,3.39,35.8
+Wheat,Rabi,Maharashtra,Rainfed,24.31,1379.3,22.7,119.2,2.65,64.42
+Cotton,Whole Year,Madhya Pradesh,Tube Well,21.37,1081.4,17.6,160.3,2.11,45.09
+Maize,Rabi,Karnataka,Rainfed,18.55,873.9,27.6,111.0,2.71,50.27
+Potato,Whole Year,Madhya Pradesh,Drip,40.89,1074.0,33.1,82.0,25.16,1028.79
+Rice,Rabi,Karnataka,Drip,49.59,1096.0,18.3,51.3,3.81,188.94
+Cotton,Whole Year,Tamil Nadu,Tube Well,29.58,1050.6,19.4,117.4,1.91,56.5
+Groundnut,Whole Year,Haryana,Sprinkler,28.67,1262.8,24.9,126.8,1.99,57.05
+Potato,Zaid,Andhra Pradesh,Sprinkler,20.73,713.0,29.0,177.3,28.94,599.93
+Wheat,Whole Year,Maharashtra,Tube Well,46.14,653.9,21.1,103.1,2.98,137.5
+Mustard,Kharif,Maharashtra,Drip,40.3,1507.5,20.7,76.0,1.33,53.6
+Soybean,Whole Year,Uttar Pradesh,Rainfed,32.5,267.3,16.5,181.1,2.23,72.47
+Groundnut,Whole Year,Madhya Pradesh,Drip,29.26,716.3,19.9,172.5,2.67,78.12
+Soybean,Whole Year,Gujarat,Canal,30.32,365.5,31.3,243.1,4.12,124.92
+Tomato,Rabi,Uttar Pradesh,Drip,12.25,1313.6,34.7,136.4,24.82,304.05
+Maize,Whole Year,Tamil Nadu,Canal,39.2,1382.4,29.4,219.8,3.05,119.56
+Wheat,Whole Year,Haryana,Sprinkler,38.9,436.5,23.4,120.1,4.19,162.99
+Maize,Zaid,Uttar Pradesh,Drip,25.38,1316.2,16.2,140.8,3.19,80.96
+Groundnut,Rabi,Punjab,Drip,39.07,1093.2,31.4,59.9,2.1,82.05
+Tomato,Whole Year,Uttar Pradesh,Sprinkler,3.78,1215.4,23.6,238.2,27.88,105.39
+Groundnut,Whole Year,Punjab,Sprinkler,34.45,305.1,18.0,222.9,2.78,95.77
+Mustard,Rabi,Tamil Nadu,Sprinkler,23.1,1417.5,19.4,109.0,1.28,29.57
+Mustard,Rabi,Punjab,Rainfed,7.96,903.2,30.9,88.3,1.39,11.06
+Potato,Whole Year,Haryana,Drip,16.03,505.1,25.6,78.2,22.71,364.04
+Tomato,Zaid,Andhra Pradesh,Rainfed,47.72,1242.6,27.9,145.5,19.12,912.41
+Rice,Zaid,Tamil Nadu,Drip,1.39,1169.5,25.7,230.5,5.02,6.98
+Wheat,Zaid,Tamil Nadu,Sprinkler,5.05,800.0,34.4,186.0,3.26,16.46
+Soybean,Whole Year,Haryana,Tube Well,28.37,1477.4,19.7,227.7,1.89,53.62
+Groundnut,Kharif,Punjab,Rainfed,5.06,975.9,20.4,141.6,1.92,9.72
+Cotton,Kharif,Maharashtra,Drip,14.82,235.8,25.7,221.2,2.93,43.42
+Mustard,Rabi,West Bengal,Drip,45.03,389.1,31.1,119.3,1.74,78.35
+Maize,Whole Year,Haryana,Tube Well,34.66,1263.5,22.2,162.7,2.79,96.7
+Rice,Kharif,Uttar Pradesh,Tube Well,3.23,475.0,24.2,149.0,3.21,10.37
+Tomato,Rabi,Andhra Pradesh,Tube Well,30.61,1504.5,19.8,92.2,17.6,538.74
+Groundnut,Zaid,Tamil Nadu,Rainfed,16.04,516.5,26.7,203.0,2.27,36.41
+Potato,Kharif,Tamil Nadu,Drip,17.19,1416.4,30.2,192.5,26.08,448.32
+Maize,Zaid,Gujarat,Canal,15.09,369.9,23.8,53.4,3.19,48.14
+Groundnut,Zaid,Maharashtra,Drip,24.76,1116.4,19.7,66.3,2.26,55.96
+Soybean,Whole Year,Punjab,Drip,49.89,1284.0,19.6,199.6,2.56,127.72
+Sugarcane,Whole Year,Punjab,Sprinkler,35.4,1154.4,15.2,223.0,81.45,2883.33
+Cotton,Zaid,Gujarat,Drip,32.71,970.1,20.7,70.9,2.45,80.14
+Sugarcane,Zaid,Madhya Pradesh,Sprinkler,17.04,329.4,15.7,140.4,76.85,1309.52
+Groundnut,Whole Year,Maharashtra,Tube Well,9.83,1157.8,34.3,53.9,1.68,16.51
+Sugarcane,Whole Year,Andhra Pradesh,Tube Well,42.91,302.5,16.9,133.4,65.59,2814.47
+Groundnut,Zaid,Maharashtra,Sprinkler,31.16,1388.1,20.9,202.7,2.26,70.42
+Wheat,Whole Year,Haryana,Canal,47.29,807.9,19.2,157.2,4.69,221.79
+Groundnut,Kharif,Maharashtra,Sprinkler,49.08,1485.4,23.6,82.2,1.72,84.42
+Groundnut,Kharif,West Bengal,Canal,35.29,471.5,25.3,112.5,2.66,93.87
+Cotton,Kharif,Madhya Pradesh,Tube Well,34.69,409.3,25.0,165.4,2.02,70.07
+Sugarcane,Whole Year,West Bengal,Drip,6.93,409.8,23.7,77.1,74.33,515.11
+Tomato,Zaid,Madhya Pradesh,Drip,19.54,664.2,15.2,83.9,27.5,537.35
+Maize,Whole Year,Punjab,Canal,4.19,338.8,24.6,171.9,4.06,17.01
+Rice,Kharif,West Bengal,Tube Well,45.19,289.4,32.0,128.5,3.06,138.28
+Sugarcane,Rabi,Gujarat,Canal,12.73,270.8,29.6,90.9,76.22,970.28
+Maize,Whole Year,Karnataka,Canal,41.84,355.1,31.0,105.7,3.11,130.12
+Sugarcane,Rabi,Haryana,Rainfed,37.8,730.7,27.4,211.1,74.13,2802.11
+Groundnut,Kharif,Madhya Pradesh,Sprinkler,30.69,300.3,22.0,117.9,2.07,63.53
+Wheat,Whole Year,Madhya Pradesh,Drip,1.89,523.8,22.0,98.2,4.31,8.15
+Maize,Rabi,Punjab,Rainfed,26.3,558.8,20.5,225.5,3.65,96.0
+Maize,Kharif,Uttar Pradesh,Rainfed,21.15,1351.1,19.5,236.2,2.98,63.03
+Rice,Kharif,Uttar Pradesh,Drip,41.63,477.0,20.0,63.0,4.35,181.09
+Groundnut,Zaid,Madhya Pradesh,Sprinkler,6.66,700.5,34.1,246.2,2.64,17.58
+Potato,Zaid,Uttar Pradesh,Canal,41.34,913.6,21.7,53.9,23.54,973.14
+Soybean,Zaid,Haryana,Drip,8.3,1003.9,22.2,127.6,2.63,21.83
+Sugarcane,Zaid,Madhya Pradesh,Rainfed,17.22,376.6,34.3,237.7,77.6,1336.27
+Groundnut,Kharif,West Bengal,Tube Well,17.67,381.8,19.7,66.7,1.64,28.98
+Groundnut,Whole Year,Karnataka,Rainfed,33.93,1435.5,16.8,247.8,1.93,65.48
+Tomato,Rabi,West Bengal,Drip,44.43,1034.7,21.0,238.1,33.93,1507.51
+Maize,Kharif,Gujarat,Canal,15.54,855.0,31.0,249.5,4.61,71.64
+Cotton,Kharif,Madhya Pradesh,Tube Well,31.24,943.7,35.3,114.6,1.9,59.36
+Wheat,Rabi,West Bengal,Canal,9.04,518.3,18.3,193.7,4.72,42.67
+Rice,Kharif,Gujarat,Sprinkler,7.28,1323.2,34.3,161.9,3.85,28.03
+Tomato,Zaid,West Bengal,Sprinkler,24.47,383.0,33.4,207.0,32.17,787.2
+Soybean,Zaid,Punjab,Tube Well,44.6,450.9,33.1,60.3,2.15,95.89
+Tomato,Whole Year,Tamil Nadu,Tube Well,9.56,571.5,26.0,101.1,23.57,225.33
+Mustard,Zaid,Andhra Pradesh,Tube Well,7.81,1593.0,32.3,127.3,1.31,10.23
+Mustard,Kharif,Punjab,Drip,38.81,958.8,15.1,94.7,1.86,72.19
+Groundnut,Zaid,Karnataka,Sprinkler,44.76,526.7,22.7,66.6,2.31,103.4
+Cotton,Kharif,Gujarat,Canal,45.38,1166.9,31.5,187.1,2.7,122.53
+Maize,Zaid,Andhra Pradesh,Drip,38.23,364.0,16.9,148.3,4.12,157.51
+Sugarcane,Whole Year,Madhya Pradesh,Drip,14.12,1034.0,25.9,137.7,73.38,1036.13
+Potato,Zaid,Gujarat,Canal,27.13,1561.3,30.5,191.2,26.12,708.64
+Groundnut,Rabi,Tamil Nadu,Tube Well,15.86,387.3,21.6,142.7,2.53,40.13
+Rice,Zaid,Uttar Pradesh,Rainfed,37.37,1458.9,31.1,53.2,2.51,93.8
+Wheat,Whole Year,Tamil Nadu,Sprinkler,49.65,805.4,33.8,168.4,3.97,197.11
+Cotton,Whole Year,Tamil Nadu,Sprinkler,1.79,982.5,22.3,60.2,2.32,4.15
+Potato,Kharif,Uttar Pradesh,Drip,44.42,781.6,31.8,195.9,26.59,1181.13
+Mustard,Zaid,Madhya Pradesh,Tube Well,10.1,558.4,35.9,228.5,2.05,20.7
+Soybean,Whole Year,West Bengal,Sprinkler,11.35,1300.3,25.6,100.7,2.17,24.63
+Tomato,Kharif,Karnataka,Drip,13.9,466.4,23.0,73.5,26.34,366.13
+Wheat,Rabi,West Bengal,Drip,16.51,1297.0,17.4,209.6,3.92,64.72
+Tomato,Zaid,Tamil Nadu,Canal,17.88,456.1,20.3,193.5,38.11,681.41
+Mustard,Zaid,Haryana,Rainfed,23.5,213.3,34.4,168.5,1.43,33.6
+Sugarcane,Rabi,Maharashtra,Drip,38.29,844.1,16.7,176.8,79.46,3042.52
+Potato,Whole Year,Punjab,Tube Well,22.89,1150.5,32.9,148.3,18.26,417.97
+Maize,Kharif,West Bengal,Tube Well,25.31,299.4,26.1,54.8,2.48,62.77
+Soybean,Kharif,Gujarat,Drip,34.74,811.2,27.5,243.7,2.66,92.41
+Cotton,Rabi,Maharashtra,Drip,1.5,733.8,26.9,230.2,3.08,4.62
+Tomato,Kharif,Uttar Pradesh,Sprinkler,20.63,1251.4,33.2,60.7,21.38,441.07
+Maize,Kharif,Gujarat,Rainfed,37.92,296.7,33.1,91.0,2.86,108.45
+Soybean,Whole Year,Tamil Nadu,Tube Well,17.14,206.9,15.9,203.6,2.32,39.76
+Cotton,Whole Year,Haryana,Tube Well,43.68,201.7,30.5,229.6,2.05,89.54
+Mustard,Rabi,Maharashtra,Sprinkler,18.98,1049.3,23.3,223.6,1.6,30.37
+Cotton,Kharif,Punjab,Rainfed,23.62,559.9,28.1,117.7,1.94,45.82
+Maize,Rabi,Madhya Pradesh,Drip,45.3,1272.4,20.0,97.1,3.02,136.81
+Rice,Rabi,Uttar Pradesh,Rainfed,31.01,578.8,18.8,218.3,3.67,113.81
+Mustard,Zaid,Karnataka,Canal,23.53,975.0,23.7,100.0,1.83,43.06
+Potato,Whole Year,Andhra Pradesh,Rainfed,32.82,949.5,16.2,134.6,17.74,582.23
+Mustard,Rabi,Gujarat,Sprinkler,48.01,1299.4,32.1,132.1,1.53,73.46
+Tomato,Rabi,West Bengal,Sprinkler,18.94,335.6,18.2,192.1,27.19,514.98
+Tomato,Zaid,Gujarat,Sprinkler,8.54,469.9,17.6,152.9,28.23,241.08
+Groundnut,Rabi,Punjab,Rainfed,11.49,898.1,35.5,222.6,2.05,23.55
+Cotton,Zaid,Andhra Pradesh,Canal,23.19,453.1,15.3,225.1,3.07,71.19
+Wheat,Whole Year,Gujarat,Tube Well,41.12,1060.2,21.2,142.3,2.86,117.6
+Maize,Rabi,Gujarat,Rainfed,22.73,526.3,18.2,118.1,2.99,67.96
+Potato,Whole Year,Andhra Pradesh,Tube Well,18.82,1074.3,32.8,52.0,16.91,318.25
+Soybean,Zaid,Punjab,Canal,4.41,313.6,27.6,149.3,2.84,12.52
+Wheat,Whole Year,Maharashtra,Drip,31.76,672.6,23.1,180.4,4.62,146.73
+Cotton,Whole Year,Gujarat,Canal,34.86,296.8,27.6,228.9,3.02,105.28
+Wheat,Whole Year,Punjab,Drip,38.92,533.0,35.2,78.0,4.21,163.85
+Rice,Kharif,West Bengal,Canal,20.69,1074.4,23.4,58.3,4.2,86.9
+Cotton,Whole Year,Uttar Pradesh,Rainfed,3.58,1085.6,22.0,101.5,1.98,7.09
+Rice,Zaid,West Bengal,Canal,38.33,338.1,35.6,225.0,4.77,182.83
+Soybean,Whole Year,Maharashtra,Drip,35.56,677.0,35.4,247.7,3.42,121.62
+Groundnut,Zaid,Andhra Pradesh,Rainfed,8.61,220.0,34.1,61.2,1.88,16.19
+Potato,Rabi,Karnataka,Canal,18.2,205.1,23.3,210.9,29.39,534.9
+Cotton,Zaid,Uttar Pradesh,Sprinkler,6.09,1406.4,25.6,156.1,2.14,13.03
+Sugarcane,Whole Year,Andhra Pradesh,Drip,32.76,1270.8,25.0,199.6,90.53,2965.76
+Tomato,Rabi,Karnataka,Canal,37.73,941.2,22.4,139.2,28.39,1071.15
+Maize,Whole Year,Tamil Nadu,Tube Well,25.77,562.6,27.9,154.1,3.19,82.21
+Cotton,Kharif,West Bengal,Tube Well,49.51,1229.1,22.5,68.7,1.8,89.12
+Tomato,Rabi,West Bengal,Sprinkler,7.0,969.6,35.7,115.2,26.05,182.35
+Wheat,Whole Year,Tamil Nadu,Sprinkler,20.15,317.0,15.4,125.2,3.68,74.15
+Groundnut,Zaid,Gujarat,Tube Well,23.39,1445.3,18.1,200.8,1.68,39.3
+Cotton,Kharif,Karnataka,Rainfed,45.49,624.2,19.2,145.7,2.08,94.62
+Potato,Whole Year,Tamil Nadu,Drip,49.34,981.3,31.5,92.4,26.56,1310.47
+Soybean,Zaid,Madhya Pradesh,Tube Well,41.06,420.3,35.4,235.8,3.21,131.8
+Rice,Zaid,Haryana,Drip,21.58,963.0,24.6,54.6,3.4,73.37
+Wheat,Kharif,Gujarat,Sprinkler,10.87,1226.5,32.5,247.8,4.04,43.91
+Wheat,Whole Year,Punjab,Rainfed,38.22,1399.7,28.9,246.0,3.11,118.86
+Rice,Rabi,Punjab,Tube Well,47.25,732.3,30.2,132.1,3.49,164.9
+Cotton,Zaid,Tamil Nadu,Sprinkler,25.73,225.6,32.1,145.4,2.55,65.61
+Potato,Kharif,Punjab,Tube Well,45.96,1539.1,17.9,96.0,14.62,671.94
+Potato,Kharif,Uttar Pradesh,Drip,8.77,671.2,34.9,242.5,33.01,289.5
+Sugarcane,Whole Year,Karnataka,Tube Well,26.98,1088.2,30.4,69.4,61.6,1661.97
+Groundnut,Rabi,Madhya Pradesh,Canal,14.16,790.7,21.1,68.2,2.36,33.42
+Groundnut,Rabi,West Bengal,Sprinkler,17.18,898.9,33.6,87.2,1.88,32.3
+Sugarcane,Zaid,Karnataka,Drip,40.8,402.5,32.1,166.8,91.32,3725.86
+Wheat,Zaid,Uttar Pradesh,Canal,45.58,1165.7,31.7,236.3,4.75,216.5
+Groundnut,Whole Year,Madhya Pradesh,Drip,12.3,900.0,15.3,174.9,2.88,35.42
+Tomato,Whole Year,Karnataka,Sprinkler,31.01,264.4,29.6,161.6,30.7,952.01
+Sugarcane,Zaid,Gujarat,Canal,16.62,1375.5,31.3,130.0,71.09,1181.52
+Sugarcane,Kharif,Punjab,Rainfed,27.24,1584.0,30.7,74.1,57.83,1575.29
+Wheat,Rabi,Gujarat,Tube Well,27.08,1058.5,33.7,92.1,2.65,71.76
+Cotton,Kharif,Maharashtra,Canal,28.09,498.5,29.1,59.2,2.45,68.82
+Groundnut,Whole Year,Andhra Pradesh,Canal,29.49,553.6,29.0,184.3,3.06,90.24
+Tomato,Whole Year,Maharashtra,Rainfed,15.2,710.0,16.2,154.7,23.8,361.76
+Maize,Rabi,Uttar Pradesh,Sprinkler,2.56,1367.3,20.3,66.2,2.49,6.37
+Cotton,Rabi,West Bengal,Canal,37.9,1298.2,17.9,106.1,2.19,83.0
+Sugarcane,Zaid,Uttar Pradesh,Canal,5.65,521.3,28.6,106.6,73.68,416.29
+Tomato,Zaid,West Bengal,Tube Well,49.59,419.7,24.2,244.0,27.92,1384.55
+Groundnut,Whole Year,Uttar Pradesh,Canal,12.91,305.4,15.9,239.7,2.84,36.66
+Sugarcane,Zaid,Haryana,Canal,33.85,1068.9,26.4,84.9,71.89,2433.48
+Mustard,Zaid,Karnataka,Rainfed,49.32,738.8,20.5,228.9,1.94,95.68
+Potato,Kharif,Haryana,Drip,22.4,537.0,28.6,240.9,34.05,762.72
+Soybean,Zaid,Punjab,Canal,6.52,702.4,25.4,180.6,3.13,20.41
+Wheat,Zaid,West Bengal,Sprinkler,6.6,309.6,25.5,203.1,4.16,27.46
+Rice,Kharif,Haryana,Drip,16.01,856.3,29.4,71.8,4.37,69.96
+Tomato,Whole Year,Punjab,Canal,42.22,816.6,28.4,81.9,25.37,1071.12
+Potato,Kharif,Gujarat,Sprinkler,39.73,661.4,26.8,148.5,25.6,1017.09
+Groundnut,Zaid,Haryana,Rainfed,25.48,421.7,35.0,82.3,1.89,48.16
+Potato,Zaid,Punjab,Rainfed,48.69,943.8,30.4,120.1,17.59,856.46
+Cotton,Rabi,Gujarat,Tube Well,40.84,531.2,19.8,67.6,1.96,80.05
+Wheat,Whole Year,West Bengal,Sprinkler,45.29,409.4,30.8,164.7,4.22,191.12
+Groundnut,Kharif,Andhra Pradesh,Drip,11.24,1477.5,30.4,68.1,2.03,22.82
+Groundnut,Zaid,West Bengal,Sprinkler,41.8,315.0,19.1,145.1,2.59,108.26
+Tomato,Rabi,Haryana,Rainfed,32.8,1284.6,16.3,57.4,16.04,526.11
+Sugarcane,Zaid,Karnataka,Tube Well,14.05,563.2,26.8,83.4,61.44,863.23
+Sugarcane,Zaid,Andhra Pradesh,Drip,32.06,444.8,31.0,88.0,80.45,2579.23
+Mustard,Zaid,Gujarat,Canal,42.76,546.3,27.6,167.8,1.97,84.24
+Sugarcane,Whole Year,Uttar Pradesh,Rainfed,15.73,547.7,30.8,196.7,66.78,1050.45
