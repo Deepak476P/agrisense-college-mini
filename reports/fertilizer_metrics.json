@@ -1,0 +1,159 @@
+{
+  "dataset": "fertilizer_data.csv",
+  "data_type": "synthetic",
+  "seed": 42,
+  "train_rows": 960,
+  "test_rows": 240,
+  "selected_model": "Decision Tree",
+  "cv_metric": "macro F1 (higher is better)",
+  "comparison": [
+    {
+      "model": "Dummy baseline",
+      "cv_score": 0.08132828075301708,
+      "cv_std": 0.00021522372313884872
+    },
+    {
+      "model": "Decision Tree",
+      "cv_score": 0.9862489828164884,
+      "cv_std": 0.0032725232972719096
+    },
+    {
+      "model": "Random Forest",
+      "cv_score": 0.860801722254923,
+      "cv_std": 0.018293641448730188
+    }
+  ],
+  "accuracy": 1.0,
+  "macro_f1": 1.0,
+  "classification_report": {
+    "10-26-26": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 8.0
+    },
+    "14-35-14": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 13.0
+    },
+    "17-17-17": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 8.0
+    },
+    "20-20": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 95.0
+    },
+    "28-28-0": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 29.0
+    },
+    "DAP": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 52.0
+    },
+    "Urea": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 35.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 240.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 240.0
+    }
+  },
+  "labels": [
+    "10-26-26",
+    "14-35-14",
+    "17-17-17",
+    "20-20",
+    "28-28-0",
+    "DAP",
+    "Urea"
+  ],
+  "confusion_matrix": [
+    [
+      8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      13,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      8,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      95,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      29,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      52,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      35
+    ]
+  ]
+}

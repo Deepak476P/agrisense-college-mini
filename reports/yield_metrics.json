@@ -1,0 +1,41 @@
+{
+  "dataset": "crop_yield_data.csv",
+  "data_type": "synthetic",
+  "seed": 42,
+  "train_rows": 2000,
+  "test_rows": 500,
+  "selected_model": "Random Forest",
+  "cv_metric": "MAE in tons/ha (lower is better)",
+  "comparison": [
+    {
+      "model": "Dummy baseline",
+      "cv_score": 13.383330106718413,
+      "cv_std": 0.39643711210298116
+    },
+    {
+      "model": "Decision Tree",
+      "cv_score": 1.7652931558108926,
+      "cv_std": 0.10536392765642986
+    },
+    {
+      "model": "Random Forest",
+      "cv_score": 1.3020153245449348,
+      "cv_std": 0.08637707222005338
+    }
+  ],
+  "r2": 0.9870693719888198,
+  "mae": 1.0977078333333325,
+  "rmse": 2.6471304162794187,
+  "mae_by_crop": {
+    "Cotton": 0.16471833333333363,
+    "Groundnut": 0.17237908496732027,
+    "Maize": 0.2796180555555556,
+    "Mustard": 0.1370015151515152,
+    "Potato": 1.727593971631205,
+    "Rice": 0.2859090909090911,
+    "Soybean": 0.204892628205128,
+    "Sugarcane": 6.137697916666656,
+    "Tomato": 1.8228469696969714,
+    "Wheat": 0.23103758169934696
+  }
+}
